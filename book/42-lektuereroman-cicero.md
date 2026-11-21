@@ -29,7 +29,7 @@ Nach diesem Kapitel kannst du:
 
 > **Cicero, *Tusculanae disputationes* I.9–11** (45 v. Chr.) — „Der Tod scheint mir ein Übel zu sein.“
 
-Cicero hat sich in *Tusculum*, seiner villa bei Tusculum, mit Freunden zu philosophischen Gesprächen versammelt. Jedes Buch beginnt mit einem **Problem** und endet mit der Auflösung. Wir lesen den Anfang des ersten Buches.
+Cicero hat sich in *Tusculum*, seiner Villa südlich von Rom, mit Freunden zu philosophischen Gesprächen versammelt. Jedes Buch beginnt mit einem **Problem** und endet mit der Auflösung. Wir lesen den Anfang des ersten Buches.
 
 ```
 MALUM mihi videtur esse mors.  Iisne, qui mortui

@@ -28,9 +28,9 @@ Nach diesem Kapitel kannst du:
 **coniūnctio, -ōnis** *f.* — Verbindung, Verwandtschaft
 :::
 
-## Textus VI — Ab urbe condita I.1–1.8
+## Textus VI — Ab urbe condita I.1–I.4
 
-> **Livius, *Ab urbe condita* I.1–1.8** (ca. 27 v. Chr. – 14 n. Chr.) — „Vom Ursprung der Stadt Roms"
+> **Livius, *Ab urbe condita* I.1–I.4** (ca. 27 v. Chr. – 14 n. Chr.) — „Vom Ursprung der Stadt Roms"
 
 ```
 IAM PRIMUM omnium satis constat Troia capta in ceteros saevitum
@@ -65,9 +65,8 @@ condendaeque urbi locum quaerere, et nobilitatem admiratum gentis
 virique et animum vel bello vel paci paratum, dextra data fidem
 futurae amicitiae sanxisse.
 
-INDE foedus ictum inter duces, inter exerecentes et iubentes
-nummos, quod conditione stands [scriptumque] est, toto eo die
-celebratum.
+INDE foedus ictum inter duces, inter exercitus salutationem
+factam.
 ```
 
 ### Vokabelhilfe
@@ -96,9 +95,9 @@ celebratum.
 | *percontari* | ausfragen |
 | *cremata patria* | mit der Heimat verbrannt |
 | *sanxisse* | bekräftigt, festgesetzt |
-| *nummi* — *num(m)us* | der (römische) **Denar** |
-| *stāre* — *stās* | feststehen, Bestand haben |
-| *exerecentes et iubentes nummos* | „die Münzen ausgeben und ausgeben lassen" — der legendäre Ursprung der Kammer |
+| *exercitus* | das Heer, die Truppen |
+| *salūtātiō, -ōnis* *f.* | Begrüßung; der Gruß, mit dem sich die Heere begrüßten |
+| *foedus ictum* | das geschlossene Bündnis |
 
 ### Die zwei Erzählweisen (duplex fama)
 
@@ -118,7 +117,11 @@ Livius nennt seine Quellen offen — das ist **modern** für seine Zeit. Und er 
          → BUND GESCHLOSSEN ZWISCHEN DEN FÜHRERN
 ```
 
-Der Text endet mit dem Hinweis auf den **Mythos vom Geld**: Der Sage nach ließen die Väter der ersten römischen Legionen das Geld auszahlen, das sie für den Ankauf der Sabinerinnen erhalten hatten — *exerecentes et iubentes nummos*. Livius notiert, dass diese Geschichte „lange geglaubt“ wurde. Er trennt also **Sage** und **Überlieferung** — ein historisches Denken, das man im 1. Jahrhundert v. Chr. von*Geschichte* nicht erwarten würde.
+Der Text endet mit dem **Bündnis**: *foedus ictum inter duces* — ein Vertrag zwischen den Anführern — und dem *salutatio factum*, dem Gruß zwischen den Heeren. Ob der Frieden aus dem Kampf oder aus dem Gespräch entstand, lässt Livius offen. Er trennt damit **Sage** und **Überlieferung** — ein historisches Denken, das man im 1. Jahrhundert v. Chr. von *Geschichte* nicht erwarten würde.
+
+:::merksatz Ein Textkritik-Hinweis
+Einige alte Ausgaben lesen an dieser Stelle *inter exerecentes et iubentes nummos* („zwischen denen, die Denare austeilen, und denen, die sie austeilen lassen"). Diese Lesart stellt den Text auf die **Sage vom Lösegeld für die Sabinerinnen** um — sie wird heute als Fehler verworfen. Der Text, den du hier liest, ist der überlieferte. Genau solche Eingriffe machen aus Textgeschichte Wissenschaft.
+:::
 
 :::begriff Duplex fāma
 **Begriff:** Die **doppelte Überlieferung**: derselbe Vorgang wird in zwei Varianten überliefert, und der Historiker stellt beide nebeneinander.
@@ -177,12 +180,10 @@ virique et animum vel bello vel paci paratum, dextra data fidem
 futurae amicitiae sanxisse.
   künftiger-Freundschaft-bekräftigt.
 
-INDE foedus ictum inter duces, inter exerecentes et iubentes
-  Von-daher-Bündnis-geschlossen-zwischen-den-Führern, zwischen-den-Auszahlenden-und-den-Anordnenden
-nummos, quod conditione stands [scriptumque] est, toto eo die
-  der-Denar, das-nach-der-Bedingung-Feststehende, an-dem-ganzen-Tage
-celebratum.
-  gefeiert.
+INDE foedus ictum inter duces, inter exercitus salutationem
+  Von-daher-Bündnis-geschlossen-zwischen-den-Führern, zwischen-den-Heeren-die-Begrüßung
+factam.
+  vollzogen.
 ```
 
 ### Sinngemäße Übersetzung
@@ -195,7 +196,7 @@ celebratum.
 >
 > **Von zweierlei Überlieferung** ist die Rede. Die einen berichten, der Lateiner sei im Gefecht besiegt worden, habe mit Aeneas Frieden geschlossen und danach Verwandtschaft geknüpft. Die anderen: Als die Heere aufgestellt standen und die Signale noch nicht geblasen worden waren, trat der Lateiner unter den Vordersten hervor und rief den Führer der Ankömmlinge zu einem Gespräch; er fragte sie aus, wer sie seien, woher oder wie sie von Hause aufgebrochen und was sie in der Laurentiner Gegend suchten. Als er gehört hatte, es seien Trojaner, ihr Führer Aeneas, Sohn des Anchises und der Venus, die mit ihrer verbrannten Heimat Vertriebenen, die einen Sitz für eine zu gründende Stadt suchten, und er die Berühmtheit des Volkes und des Mannes bewundert und den für Krieg oder Frieden bereiten Sinn erkannt habe, habe er mit rechtsem Handschlag das Versprechen künftiger Freundschaft bekräftigt.
 >
-> **Von da an** ward ein Bündnis geschlossen zwischen den Führern, zwischen den Auszahlenden und den Anordnenden der Denare — wie es die Überlieferung festhält — und den ganzen Tag über gefeiert.
+> **Von da an** ward ein Bündnis geschlossen zwischen den Führern, und zwischen den Heeren wurde ein Gruß gewechselt.
 
 ### Satzdiagramm
 
@@ -234,7 +235,7 @@ Für den Anfänger ist der Text zugleich eine **Lektion über Quellenkritik**: L
 
 :::uebung
 **A. Verstehen.**
-1. Warum enthielten sich die Achäer des Kriegsrechts gegen Aeneas und Antenor? 2. Warum heißen die Nachfahren der Trojaner „Veneter"? 3. Was ist der Unterschied zwischen den beiden Überlieferungen? 4. Was bedeutet die Erwähnung der *nummī* am Ende?
+1. Warum enthielten sich die Achäer des Kriegsrechts gegen Aeneas und Antenor? 2. Warum heißen die Nachfahren der Trojaner „Veneter"? 3. Was ist der Unterschied zwischen den beiden Überlieferungen? 4. Was bedeutet der Hinweis auf den *salutatio* zwischen den Heeren am Ende?
 
 **B. Übersetzen.**
 5. *Iam primum omnium satis constat Troia capta in ceteros saevitum esse Troianos.*
@@ -277,7 +278,7 @@ Für den Anfänger ist der Text zugleich eine **Lektion über Quellenkritik**: L
 :::check Prüfungscheck
 1. Setze ein: *Troia capta in ceteros saevitum ______ (esse) Troianos.* → *esse*
 2. Übersetze: *Postquam audierit multitudinem Troianos esse …* — „Nachdem er gehört hatte, dass es Trojaner seien …"
-3. Erkläre: Warum nennt Livius die Sage von den *nummi* nicht einfach als Faktum?
+3. Erkläre: Warum stellt Livius die beiden Überlieferungen nebeneinander, statt eine davon zu wählen?
 :::
 
 :::vertiefung
