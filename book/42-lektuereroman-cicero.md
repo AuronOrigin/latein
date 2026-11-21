@@ -34,7 +34,7 @@ Cicero hat sich in *Tusculum*, seiner Villa südlich von Rom, mit Freunden zu ph
 ```
 MALUM mihi videtur esse mors.  Iisne, qui mortui
 sunt, an iis, quibus moriendum est?
-UTRIQUE.  Est miserum igitur, quoniam malum.
+UTRISQUE.  Est miserum igitur, quoniam malum.
 CERTE.  Ergo et ii, quibus evenit iam ut morerentur,
 et ii, quibus eventurum est, miseri.
 MIHI ITA VIDETUR.  Nemo ergo non miser.  PRORSUS NEMO.
@@ -98,7 +98,7 @@ Ciceros Dialoge sind **Sprechstunden**: Ein *disputator* (Cicero) stellt die The
 | lateinisch | deutsch | Rolle |
 |---|---|---|
 | **MALUM** mihi videtur esse mors. | „Der Tod scheint mir ein Übel zu sein.“ | Cicero (These) |
-| **UTRIQUE** | „Beiden.“ | Freund |
+| **UTRISQUE** | „Beiden.“ | Freund |
 | **CERTE** | „Sicherlich.“ | anderer Freund |
 | **MIHI ITA VIDETUR** | „So scheint es mir.“ | Freund |
 | **DIC QUAESO** | „Sag bitte …“ | Cicero |
@@ -111,7 +111,7 @@ MALUM mihi videtur esse mors.
   Ein-Übel mir scheint zu-sein der-Tod.
 Iisne, qui mortui sunt, an iis, quibus moriendum est?
   Denen, die tot sind, oder denen, sterben-muss?
-UTRIQUE.  Est miserum igitur, quoniam malum.
+UTRISQUE.  Est miserum igitur, quoniam malum.
   Beiden.  Es ist elend also, weil ein-Übel.
 CERTE.  Ergo et ii, quibus evenit iam ut morerentur,
   Sicherlich.  Also auch die, denen es widerfahren ist bereits zu-sterben,
