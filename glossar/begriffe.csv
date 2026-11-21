@@ -1,0 +1,183 @@
+begriff,kategorie,herkunft,definition,verwandte_begriffe,kapitel
+Adiectivum,Lehnwort,"adjectivum, -ī","Adjektiv; drückt Eigenschaft, Zustand oder Zugehörigkeit aus",verbum; gradus,08
+Adverbium,Lehnwort,"adverbium, -ī","Adverb; unveränderliches Wort, das ein Verb, ein Adjektiv oder einen ganzen Satz modifiziert",verbum; casus,16
+Articulus,Lehnwort,"articulus, -ī",Artikel; bei den Römern ohne festen Platz im System,nomen,12
+Anastrophe,griechisch,"anastrophē, -ēs",Anastrophe; Umstellung von Wörtern (auch: hyperbaton),hyperbaton,37
+Aposiopesis,griechisch,"aposiopēsis, -ēs",Aposiopese; abgebrochener Satz,ellipsis,36
+Aktives Perfekt,nativ,actus perfecti,"Aktiv, dessen Bedeutung auf das Präsens ausgerichtet ist (ich habe geschrieben)",perfectum,17
+Accusativus infiniti,modern,accusativus cum infinitivo,"AcI; Infinitiv als Akkusativ-Objekt: sagen, dass jemand etwas tut",indirecta,34
+Ablativus infiniti,modern,ablativus cum infinitivo,AcI in der Funktion des Subjekts (selten),indirecta,34
+Akkusativobjekt,modern,accusativus obiecti,Akkusativ als Objekt (direktes Objekt),obiectum,22
+Akkusativ der Ausdehnung,nativ,accusativus extensionis,"Akkusativ, der das Maß angibt",casus,48
+Akkusativus limitans,nativ,accusativus limitans,"Akkusativ, der den Umfang, die Ausdehnung angibt",casus,24
+Ablativus separatus,nativ,ablativus separatus,Ablativ ohne Präposition als adverbiale Bestimmung,casus,26
+Ablativus comparationis,nativ,ablativus comparationis,Ablativ des Vergleichs,casus,26
+Ablativus instrumentalis,modern,ablativus instrumentalis,Ablativ des Mittels oder Werkzeugs,casus,26
+Agentenpassiv,nativ,patiens agens,"Passiv, bei dem der Urheber im Ablativ steht",passivum,28
+Active periphrasticum,englisch,activum periphrasticum,Aktiv mit esse + Partizip Präsens,participium,18
+Amplificativum,modern,"amplificātīvum, -ī",Amplificativ; verstärkende Variante (clāre),verbum,21
+Archaizmus,modern,"archaizmus, -ī","veralteter, aber korrekter Ausdruck",lingua,49
+Aphorismus,griechisch,"aphorismus, -ī","knapper, weiser Spruch",sententia,43
+Argumentatio,modern,"argumentātiō, -ōnis",Argumentation; das Durchdenken einer Behauptung,thesis,42
+Absolutus,modern,"absolūtus, -a, -um",Absolutus; Partizip ohne syntaktische Verbindung zum Hauptsatz,participium,21
+Apostrophe,griechisch,"apostrophē, -ēs",Anrede; direkte Zuwendung an eine Person oder Gottheit,invocatio,47
+Ablativus temporis,nativ,ablativus temporis,Ablativ der Zeit; gibt einen Zeitpunkt an,casus,26
+Ablativus loci,nativ,ablativus loci,Ablativ des Ortes; gibt einen Ort an,casus,27
+Ablativus causae,nativ,ablativus causae,Ablativ der Ursache,casus,26
+Alliteration,modern,"alliterātiō, -ōnis","Anlautreim, Wiederholung gleicher Anfangslaute",figura,46
+Annales,nativ,"annālēs, annālium","Jahrbücher, Chronik",historia,45
+Audit,englisch,audit,Selbstkontrolle nach einer Übersetzung,translatio,38
+Coniunctio,Lehnwort,"coniunctiō, -ōnis",Konjunktion; verbindet Sätze oder Satzteile,verbum; disputatio,16
+Comparatio,Lehnwort,"comparātiō, -ōnis",Steigerung; Bildung von Komparativ und Superlativ,gradus,14
+Coniugatio,Lehnwort,"coniugātiō, -ōnis","Konjugation; das System der Tempus-, Modus- und Personformen",verbum,09
+Casus,Lehnwort,"casus, -ūs",Kasus; grammatische Beziehungsform des Nomens,declinatio,06
+Consonans,Lehnwort,"consonāns, -antis","Konsonant; der Mitlaut, der im Gegensatz zum Vokal den Silbenkern nicht trägt","vocalis, littera",02
+Chiasmus,griechisch,"chiasmus, -ī",Chiasmus; Kreuzstellung der Glieder AB – BA,anastrophe,37
+Cognate,englisch,"cognātus, -a, -um",Verwandtes Wort; gemeinsame Wurzel,familia,21
+Coniunctivus,Lehnwort,"coniūnctīvus, -ī","Konjunktiv; Modus der Möglichkeits-, Nichtwirklichkeit- und Absicht",modus,20
+Calque,französisch,"calque, -s",Lehnübersetzung; mechanische Übertragung der Vorlage,translatio,48
+Colloquium,modern,"colloquium, -ī","Unterhaltung, Gespräch; auch: Kolloquium",colloquium,49
+Caesura,griechisch,"caesūra, -ae",Worttrennung innerhalb eines Verses,versus,46
+CS,englisch,CS,Zeitfolge; der Sprecher bezieht sich auf die Gegenwart,tempus,39
+CT,englisch,CT,Zeitfolge; der Sprecher bezieht sich auf die Vergangenheit,tempus,39
+Codex,Lehnwort,"codex, -īcis","Buch, Handschriftband",liber,44
+Chronicon,griechisch,"chronikon, -ī","Chronik, Zeitrechnung",annales,45
+CS/CT-Regel,Modern,—,"Die Regel, nach der in der indirekten Rede die Zeitform dem Bezugszeitpunkt folgt",tempus consecutivum; indirecta,39
+Colloquium pedagogicum,Modern,colloquium,Das Schulgespräch; die lateinische Dialogform als Unterrichtsmittel,colloquium; humanismus,49
+Declinatio,Lehnwort,"declinātiō, -ōnis","Deklination; das System der Kasus-, Numerus- und Genusformen",casus,06
+Diacriticum,Neulatein,"diacriticum, -ī","Diakritikum; Zusatzzeichen, z. B. der Cedille",consonans,02
+Derivatio,Lehnwort,"dērīvātiō, -ōnis",Ableitung; Bildung eines neuen Wortes von einer Grundform,compositum,21
+Dativobjekt,modern,dativus obiecti,Dativ als Objekt (von einer Person betroffen),obiectum,22
+Dativus possessivus,nativ,dativus possessivus,Dativ als possessiver Ausdruck (mit esse),casus,25
+Dativus auctoris,nativ,dativus auctoris,Dativ des Urhebers oder Interesses,casus,25
+Dativus beneficii,nativ,dativus beneficii,Dativ des Empfängers einer Wohltat,casus,25
+Dativus separationis,nativ,dativus separationis,Dativ der Trennung (tē mē distinxit),casus,25
+Defizitvum,modern,"dēfīcītīvum, -ī",Unvollständiges Verb; hat nicht alle Formen,verbum,11
+Deponens,Lehnwort,"deponens, entis",Deponens; passive Form mit aktiver Bedeutung,verbum,28
+Discōursus,Lehnwort,"discourse, -ūs",Rednerisch und dialogisch strukturierter Text,sermo,49
+Dactyl,griechisch,"dactylus, -ī",— u u ; Längenton mit zwei Kürzen,versus,46
+Elision,nativ,"ēlīsiō, -ōnis",Elision; Ausfall eines schwachen Vokals vor Vokal oder h,synaloepha,02
+Enallage,griechisch,"enallagē, -ēs",Enallage; Vertauschung von grammatischen Formen,hypallage,37
+Ellipsis,griechisch,"ellipsis, -ēs",Ellipse; Auslassen eines Satzteils,aposiopesis,36
+Exordium,griechisch,"exordium, -ī","Anfang, Einleitung einer Rede",oratio,42
+Ekphrasis,griechisch,"ekphrasis, -ēos",ausführliche Beschreibung (eines Bildes),descriptio,46
+Enargeia,griechisch,"enargeia, -ā̆s","Lebendigkeit, Anschaulichkeit der Darstellung",descriptio,46
+Futurum,Lehnwort,"fūtūrum, -ī"," Futur; zukünftiges, nicht notwendig eintretendes Geschehen",tempus,18
+Futurum perfectum,Lehnwort,fūtūrum perfēctum,Perfekt des Futurs; zukünftig abgeschlossenes Geschehen,tempus,18
+Frequentativum,modern,"frequentātīvum, -ī",Frequentativ; -are-Verben mit Wiederholungsbedeutung,verbum,21
+Fons historicus,modern,fōns historicus,historische Quelle,traditio,45
+Genus,Lehnwort,"genus, generis",Genus; grammatisches Geschlecht,declinatio,06
+Gerundium,Lehnwort,"gerundium, -ī",Gerundium; substantivischer Nominalstil (AcI-Ersatz),participium,30
+Gerundivum,nativ,"gerundīvum, -ī",Gerundiv; substantiviertes Partizip mit obliquis cases,participium,30
+Gradus difficilitatis,modern,gradus difficultātis,Schwierigkeitsstufe einer Übersetzung,translatio,38
+Goldenes Zeitalter,Griechisch,—,Die Schilderung einer vollkommenen Weltzeit in Ovids Metamorphosen,mythus; metamorphose,46
+Grammatik der Grammatiker,Modern,—,"Die Übereinstimmung der Formen in den Kategorien, im Paradigma und in der Flexion",paradigma; declinatio,04
+Hendiadys,griechisch,"hendiadyōn, -ōntos",Hendiadys; Ausdruck von zwei Gliedern durch eine Konjunktion,coordinatio,37
+Hysteron proteron,griechisch,hysteron proteron,Umkehrung der logischen Reihenfolge,chiasmus,37
+Hyperbaton,griechisch,"hyperbaton, -ōntos",Hyperbaton; Trennung zusammengehöriger Wörter durch ein anderes Wort,anastrophe,37
+Hypallage,griechisch,"hypallagē, -ēs",Hypallage; Verwechslung von Singular und Plural,enallage,37
+Historisches Präsens,modern,praesens historicum,"Präsens, das ein vergangenes Ereignis als gegenwärtig darstellt",tempus,44
+Historicum praesens,modern,historicum praesens,Synonym: historisches Präsens,tempus,44
+Hexameter,griechisch,"hexameter, -trī",Sechshebiger Vers; Grundmaß der antiken Dichtung,versus,46
+Homoeoteleuton,griechisch,"homoeoteleuton, -ō",Endsilbenreim,figura,46
+Historia,Lehnwort,"historia, -ae","Erzählung, Geschichte, Untersuchung",annales,45
+Humanismus,italienisch,"humanismus, -ī",Humanismus; Renaissancebewegung zur Wiederbelebung der Antike,latinum novum,49
+Interiectio,Lehnwort,"interiectiō, -ōnis",Interjektion; Ausrufe- oder Empfindungswort,exclamatio,16
+Infinitiv,nativ,"infīnītīvus, -ī",Infinitiv; unbestimmte Verbalform,participium,19
+Indicativus,Lehnwort,"indicātīvus, -ī",Indikativ; Modus der Tatsache und der Gewissheit,modus,19
+Imperativus,Lehnwort,"imperātīvus, -ī",Imperativ; Aufforderung oder Befehl,modus,19
+Infinitivus,Lehnwort,"infīnītīvus, -ī",Infinitiv als Modus (auch unbestimmte Rede),infinitiv,19
+Imperfektum,Lehnwort,"imperfēctum, -ī","Imperfekt; unvollständige, andauernde Vergangenheit",tempus,17
+Indirecta,modern,oratio obliqua,Indirekte Rede,coniunctivus,34
+Inchoativ,modern,"inchoātīvus, -ī",Inchoatives Verb; gibt den Beginn einer Handlung an,verbum,21
+Iterativ,modern,"iterātīvus, -ī",Iteratives Verb; gibt die Wiederholung an,verbum,21
+Ironia,modern,"ironīa, -ae",ironisch gemeinte Aussage (gegensinnig),verbum,43
+Iterativum praesens,modern,iterātīvum praesens,Iteratives Präsens (iterābat = pflegte zu gehen),tempus,44
+Invocatio,griechisch,"invocātiō, -ōnis",Anruf; Eröffnung eines Werks mit Anrede an eine Gottheit,apostrophe,47
+Inscriptio,nativ,"īnscriptiō, -ōnis","Inschrift; die auf Stein, Bronze oder Wachs eingeritzte Schrift des Altertums","codex, lapis",45
+Kompositum,griechisch,"compositum, -ī",Kompositum; zusammengesetztes Wort,derivatio,21
+Lemma,modern,"lemma, -atis",Stichwort; die Wörterbuchform eines Wortes,glossar,03
+Latinum novum,Lehnwort,Latinum novum,Neulatein; die humanistische Wiederbelebung des Lateins,lingua,49
+Litotes,griechisch,"litotēs, -ēos",Verneinung des Gegenteils (non … sed),ironia,43
+Macron,Lehnwort,"macrōn, -ōnis",Zeichen (¯) für einen langen Vokal,quantity,02
+Modus,Lehnwort,"modus, -ī","Modus; Sprecherhaltung: Tatsache, Möglichkeit, Wille, Aufforderung",verbum,19
+Modus obliquus,modern,modus obliquus,Konjunktiv in der indirekten Rede,indirecta,34
+Media lingua,griechisch,mediānum aetās,Mittellatein; die Sprachstufe zwischen Antike und Neuzeit,lingua,49
+Metamorphose,griechisch,"metamorphōsis, -ōseos",Verwandlung; auch: Titel des ovidischen Werks,mythus,46
+Metrum,griechisch,"metron, -trī","Versmaß, metrische Schematik",versus,46
+Māssigma,nativ,"māssigma, -atis",großer Anfangsbuchstabe im römischen Buch,liber,44
+Marginalia,nativ,"marginalia, -ōrum","Randnotizen; die Ergänzungen, die ein Schreiber am Rand der Textspalte eintrug","codex, glossarium",44
+Meditatio,modern,"meditātiō, -ōnis","Nachdenken, Üben im Kopf",memoria,38
+Nomen,nativ,"nomen, nōminis","Substantiv; grammatisches Geschlecht, Kasus und Numerus",verbum; adiectivum,04
+Numerale,Lehnwort,"numeralis, -e",Zahlwort; bezeichnet Menge oder Zahl,nomen,16
+Numerus,Lehnwort,"numerus, -ī",Numerus; Singular und Plural,declinatio,06
+Nominativus infiniti,modern,nominativus cum infinitivo,"NcI; Infinitiv als Nominativ-Subjekt: es wird gesagt, dass …",indirecta,34
+Nuntius,modern,"nuntius, -ī",Verblose Form als Redeakt,oratio,34
+Neologismus,modern,"neologismus, -ī",neugebildetes Wort,lingua,49
+Nomen actionis,modern,nōmen actionis,Resultativnomen; Bezeichnung einer Handlung (cantus),derivatio,25
+Nomen agentis,modern,nōmen agentis,Personennomen; Bezeichnung des Handelnden (cantator),derivatio,25
+Nomen patientis,modern,nōmen patientis,Bezeichnung des Erleidenden (victima),derivatio,25
+Nomen instrumenti,modern,nōmen instrumenti,Bezeichnung des Werkzeugs (pōculum),derivatio,25
+Nomen rei effectae,modern,nōmen rei effectae,Bezeichnung des Ergebnisses (cōnsilium),derivatio,25
+Nomen copulativum,modern,nōmen copulativum,Verbindungsnomen (amicitia),derivatio,25
+Oratio recta,modern,oratio recta,Direkte Rede,indirecta,34
+Obiectum,Lehnwort,"obiectum, -ī",Objekt; das Akkusativ-Objekt,casus,22
+Ordo rerum,modern,ordo rerum,"""Anordnung der Dinge""; die logische Abfolge der Aussagen",syntaxis,37
+Oratio obliqua,Modern,oratio oblīqua,Die indirekte Rede als Redeform,indirecta; modus obliquus,34
+Pronomen,Lehnwort,"prōnomen, nōminis","Pronomen; ersetzt ein Nomen, steht aber an dessen Stelle",nomen; persona,12
+Praepositio,Lehnwort,"praepositio, -ōnis","Präposition; steht vor dem Kasus, dessen Bedeutung sie prägt",casus,16
+Polysyndeton,griechisch,"polysyndeton, -ō",Polysyndeton; übermäßige Wiederholung der Konjunktion,coordinatio,37
+Ploque,nativ,"plōquē, -ē","Angst, Verzweiflungsausruf",exclamatio,26
+Praefix,englisch,"praefīx, -īcis",Präfix; vorangestellte Bildungsbestandteil,suffix,21
+Paradigma,griechisch,"paradigma, -ātis",Paradigma; Flexionsreihe aller Formen eines Wortes,declinatio,06
+Participle,nativ,"participium, -ī",Partizip; adjektivisch oder verbal gebrauchte Form,gerundium,31
+Praesens,Lehnwort,"praesens, -entis",Präsens; gegenwärtiges Geschehen,tempus,17
+Perfectum,Lehnwort,"perfēctum, -ī",Perfekt; abgeschlossene Vergangenheit,tempus,17
+Plusquamperfektum,Lehnwort,"plūsquamperfēctum, -ī",Plusquamperfekt; Vorvergangenheit,tempus,17
+Passives Perfekt,nativ,passivum perfecti,"Passiv, das auf ein Präsens bezogen ist (es ist geschrieben worden)",perfectum,17
+Passivum periphrasticum,nativ,passivum periphrasticum,Passiv mit esse + Partizip Perfekt,participium,18
+Privativum,modern,"prīvātīvum, -ī",Privativum; entgegengesetztes Wort (amāre – ōdīre),verbum,21
+Paradoxon,griechisch,"paradoxon, -ōntos",scheinbar widersprüchliche Aussage,sententia,43
+Participium coniunctum,modern,participium coniunctum,"Partizip, das sich auf dasselbe Subjekt bezieht wie der Hauptsatz",participium,21
+Participium adiunctivum,modern,participium adiunctivum,"Partizip, das sich auf ein anderes Satzglied bezieht",participium,21
+Participium attributivum,modern,participium attributivum,"Partizip, das ein Nomen attributiv bestimmt",participium,21
+Perioda,griechisch,"periodus, -ī","Periode; vollständiger, in sich abgeschlossener Satz",syntaxis,37
+Pentameter,griechisch,"pentameter, -trī",Fünfhebiger Vers; in der Elegie,versus,46
+Prosimetrum,griechisch,"prosimetron, -ō",Mix aus Prosa und Vers,versus,46
+Präposition,Lehnwort,"praepositio, -ōnis",Präposition; unveränderliches Wort vor dem Kasus,casus,16
+Postposition,modern,"postpositiō, -ōnis",seltenes Wort nach dem Substantiv,praepositio,16
+Papyrologus,griechisch,"papyrologus, -ī",Papyrusforscher,codex,44
+Quantity,englisch,"quantitas, -ātis",Quantität; Länge oder Kürze eines Vokals,mācrons,02
+Refutatio,modern,"refutātiō, -ōnis","Widerlegung; der Einwand, mit dem ein Argument bestritten wird","thesis, argumentatio",42
+Receptio,modern,"receptiō, -ōnis","Aufnahme, Rezeption eines Textes",translatio,49
+Renaissance,französisch,renaissance,Geburt der Neuzeit; Wiederentdeckung der Antike,humanismus,49
+Reformatio,modern,"reformātiō, -ōnis","Reformation; die geordnete Neugestaltung von Text, Kirche oder Institution","humanismus, restitutio",49
+Respublica literaria,modern,res pūblica litterāria,Gelehrtenrepublik; europäische Gemeinschaft der Gelehrten,humanismus,49
+Recitatio,modern,"recitātiō, -ōnis","Vortrag, Rezitation",memoria,38
+Synaloepha,nativ,"synaloepha, -ae",Synaloephe; Verschmelzung zweier Vokale zu einem langen,elision,02
+Suffix,englisch,"suffīx, -īcis","Suffix; Endung, die die Wortbedeutung modifiziert",praefix,21
+Supinum,Lehnwort,"supīnum, -ī",Supinum; unpersönlicher Nominalstil (AcI-Ersatz),gerundium,30
+Subiectivus,modern,"subiectīvus, -ī",Konjunktiv in der Funktion des Subjektivs,coniunctivus,20
+Subiectum,Lehnwort,"subiectum, -ī",Subjekt; das Urheber-Subjekt,casus,22
+Suppletivverbum,modern,"suppletīvum, -ī","Verb, das seine Formen aus verschiedenen Stämmen bildet",verbum,11
+Sermo,Lehnwort,"sermō, -ōnis","gepflegte Rede, Anrede, Register",urbanitas,49
+Sententia,Lehnwort,"sententia, -ae","kurzer, prägnanter Lehrsatz",aphorismus,43
+Spondeus,griechisch,"spondeus, -ī",— — ; zwei Längentöne,versus,46
+Scriptorium,Lehnwort,"scriptorium, -ī","Schreibwerkstatt, Schreibhaus",codex,44
+Scriptura,Modern,scriptūra,Die (heilige) Schrift,codex; vulgarisatio,49
+Tempus,Lehnwort,"tempus, -ōris",Tempus; zeitliche Einordnung des Geschehens,modus,17
+Tempus consecutivum,modern,tempus consecutivum,Regel der Zeitfolge in der indirekten Rede,indirecta,34
+Translatio,Lehnwort,"trānslātiō, -ōnis",Übersetzung; die Übertragung eines Textes aus einer Sprache in eine andere,"calque, vertere",48
+Thesis,griechisch,"thēsis, -ēos","Behauptung, These",argumentatio,42
+Tmesis,griechisch,"tmesis, -ēos",Trennung eines zusammengesetzten Wortes,figura,46
+Tabularium,nativ,"tabulārium, -ī","Archiv, Urkundenlager",codex,45
+Traditio,Lehnwort,"trāditiō, -ōnis",Überlieferung,milliō,45
+Template / Vorlage,Modern,—,"Eine feste Satzstruktur, die beim Übersetzen abgearbeitet wird",syntaxis; ordo rerum,37
+Urbanitas,Lehnwort,"urbanitās, -ātis","Höflichkeit, gesellschaftliche Gewandtheit",sermo,49
+Verb,nativ,"verbum, verbī",Zeitwort mit Aussage über Vorgang oder Zustand,nomen; modus,04
+Vocālis,Lehnwort,"vocālis, -e","Vokal; A, E, I, O, U (und Y als griechisches Ü)",consonans,02
+Verbum sentiendi,nativ,verbum sentiendi,"Aussagewörter wie putō, cēnseō, exīstimō",opus,34
+Verbum dicendi,nativ,verbum dicendi,"Aussagewörter wie dīcō, nārrō, profitētur",opus,34
+Verbum existendi,modern,verbum existendi,"Aussagewörter wie sum, exsistō, manet",opus,34
+Vulgata,nativ,"vulgātus, -a, -um",die verbreitete Fassung; Bezeichnung der lateinischen Bibelübersetzung,translatio,48
+Zeugma,griechisch,"zeugma, -atos",Zeugma; eine Konjunktion verbindet ungleichartige Glieder,hyperbaton,37
