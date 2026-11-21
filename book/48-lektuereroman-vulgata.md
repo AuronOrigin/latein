@@ -27,7 +27,7 @@ Nach diesem Kapitel kannst du:
 **impinguō, impinguāre** — ich fette (den Kopf) · **caput, capitis** *n.* — Kopf ·
 **calix, calicis** *m.* — Kelch · **inebriō, inebriāre** — ich berausche ·
 **misericordia, -ae** *f.* — Barmherzigkeit · **subsequor, subsequī** — ich folge (dat.) ·
-**inhabitō, inhabitāre** — ich bewohne · **dōminus** — (griech. Lehnwort) Herr
+**inhabitō, inhabitāre** — ich bewohne
 :::
 
 ## Textus IX — Psalmus 23 (Vulgata)
@@ -75,7 +75,7 @@ et ut inhabitem in domo Domini in longitudinem dierum.
 | *impinguō* — *impinguāre* | fettig machen, salben |
 | *inebriō* — *inebriāre* | trunken machen, berauschen |
 | *praeclārus* — *praeclārus* | sehr klar, herrlich |
-| *dōminus* | Herr (griech. δοκιμή; lat. *dominus*) |
+| *Dominus* | Herr, Gott (lat. *dominus* = „Herr, Eigentümer") |
 
 ### Was die Vulgata ist
 
