@@ -62,7 +62,7 @@ qui fictis causis innocentes opprimunt.
 | *fauce improba* | mit ruchlosem Rachen |
 | *siti compulsi* | vom Durst gezwungen |
 | *iurgii causam intulit* | brachte den Grund für Streit vor |
-| *laniger* — das Lamm (wörtl. „Wolliger“) |  |
+| *laniger* — das Lamm (wörtl. „Wolliger“) |
 | *quaeso* | ich bitte |
 | *decurrit* | ist hinuntergeflossen |
 | *repulsus* | zurückgewiesen |

@@ -83,7 +83,7 @@ celebratum.
 | *casibus variis* | durch mancherlei Schicksale |
 | *seditio* | Aufruhr, Meuterei |
 | *intimus sinus* | innerster Winkel |
-| *euganeī* — die Euganeer (Alpenvölker) |  |
+| *euganeī* — die Euganeer (Alpenvölker) |
 | *pagus* — *pago* | Dorf, Landschaft |
 | *gens universa* | das ganze Volk |
 | *delatum* | gebracht, getragen |

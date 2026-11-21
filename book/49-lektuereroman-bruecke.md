@@ -66,22 +66,22 @@ issicio abundat, et anguilla.
 | *adversa* | gegenüberliegend |
 | *dumtaxat* | nur |
 | *prolixus* — *prolixus* | lang ausgedehnt |
-| *tractus, -ūs* *m.* — Landzunge, Strich |  |
+| *tractus, -ūs* *m.* — Landzunge, Strich |
 | *efficere* — *efficio* | bewirken, ergeben |
 | *conpleō* — *compleō* | ausfüllen, zusammenrechnen |
 | *a meridie* — *merīdiēs* | im Süden |
 | *transmeō* — *trānsmeō* | überfahren, überschreiten |
 | *corrupte* — *corrumpo* | entstellt (durch falsche Aussprache) |
 | *interposito mari* | mit dazwischenliegendem Meer |
-| *stadium, -ī* *n.* — Stadium (Längenmaß) |  |
+| *stadium, -ī* *n.* — Stadium (Längenmaß) |
 | *opimus* — *opīmus* | reich, fruchtbar |
-| *iumentum, -ī* *n.* — Zugtier |  |
-| *alō, alere* — ich nähren |  |
+| *iumentum, -ī* *n.* — Zugtier |
+| *alō, alere* — ich nähren |
 | *germino* — *germinō* | sprossen, keimen |
 | *ferax* — *ferāx* | fruchtbar, ergiebig |
-| *copia, -ae* *f.* — Fülle |  |
+| *copia, -ae* *f.* — Fülle |
 | *issicius* — *issicius* | vom Aal (Fisch) |
-| *anguilla, -ae* *f.* — Aal |  |
+| *anguilla, -ae* *f.* — Aal |
 
 ### Was ist anders?
 

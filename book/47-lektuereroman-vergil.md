@@ -62,7 +62,7 @@ impulerit. Tantaene animis caelestibus irae?
 | Wort | Bedeutung |
 |---|---|
 | *ille ego* | jener ich (völlig frei) |
-| *gracilis* — *gracile* — dünn, schlank |  |
+| *gracilis* — *gracile* — dünn, schlank |
 | *modulor, modulārī* | ich begleite mit Maßen (den Ton) |
 | *avēna* — *avena* | Hafer (die Pfeife aus Haferstroh) |
 | *egressus* — *egredior* | hinausgegangen |
@@ -79,7 +79,7 @@ impulerit. Tantaene animis caelestibus irae?
 | *dum* | solange |
 | *inferre deos* — *inferō* | die Götter einbringen (ein Volk gründen) |
 | *patres* — *pater* | die Väter (Stammväter) |
-| *moenia, moenium* *n.* — Mauern, Stadtmauer |  |
+| *moenia, moenium* *n.* — Mauern, Stadtmauer |
 | *musa* — *musa* | Muse |
 | *meminō* — *memoria* | erinnere dich! |
 | *numen* — *numen* | göttliches Wesen |

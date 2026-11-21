@@ -87,15 +87,15 @@ mollia securae peragebant otia gentes.
 | *fixus aer* — *aes* | Erz, Bronze (Metall) |
 | *tūrbā* — *turba* | Menschenmenge, Menge |
 | *praeter* | außer |
-| *lītus, lītoris* *n.* — Küste, Ufer |  |
+| *lītus, lītoris* *n.* — Küste, Ufer |
 | *praecipēs* — *praeceps* | jäh, steil |
 | *fossa* — *fossus* | Graben |
 | *dērextus* — *dīrigō* | aufgerichtet |
-| *cornu* — *cornū* — das Horn (Signalhorn) |  |
-| *galea, -ae* *f.* — Helm |  |
-| *ēnsis, -is* *m.* — Schwert |  |
+| *cornu* — *cornū* — das Horn (Signalhorn) |
+| *galea, -ae* *f.* — Helm |
+| *ēnsis, -is* *m.* — Schwert |
 | *peragō* — *peragō, peragere* | verbringen, hinführen |
-| *otium, -ī* *n.* — Muße, Frieden |  |
+| *otium, -ī* *n.* — Muße, Frieden |
 
 ### Der Hexameter
 
