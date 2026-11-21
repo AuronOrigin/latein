@@ -106,7 +106,7 @@ Die Tabelle nennt nicht nur Übersetzungen, sondern auch **Stamm** und **Wortfam
 :::
 
 :::vertiefung
-- **Anki-Export:** `build/build.py --anki` erzeugt zwei fertige Stapeldateien unter `build/anki/`.
+- **Anki-Export:** `build/build.py --anki` erzeugt unter `build/anki/` vier Stapeldateien: `latein_de_lat.csv` und `latein_lat_de.csv` mit **allen 893** Vokabeln sowie `latein_kern_de_lat.csv` und `latein_kern_lat_de.csv` mit dem **Kern (602, Stufen A–C)**. Jede Karte trägt den Stufen-Tag `stufe-A` bis `stufe-E` — damit kannst du in Anki nach Etappe filtern.
 - **Spaced Repetition:** Der Plan zum Einordnen steht im Vorwort; Stufe A zuerst, Stufe E zuletzt.
 - **Zum Vertiefen:** Die Wortfamilien der Stufe C sind der beste Einstieg in Ovids und Vergils poetische Bildungen.
 :::

@@ -156,31 +156,45 @@ def build_all(what: list[str]) -> None:
 
 
 def build_anki() -> None:
+    """Erzeugt Anki-Stapeldateien aus glossar/vokabeln.csv.
+
+    Zwei Stapel je Richtung:
+      latein_de_lat*.csv / latein_lat_de*.csv  – alle 893 Eintraege,
+      getrennt nach Stufe getaggt (stufe-A … stufe-E)
+      latein_kern_de_lat.csv / latein_kern_lat_de.csv – nur der Kern (A-C)
+    """
     src = os.path.join(GLOSSAR, "vokabeln.csv")
     if not os.path.exists(src):
         print("ANKI  -> keine glossar/vokabeln.csv gefunden")
         return
     with open(src, encoding="utf-8") as fh:
         rows = list(csv.DictReader(fh))
-    de_lat = os.path.join(ANKI, "latein_de_lat.csv")
-    lat_de = os.path.join(ANKI, "latein_lat_de.csv")
-    with open(de_lat, "w", encoding="utf-8", newline="") as fh:
-        w = csv.writer(fh)
-        w.writerow(["Front", "Back", "Tags", "Hinweis"])
-        for r in rows:
-            if r.get("stufe", "").lower() in ("d", "e"):
-                continue
-            w.writerow([r["deutsch"], r["latein"], f'latein stufe-{r.get("stufe", "")}',
-                        r.get("familie", "")])
-    with open(lat_de, "w", encoding="utf-8", newline="") as fh:
-        w = csv.writer(fh)
-        w.writerow(["Front", "Back", "Tags", "Hinweis"])
-        for r in rows:
-            if r.get("stufe", "").lower() in ("d", "e"):
-                continue
-            w.writerow([r["latein"], r["deutsch"], f'latein stufe-{r.get("stufe", "")}',
-                        r.get("familie", "")])
-    print(f"ANKI  -> {de_lat}, {lat_de} ({len(rows)} Einträge)")
+
+    decks = [
+        ("latein_de_lat.csv", "latein_lat_de.csv", None),
+        ("latein_kern_de_lat.csv", "latein_kern_lat_de.csv", ("a", "b", "c")),
+    ]
+    for de_name, lat_name, only in decks:
+        subset = [r for r in rows
+                  if only is None or r.get("stufe", "").lower() in only]
+        de_path = os.path.join(ANKI, de_name)
+        lat_path = os.path.join(ANKI, lat_name)
+        with open(de_path, "w", encoding="utf-8", newline="") as fh:
+            w = csv.writer(fh)
+            w.writerow(["Front", "Back", "Tags", "Hinweis"])
+            for r in subset:
+                w.writerow([r["deutsch"], r["latein"],
+                            f'latein stufe-{r.get("stufe", "").lower()}',
+                            r.get("familie", "")])
+        with open(lat_path, "w", encoding="utf-8", newline="") as fh:
+            w = csv.writer(fh)
+            w.writerow(["Front", "Back", "Tags", "Hinweis"])
+            for r in subset:
+                w.writerow([r["latein"], r["deutsch"],
+                            f'latein stufe-{r.get("stufe", "").lower()}',
+                            r.get("familie", "")])
+        label = "alle Stufen" if only is None else "Kern (A-C)"
+        print(f"ANKI  -> {de_path}, {lat_path} ({len(subset)} Eintraege, {label})")
 
 
 def check(chapters: list[dict]) -> None:
