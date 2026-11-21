@@ -55,64 +55,171 @@ COLORS = {
     "grau": "#6b7280",
 }
 
-INLINE_RE = re.compile(
-    r"(?P<code>`[^`]+`)"
-    r"|(?P<link>\[[^\]]+\]\([^)]+\))"
-    r"|(?P<image>!\[[^\]]*\]\([^)]+\))"
-    r"|(?P<color>@(?P<cname>[a-z]+)\{[^}]*\})"
-    r"|(?P<bold>\*\*[^*]+\*\*)"
-    r"|(?P<italic>(?<!\*)\*[^*]+\*(?!\*))"
-    r"|(?P<mark>==[^=]+==)"
-)
-
 COLOR_MAP = {
     "subj": COLORS["subj"], "verb": COLORS["verb"], "obj": COLORS["obj"],
     "kasus": COLORS["kasus"], "wichtig": COLORS["wichtig"], "rot": COLORS["rot"],
     "gruen": COLORS["gruen"], "blau": COLORS["blau"], "grau": COLORS["grau"],
 }
 
+LINK_RE = re.compile(r"(!?)\[([^\]]*)\]\(([^)]*)\)")
+COLOR_RE = re.compile(r"@([a-z]+)\{([^}]*)\}")
+MARK_RE = re.compile(r"==([^=]+)==")
+
 
 # --------------------------------------------------------------------------
 # Inline
 # --------------------------------------------------------------------------
 
+def _has_bold_run_after(text: str, pos: int) -> bool:
+    """Gibt es nach `pos` noch einen Sternchen-Lauf der Länge >= 2?"""
+    i = pos
+    n = len(text)
+    while i < n:
+        if text[i] == "*":
+            j = i
+            while j < n and text[j] == "*":
+                j += 1
+            if j - i >= 2:
+                return True
+            i = j
+            continue
+        i += 1
+    return False
+
+
 def parse_inline(text: str) -> list[dict]:
-    """Zerlegt einen Text in Inline-Knoten."""
+    """Zerlegt einen Text in Inline-Knoten.
+
+    Kursiv und Fett duerfen sich verschachteln (*kursiv mit **fett** darin*).
+    Ueberzaehlige Sternchen (z. B. *Wort**) werden stillschweigend entfernt,
+    damit kein Sternchen im gedruckten Text erscheint.
+    """
     out: list[dict] = []
-    pos = 0
-    for m in INLINE_RE.finditer(text):
-        if m.start() > pos:
-            out.append({"t": "text", "v": text[pos:m.start()]})
-        if m.group("code"):
-            out.append({"t": "code", "v": m.group("code")[1:-1]})
-        elif m.group("image"):
-            inner = m.group("image")[2:-1]
-            alt, _, path = inner.partition("]")
-            out.append({"t": "image", "v": path.strip(), "alt": alt.strip()})
-        elif m.group("link"):
-            inner = m.group("link")[1:-1]
-            label, _, href = inner.partition("](")
-            out.append({"t": "link", "v": label, "href": href.rstrip(")")})
-        elif m.group("color"):
-            cname = m.group("cname")
-            inner = m.group("color")
-            body = inner[inner.index("{") + 1:inner.rindex("}")]
-            out.append({"t": "color", "v": body, "c": COLOR_MAP.get(cname, COLORS["grau"])})
-        elif m.group("bold"):
-            out.append({"t": "bold", "v": m.group("bold")[2:-2]})
-        elif m.group("italic"):
-            out.append({"t": "italic", "v": m.group("italic")[1:-1]})
-        elif m.group("mark"):
-            out.append({"t": "mark", "v": m.group("mark")[2:-2]})
-        pos = m.end()
-    if pos < len(text):
-        out.append({"t": "text", "v": text[pos:]})
+    stack: list[dict] = []          # offene Hervorhebungen
+    buf: list[str] = []
+
+    def target() -> list[dict]:
+        return stack[-1]["children"] if stack else out
+
+    def flush() -> None:
+        if buf:
+            target().append({"t": "text", "v": "".join(buf)})
+            buf.clear()
+
+    def close_top() -> None:
+        node = stack.pop()
+        parent = stack[-1]["children"] if stack else out
+        parent.append(node)
+
+    i = 0
+    n = len(text)
+    while i < n:
+        ch = text[i]
+        if ch == "`":
+            j = text.find("`", i + 1)
+            if j != -1:
+                flush()
+                target().append({"t": "code", "v": text[i + 1:j]})
+                i = j + 1
+                continue
+        if ch == "[":
+            m = LINK_RE.match(text, i)
+            if m:
+                flush()
+                if m.group(1):
+                    target().append({"t": "image", "v": m.group(3).strip(),
+                                     "alt": m.group(2).strip()})
+                else:
+                    target().append({"t": "link", "v": m.group(2),
+                                     "href": m.group(3).rstrip(")")})
+                i = m.end()
+                continue
+        if ch == "@":
+            m = COLOR_RE.match(text, i)
+            if m:
+                flush()
+                target().append({"t": "color", "v": m.group(2),
+                                 "c": COLOR_MAP.get(m.group(1), COLORS["grau"])})
+                i = m.end()
+                continue
+        if ch == "=":
+            m = MARK_RE.match(text, i)
+            if m:
+                flush()
+                target().append({"t": "mark", "children": [{"t": "text", "v": m.group(1)}]})
+                i = m.end()
+                continue
+        if ch == "*":
+            j = i
+            while j < n and text[j] == "*":
+                j += 1
+            run = j - i
+            if run == 1:
+                if stack and stack[-1]["t"] == "italic":
+                    flush()
+                    close_top()
+                else:
+                    flush()
+                    stack.append({"t": "italic", "children": []})
+                i = j
+                continue
+            if run == 2:
+                if stack and stack[-1]["t"] == "bold":
+                    flush()
+                    close_top()
+                elif stack and stack[-1]["t"] == "italic":
+                    if _has_bold_run_after(text, j):
+                        flush()
+                        stack.append({"t": "bold", "children": []})
+                    else:
+                        # ueberzaehliges Sternchen: kursiv schliessen, Sternchen verwerfen
+                        flush()
+                        close_top()
+                else:
+                    flush()
+                    stack.append({"t": "bold", "children": []})
+                i = j
+                continue
+            if run >= 3:
+                # "***": schliesst zuerst die innerste Hervorhebung
+                if stack and stack[-1]["t"] == "italic":
+                    flush()
+                    close_top()                      # 1 Stern: kursiv schliessen
+                    if stack and stack[-1]["t"] == "bold":
+                        close_top()                  # 2 Sterne: fett schliessen
+                    else:
+                        stack.append({"t": "bold", "children": []})
+                        close_top()
+                else:
+                    flush()
+                    if stack and stack[-1]["t"] == "bold":
+                        close_top()                  # 2 Sterne: fett schliessen
+                    else:
+                        stack.append({"t": "bold", "children": []})
+                    if stack and stack[-1]["t"] == "italic":
+                        close_top()                  # 1 Stern: kursiv schliessen
+                    else:
+                        stack.append({"t": "italic", "children": []})
+                i = j
+                continue
+        buf.append(ch)
+        i += 1
+    flush()
+    while stack:
+        close_top()
     return out
 
 
 def plain(nodes: list[dict]) -> str:
-    """Inline-Knoten als reiner Text (für Inhaltsverzeichnisse u. a.)."""
-    return "".join(n.get("v", "") for n in nodes)
+    """Inline-Knoten als reiner Text (fuer Inhaltsverzeichnisse u. a.)."""
+    out = []
+    for n in nodes:
+        if "children" in n:
+            out.append(plain(n["children"]))
+        else:
+            out.append(n.get("v", ""))
+    return "".join(out)
+
 
 
 # --------------------------------------------------------------------------
@@ -185,6 +292,7 @@ def parse(md: str) -> list[dict]:
                 "kind": kind,
                 "css": css,
                 "label": title or label,
+                "label_nodes": parse_inline(title or label),
                 "blocks": parse("\n".join(body)),
             })
             continue

@@ -36,13 +36,13 @@ def inline_html(nodes: list[dict]) -> str:
         if t == "text":
             out.append(esc(n["v"]))
         elif t == "bold":
-            out.append(f"<strong>{esc(n['v'])}</strong>")
+            out.append(f"<strong>{_inner_html(n)}</strong>")
         elif t == "italic":
-            out.append(f"<em>{esc(n['v'])}</em>")
+            out.append(f"<em>{_inner_html(n)}</em>")
         elif t == "code":
             out.append(f"<code>{esc(n['v'])}</code>")
         elif t == "mark":
-            out.append(f"<mark>{esc(n['v'])}</mark>")
+            out.append(f"<mark>{_inner_html(n)}</mark>")
         elif t == "color":
             out.append(f'<span style="color:{n["c"]};font-weight:600">{esc(n["v"])}</span>')
         elif t == "link":
@@ -50,6 +50,13 @@ def inline_html(nodes: list[dict]) -> str:
         elif t == "image":
             out.append(f'<img src="{esc(n["v"])}" alt="{esc(n.get("alt", ""))}" />')
     return "".join(out)
+
+
+def _inner_html(node: dict) -> str:
+    """Innerhalb einer Hervorhebung: verschachtelte Knoten oder reiner Text."""
+    if "children" in node:
+        return inline_html(node["children"])
+    return esc(node.get("v", ""))
 
 
 def blocks_html(blocks: list[dict]) -> str:
@@ -81,7 +88,7 @@ def blocks_html(blocks: list[dict]) -> str:
             out.append(f'<blockquote>{blocks_html(b["blocks"])}</blockquote>')
         elif t == "box":
             out.append(
-                f'<div class="box box-{b["css"]}"><div class="box-label">{esc(b["label"])}</div>'
+                f'<div class="box box-{b["css"]}"><div class="box-label">{inline_html(b.get("label_nodes") or [])}</div>'
                 f'{blocks_html(b["blocks"])}</div>')
         elif t == "hr":
             out.append("<hr />")
@@ -121,7 +128,7 @@ def build_html(chapters: list[dict], meta: dict, css: str) -> str:
             body.append(f'<section class="chapter" id="{ch["anchor"]}">')
             body.append(f'<h2 class="ch-title">{esc(ch["title"])}</h2>')
             if ch.get("subtitle"):
-                body.append(f'<p class="ch-sub">{esc(ch["subtitle"])}</p>')
+                body.append(f'<p class="ch-sub">{inline_html(ch.get("subtitle_nodes") or [])}</p>')
             body.append(blocks_html(ch["blocks"]))
             body.append("</section>")
 
@@ -186,7 +193,7 @@ def build_epub(chapters: list[dict], meta: dict, css: str) -> bytes:
             body.append(f'<p class="part">{esc(ch["part"])}</p>')
         body.append(f'<h1 id="{ch["anchor"]}">{esc(ch["title"])}</h1>')
         if ch.get("subtitle"):
-            body.append(f'<p class="subtitle">{esc(ch["subtitle"])}</p>')
+            body.append(f'<p class="subtitle">{inline_html(ch.get("subtitle_nodes") or [])}</p>')
         body.append(blocks_html(ch["blocks"]))
         body.append("</body></html>")
         files[f"OEBPS/{fname}"] = "\n".join(body)
@@ -350,13 +357,13 @@ def build_pdf(chapters: list[dict], meta: dict, base_dir: str = ".") -> bytes:
             if t == "text":
                 out.append(esc(n["v"]).replace(" ", "&nbsp;"))
             elif t == "bold":
-                out.append(f'<b>{esc(n["v"])}</b>')
+                out.append(f'<b>{rl_inner(n)}</b>')
             elif t == "italic":
-                out.append(f'<i>{esc(n["v"])}</i>')
+                out.append(f'<i>{rl_inner(n)}</i>')
             elif t == "code":
                 out.append(f'<font face="{FM}">{esc(n["v"])}</font>')
             elif t == "mark":
-                out.append(f'<font backColor="#fff2b2">{esc(n["v"])}</font>')
+                out.append(f'<font backColor="#fff2b2">{rl_inner(n)}</font>')
             elif t == "color":
                 out.append(f'<font color="{n["c"]}"><b>{esc(n["v"])}</b></font>')
             elif t == "link":
@@ -364,6 +371,27 @@ def build_pdf(chapters: list[dict], meta: dict, base_dir: str = ".") -> bytes:
             elif t == "image":
                 out.append(f'<i>[{esc(n.get("alt", "Abbildung"))}]</i>')
         return "".join(out)
+
+    def rl_upper(nodes: list[dict]) -> str:
+        """Wie rl(), aber der Text wird in Grossbuchstaben gesetzt."""
+        out = []
+        for n in nodes:
+            if n["t"] == "text":
+                out.append(esc(n["v"].upper()).replace(" ", "&nbsp;"))
+            elif n["t"] == "bold":
+                out.append(f'<b>{rl_upper(n.get("children") or [])}</b>')
+            elif n["t"] == "italic":
+                out.append(f'<i>{rl_upper(n.get("children") or [])}</i>')
+            elif n["t"] == "mark":
+                out.append(f'<font backColor="#fff2b2">{rl_upper(n.get("children") or [])}</font>')
+            else:
+                out.append(rl([n]))
+        return "".join(out)
+
+    def rl_inner(node: dict) -> str:
+        if "children" in node:
+            return rl(node["children"])
+        return esc(node.get("v", ""))
 
     # --- Block -> Flowables ---
     def flow(blocks: list[dict], level: int = 0) -> list[Any]:
@@ -413,7 +441,7 @@ def build_pdf(chapters: list[dict], meta: dict, base_dir: str = ".") -> bytes:
                 story.extend(inner)
             elif t == "box":
                 inner = flow(b["blocks"])
-                label = Table([[Paragraph(esc(b["label"]).upper(), S["boxlabel"])]],
+                label = Table([[Paragraph(rl_upper(b.get("label_nodes") or []), S["boxlabel"])]],
                               colWidths=[A4[0] - 2 * 20 * mm - 8])
                 label.setStyle(TableStyle([
                     ("BACKGROUND", (0, 0), (-1, -1), BOX_BAR.get(b["css"], colors.HexColor("#4b5563"))),
@@ -504,7 +532,7 @@ def build_pdf(chapters: list[dict], meta: dict, base_dir: str = ".") -> bytes:
             story.append(Paragraph(esc(ch["part"]), S["part"]))
         story.append(Paragraph(esc(ch["title"]), S["h1"]))
         if ch.get("subtitle"):
-            story.append(Paragraph(esc(ch["subtitle"]), S["sub"]))
+            story.append(Paragraph(rl(ch.get("subtitle_nodes") or []), S["sub"]))
         story.extend(flow(ch["blocks"]))
         story.append(Spacer(1, 6))
 

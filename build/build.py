@@ -70,6 +70,7 @@ def load_chapters() -> list[dict]:
             "file": fn,
             "title": title,
             "subtitle": fm.get("subtitle", ""),
+            "subtitle_nodes": md.parse_inline(fm.get("subtitle", "")),
             "part": fm.get("part", ""),
             "anchor": render.slug(title),
             "blocks": blocks,
@@ -99,7 +100,8 @@ def glossary_table() -> str:
         rows = list(csv.DictReader(fh))
     out = ["| Begriff | Herkunft | Bedeutung |", "|---|---|---|"]
     for r in sorted(rows, key=lambda x: x["begriff"].lower()):
-        out.append(f"| **{r['begriff']}** | {r.get('herkunft', '')} | {r['bedeutung']} |")
+        bedeutung = r.get("bedeutung") or r.get("definition", "")
+        out.append(f"| **{r['begriff']}** | {r.get('herkunft', '')} | {bedeutung} |")
     return "\n".join(out)
 
 
