@@ -133,28 +133,13 @@ Das ist das Prinzip der Mischkonjugation:
 
 **C. Übersetzen.**
 11. *Magister discipulōs monet et scrībit.*
-12. *Puer fābulam audit et memoriam?* → korrigiere!
+12. *Puer fābulam audit et memoriam?*
 
 **D. Imperativ und Partizip.** Bilde:
 13. Imperativ Präsens von *capere*, *audīre*, *dūcere*
 14. Partizip Präsens von *amāre*, *audīre*
 :::
 
-:::loesung
-**A.**
-1. *moneō, monēs, monet, monēmus, monētis, monent* 2. *dūcō, dūcis, dūcit, dūcimus, dūcitis, dūcunt* 3. *audiō, audīs, audit, audīmus, audītis, audiunt* 4. *capiō, capis, capit, capimus, capitis, capiunt* 5. *scrībō, scrībis, scrībit, scrībimus, scrībitis, scrībunt* 6. *teneō, tenēs, tenet, tenēmus, tenētis, tenent*
-
-**B.**
-7. *facere*, Stamm *fac-*, Endungen -ō, -is, -it, -imus, -itis, -unt (5. Konjugation, i-Stamm) 8. *audīre*, Stamm *audī-* (4.) 9. *legere*, Stamm *leg-* (3.) 10. *monēre*, Stamm *monē-* (2.)
-
-**C.**
-11. „Der Lehrer ermahnt die Schüler und schreibt."
-12. Korrekt: *Puer fābulam audit et memorat.* — *memoriam* ist Akkusativ Singular, passt nicht. (Oder: *Puer fābulam audit et memorat eam.*)
-
-**D.**
-13. *cape!* / *capite!* · *audī!* / *audīte!* · *dūce!* / *dūcite!*
-14. *amāns, amantis* · *audiens, audientis*
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -165,21 +150,17 @@ Das ist das Prinzip der Mischkonjugation:
 5. Wie lautet der Imperativ Singular von *dūcere*? ______
 :::
 
-:::loesung
-1. -it (dūcit) 2. *audiens* 3. *capere, facere* (auch iacere, pōnere) 4. -ō, -mus, -nt (und -s/-t) 5. *dūce!*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Magister discipulōs ______ (monēre, Präs. 3. Sg.).* → *monet*
-2. Übersetze: *Dux militem in aciē dūcit.* — „Der Feldherr führt den Soldaten in die Schlachtordnung."
+1. Setze ein: *Magister discipulōs ______ (monēre, Präs. 3. Sg.).*
+2. Übersetze: *Dux militem in aciē dūcit.*
 3. Erkläre: Warum ist *capere* eine Mischkonjugation und nicht einfach die 3. Konjugation?
 :::
 
-:::loesung
-1. *monet*
-2. „Der Feldherr führt den Soldaten in die Schlachtordnung."
-3. Weil *capere* im Präsens einen **i-Stamm** hat (*cap-iō*), im Perfekt aber den reinen e-Stamm (*cap-ere*) — es verbindet also die 3. mit der 1. Konjugation. Deshalb nennt man sie *Mischkonjugation*.
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
+
 
 :::vertiefung
 - Unregelmäßige Verben: Kapitel 11.

@@ -262,19 +262,6 @@ Der Spruch geht auf die **römische Bodenrechtsregel** zurück: Was man in der S
 11. Bilde eine eigene Sentenz nach dem Muster: „Nur X gehört uns; alles andere ist fremd."
 :::
 
-:::loesung
-**A.**
-1. Sie wird **genommen** (aktiv, von außen), **entzogen** (wie der Tod die Kraft nimmt) und **verfließt** (von selbst, unmerklich). 2. Schlecht handeln, nichts handeln, etwas anderes handeln. 3. „Sichere dich selbst dir selbst" = „nimm dein Leben in die Hand, erkenne es als dein Eigentum an". 4. Weil es nicht auf die Menge ankommt, sondern darauf, ob das, was man hat, **reicht** — *quantulumcumque superest sat est*.
-
-**B.**
-5. „Alles, Lucilius, ist fremd; nur die Zeit ist unsere.“ 6. „Solange das Leben aufgeschoben wird, geht es vorbei." 7. „Du erzählst schlecht, beim Herkules."
-
-**C.**
-8. **Imperativ** (*vindica*, 2. Person Sg.) — der Brief fordert zum Handeln auf. 9. Weil *quantulumcumque* („so viel wie nur immer") als **Bedingung** fungiert: „dem, dem so viel übrig bleibt, wie es eben reicht". Der Konjunktiv drückt die Unbestimmtheit aus. 10. *auferō* = **aktiv wegnehmen** (der Räuber nimmt); *subripiō* = **heimlich entziehen** (der Tod oder die Sorge nimmt einem die Kraft). Der erste ist Tat, der zweite ist spürbarer Verlust.
-
-**D.**
-11. z. B. *Omnia, Lucili, aliena sunt, memoria tantum nostra est.* — „Alles ist fremd; nur die Erinnerung ist unsere."
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -284,14 +271,15 @@ Der Spruch geht auf die **römische Bodenrechtsregel** zurück: Was man in der S
 4. Was bedeutet *vale*? ______
 :::
 
-:::loesung
-1. *Seneca Lucilio suo salutem* — Absender, Empfänger, „sein(e)“, Gruß 2. Der Gruß: „Heil" / „Leb wohl" 3. *Omnia … aliena sunt …* · *Dum differtur vita, transcendit* · *Non puto pauperem …* · *Sera parsimonia in fundo est* 4. „Leb wohl" (der übliche Abschlussgruß)
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Omnia, Lucili, aliena sunt, ______ (tempus) tantum nostrum est.* → *tempus*
-2. Übersetze: *Non possum dicere nihil perdere, sed quid perdam et quare et quemadmodum dicam.* — „Ich kann nicht sagen, dass ich nichts verliere, aber was ich verliere, warum und wie ich es sage, das gebe ich an."
+1. Setze ein: *Omnia, Lucili, aliena sunt, ______ (tempus) tantum nostrum est.*
+2. Übersetze: *Non possum dicere nihil perdere, sed quid perdam et quare et quemadmodum dicam.*
 3. Erkläre: Warum ist *vindica te tibi* im Imperativ und nicht im Konjunktiv?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

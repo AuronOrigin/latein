@@ -10,7 +10,7 @@ Nach diesem Kapitel kannst du:
 - das Subjekt sicher bestimmen,
 - Prädikatsnomen und Prädikativum unterscheiden,
 - eine lateinische Satzanalyse Schritt für Schritt durchführen.
----
+:::
 
 :::wortschatz
 **Caecilius** *m.* — Caecilius (Eigename) · **pater, patris** *m.* — Vater ·
@@ -167,21 +167,6 @@ Dieser **Ablativus absolutus** (Kapitel 31) ist eine der eigenartigsten Konstruk
 11. *Caecilius est pater.* 12. *Caecilius est doctus.*
 :::
 
-:::loesung
-**A.**
-1. S *Metella* — P *portat* — O *rosam* 2. S *Caecilius* — P *est* — Adv. *in atriō*, *tablinō* 3. S *Magister* — P *docet* — O *discipulōs, librōs* 4. S *puerī* — P *currunt* — Adv. *in hōrtō*
-
-**B.**
-5. *tablinum* (das Zimmer ist das Subjekt!) 6. Das Subjekt ist **ausgelassen** — „(Er/Sie) liebt die Rose." 7. *magister* (der Hauptsatz), *puella* (im Nebensatz)
-
-**C.**
-8. „Die Tochter liebt den Vater."
-9. „Caecilius und Metella sind in der Villa."
-10. „Der Lehrer ist gelehrt und berühmt."
-
-**D.**
-11. **Prädikatsnomen** (*pater* ist ein Nomen) 12. **Prädikativum** (*doctus* ist ein Adjektiv)
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -192,14 +177,15 @@ Dieser **Ablativus absolutus** (Kapitel 31) ist eine der eigenartigsten Konstruk
 5. Nenne zwei Beispiele für Ablativiale. ______
 :::
 
-:::loesung
-1. Nominativ 2. Dativ 3. Der Nominativ, dessen Zahl zum Verb passt 4. Im Nominativ 5. z. B. *in Rōmā* (Ort), *annō* (Zeit)
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Metella ______ (amat) rosam in hortō.* → *amat*
-2. Übersetze: *Pater est vir clārus et doctus.* — „Der Vater ist ein berühmter und gelehrter Mann." (*vir* ist das Prädikatsnomen.)
-3. Erkläre: Warum ist *est in atriō tablinum* unübersetzbar, ohne den Kontext zu kennen? — Weil unklar bleibt, ob *tablinum* Subjekt („das Arbeitszimmer ist im Atrium") oder Adverbiale („im Arbeitszimmer ist …") ist; erst der zweite Nominal-Akkusativ verrät es: *est in atriō tablinum …*
+1. Setze ein: *Metella ______ (amat) rosam in hortō.*
+2. Übersetze: *Pater est vir clārus et doctus.*
+3. Erkläre: Warum ist *est in atriō tablinum* unübersetzbar, ohne den Kontext zu kennen?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

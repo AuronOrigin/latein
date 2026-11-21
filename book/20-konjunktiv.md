@@ -10,9 +10,7 @@ Nach diesem Kapitel kannst du:
 - die **vier Verwendungen im Hauptsatz** unterscheiden,
 - die Konjunktivformen in Nebensätzen sicher zuordnen,
 - den Konjunktiv vom Indikativ in der Übersetzung unterscheiden.
----
-
-
+:::
 
 :::wortschatz
 **amēm** — ich möge lieben · **amārem** — ich würde lieben ·
@@ -152,21 +150,6 @@ In der Übersetzung ist „möge er" fast immer die sicherere Wahl.
 12. *Vēnit, ut videret.* / *Vēnit, ut vidēbit.*
 :::
 
-:::loesung
-**A.**
-1. *moneam, moneās, moneat, moneāmus, moneātis, moneant* 2. *amētur, amantur* 3. *dūxerim, dūxeris, dūxerit, dūxerīmus, dūxerītis, dūxerint* 4. *amātum esset*
-
-**B.**
-5. Optativus 6. Hortativus 7. Prohibitivus 8. Konjunktiv in der Konditional
-
-**C.**
-9. „Der Lehrer ermahnt die Schüler, sie sollen nicht hinausgehen."
-10. „Wenn doch mein Freund herkäme!"
-11. „Weißt du nicht, dass er ihn liebt?"
-
-**D.**
-12. *ut videret* — Konjunktiv Imperfekt: Absicht in der **Vergangenheit**: „Er kam, um zu sehen (damals)". *ut vidēbit* — Konjunktiv Präsens: der Nebensatz steht im **Futur**: „Er wird kommen, um zu sehen (künftig)".
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -175,14 +158,15 @@ In der Übersetzung ist „möge er" fast immer die sicherere Wahl.
 5. Nenne die vier Verwendungen im Hauptsatz. ______
 :::
 
-:::loesung
-1. *amēm* 2. *moneam* 3. *capiam* 4. *amāverit* 5. Potentialis, Hortativus, Optativus, Jussivus (Prohibitivus)
-:::
 
 :::check Prüfungscheck
-1. Setze ein (Konjunktiv Präsens): *Sī puer ______ (venit), mater laeta erit.* → *vēnit*
-2. Übersetze: *Nēmō tam stultus est, ut hoc nōn videat.* — „Niemand ist so töricht, dass er das nicht sieht."
+1. Setze ein (Konjunktiv Präsens): *Sī puer ______ (venit), mater laeta erit.*
+2. Übersetze: *Nēmō tam stultus est, ut hoc nōn videat.*
 3. Erkläre: Warum steht in *ut videret* der Konjunktiv Imperfekt?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

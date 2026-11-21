@@ -154,7 +154,7 @@ alle drei nehmen einen **Infinitiv**: *mihi licet ire* = „mir ist es erlaubt z
 1. *sum* 2. *possum* 3. *ferō* 4. *fīō* 5. *eō* 6. *dō*
 
 **B. Formen bestimmen.** Nenne Tempus, Person und Numerus:
-7. *fuī* 8. *possuī?* (→ *potuī*) 9. *fertis* 10. *fīunt* 11. *it* 12. *factus est*
+7. *fuī* 8. *possuī?* 9. *fertis* 10. *fīunt* 11. *it* 12. *factus est*
 
 **C. Übersetzen.**
 13. *Rōmānī fortēs sunt et hostēs vincere possunt.*
@@ -164,21 +164,6 @@ alle drei nehmen einen **Infinitiv**: *mihi licet ire* = „mir ist es erlaubt z
 **D. Verstehen.** Erkläre die Form: *futūrus sum* — wozu dient sie?
 :::
 
-:::loesung
-**A.**
-1. *sum, es, est, sumus, estis, sunt* 2. *possum, potes, potest, possumus, potestis, possunt* 3. *ferō, fers, fert, ferimus, fertis, ferunt* 4. *fīō, fīs, fit, fīmus, fītis, fiunt* 5. *eō, īs, it, īmus, ītis, eunt* 6. *dō, dās, dat, damus, datis, dant*
-
-**B.**
-7. *fuī* — Perfekt, 1. Person Singular 8. *potuī* — Perfekt, 1. Person Singular 9. *fertis* — Präsens, 2. Person Plural 10. *fīunt* — Präsens, 3. Person Plural 11. *it* — Präsens, 3. Person Singular 12. *factus est* — Perfekt Passiv, 3. Person Singular („ist geworden“)
-
-**C.**
-13. „Die Römer sind tapfer und können die Feinde besiegen."
-14. „Die Jungen gehen zur Schule." (*ad + Akkusativ* = Richtung auf etwas zu.)
-15. „Mir ist es erlaubt zu sprechen." (*licet* + Dativ + Infinitiv)
-
-**D.**
-*futūrus sum* = „ich werde (sein)". Es ist das **Futurpartizip** mit *sum*: die Umschreibung des **Futur I** (*futūrus sum, -a, -um* = werde sein / werde … werden). Nötig, weil es im Latein keine eigene Form „ich werde + Infinitiv“ gibt.
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -190,14 +175,15 @@ alle drei nehmen einen **Infinitiv**: *mihi licet ire* = „mir ist es erlaubt z
 6. Wie lautet der Perfekt von *dō*? ______
 :::
 
-:::loesung
-1. *sum, es, est, sumus, estis, sunt* 2. *ferō, fers, fert, ferimus, fertis, ferunt* 3. *fierī* 4. *es!* 5. *libet, licet, oportet* 6. *dedī*
-:::
 
 :::check Prüfungscheck
-1. Setze die richtige Form ein: *Magister ______ (sum) in schōlā cum discipulīs.* → *est*
-2. Übersetze: *Rōmānī multa bella gerere potuērunt.* → „Die Römer konnten viele Kriege führen."
-3. Erkläre den Unterschied: *fīō* / *fītur* — dieselbe Form, aber *fīō* heißt „ich werde", *fītur* „er wird/es geschieht". Welche Form ist die aktivere? → *fīō*.
+1. Setze die richtige Form ein: *Magister ______ (sum) in schōlā cum discipulīs.*
+2. Übersetze: *Rōmānī multa bella gerere potuērunt.*
+3. Erkläre den Unterschied: *fīō* / *fītur* — dieselbe Form, aber *fīō* heißt „ich werde", *fītur* „er wird/es geschieht". Welche Form ist die aktivere?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

@@ -10,7 +10,7 @@ Nach diesem Kapitel kannst du:
 - den Genitiv vom Nominativ/Dativ an der Endung unterscheiden,
 - den Genitiv im Satz sicher übersetzen,
 - typische Fehler (vor allem: Genitiv statt Akkusativ) vermeiden.
----
+:::
 
 :::wortschatz
 **pater, patris** *m.* — Vater · **fīlius, -ī** *m.* — Sohn ·
@@ -125,34 +125,17 @@ Deshalb steht im Deutschen oft „von": *der Sieg **von** Caesar*.
 **B. Übersetzen.**
 7. *Pater fīlium suum laudat.*
 8. *Magister discipulōrum librōs dedit.*
-9. *Mulier argentum mariti īnvestīgābat?* → korrigiere!
+9. *Mulier argentum mariti īnvestīgābat?*
 10. *Memoriam patriae semper colō.*
 
 **C. Verstehen.** Erkläre den Genitiv:
 11. *O tempora, o mōres!* (Cicero) — *tempora* und *mōres* sind Akkusativ; *ō* ist Interjektion.
 
 **D. Fallen.** Erkläre den Unterschied:
-12. *Memini puerum in hōrtō vidēre.* → *memini + Akk. + Infinitiv*: „Ich erinnere mich, den Jungen im Garten gesehen zu haben."
+12. *Memini puerum in hōrtō vidēre.*
 13. *Memini puerī in hōrtō vidēre.*
 :::
 
-:::loesung
-**A.**
-1. Characteristicsgenitiv 2. Besitzgenitiv 3. Herkunftsgenitiv 4. Objektgenitiv 5. Partitive Genitiv 6. Subjektgenitiv bei einem Verbalnomen (*senātus* berät)
-
-**B.**
-7. „Der Vater lobt seinen Sohn."
-8. „Der Lehrer gab den Schülern die Bücher."
-9. Richtig: *Mulier argentum marītī īnvestīgābat.* — *marītī* ist Genitiv Singular: „des Ehemannes". Übersetzt: „Die Frau untersuchte das Geld ihres Mannes."
-10. „Ich pflege stets das Andenken an das Vaterland."
-
-**C.**
-*O tempora, o mōres!* = „O Zeiten, o Sitten!" — der Akkusativ ist Ausrucksakkusativ (Anrede), *ō* ist Interjektion. Kein Genitiv.
-
-**D.**
-12. **Akkusativ mit Infinitiv**: *memini + Akk. + Inf.* = „ich erinnere mich, dass/zu … gesehen zu haben" — die Erinnerung als **Tatsache**.
-13. **Genitiv mit Infinitiv**: *memini puerī … vidēre* = „ich erinnere mich an den Jungen, ihn … zu sehen" — der Genitiv bezeichnet **die Person**, an die man sich erinnert, und der Infinitiv die Erinnerung selbst. Diese Konstruktion ist seltener und dem Deutschen fremd; übersetzt: „Ich denke an den Jungen, wie er … sieht."
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -161,14 +144,15 @@ Deshalb steht im Deutschen oft „von": *der Sieg **von** Caesar*.
 5. Wie lautet der Besitzgenitiv zu *puella*? ______
 :::
 
-:::loesung
-1. -ārum 2. -ī 3. *memini, oblīvīscor, mīror* (u. a.) 4. Für die Art/Beschaffenheit 5. *puellae*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Fīlius ______ (patris) in atriō stat.* → *patris*
-2. Übersetze: *Nihil novi sub sole.* — „Nichts Neues unter der Sonne." (*sub + Abl.*, nicht Genitiv — *novī* ist Akkusativ Singular Neutrum: „nichts Neues".)
+1. Setze ein: *Fīlius ______ (patris) in atriō stat.*
+2. Übersetze: *Nihil novi sub sole.*
 3. Erkläre, warum *magnae sapientiae* kein Besitzgenitiv ist.
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

@@ -129,22 +129,6 @@ Der erste Akkusativ ist das **Subjekt** der Aussage (nicht das Objekt von *dīce
 9. *Putō eum esse sapientem.* vs. *Putō eum sapientem esse.* — Was ist der Unterschied?
 :::
 
-:::loesung
-**A.**
-1. *amor, amāris, amātur, amāmur, amāminī, amantur* 2. *mōnitus est, mōnitī sunt* 3. *audītum irī*
-
-**B.**
-4. „Der Lehrer wird von den Schülern ermahnt."
-5. „Es wurden Kriege in Gallien geführt."
-6. „Der Junge wundert sich über die Frau im Garten." (Deponens: *mīrātur* + Akkusativ der Sache, mit der er sich wundert)
-
-**C.**
-7. *patitur* — er erduldet · *sequitur* — er folgt · *nascitur* — er wird geboren · *oritur* — er entsteht · *moritur* — er stirbt
-8. Die Deponentien haben aktive Bedeutung; im Perfekt wechseln sie für einige Verben (z. B. *patior, patī, passus sum*) zur aktiven Form, obwohl die Grundform passiv ist. Bei *sequor, sequī, secūtus sum* bleibt die Perfektform aktiv.
-
-**D.**
-9. Beide sind möglich und bedeuten dasselbe: „Ich glaube, dass er weise ist." Der Unterschied ist stilistisch: die Variante mit *esse* zuerst ist die häufigere.
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -153,14 +137,15 @@ Der erste Akkusativ ist das **Subjekt** der Aussage (nicht das Objekt von *dīce
 5. Wie lautet das Futur Passiv von *amāre*? ______
 :::
 
-:::loesung
-1. Partizip Perfekt Passiv + *sum* 2. *a/ab* + Ablativ 3. *mīror, nāscor, morior* 4. Zwei Akkusative: Subjekt + Prädikatsnomen 5. *amātum irī*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Magister ______ (monēre) a discipulīs.* → *monētur*
-2. Übersetze: *Pūgnātur.* — „Es wird gekämpft."
+1. Setze ein: *Magister ______ (monēre) a discipulīs.*
+2. Übersetze: *Pūgnātur.*
 3. Erkläre: Warum ist *mīrātur* kein Passiv, obwohl es passiv endet?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

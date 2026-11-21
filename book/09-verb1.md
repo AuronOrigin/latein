@@ -129,22 +129,6 @@ Die Regel: *nē* + **Konjunktiv**; *nōn* + **Indikativ/Imperativ**.
 16. *Nē puellam amat!* (Achtung: Verb und Subjekt!)
 :::
 
-:::loesung
-**A.**
-1. *vocō, vocāre, vocāvī, vocātum* 2. *legō, legere, lēgī, lēctum* 3. *audiō, audīre, audīvī, audītum* 4. *moneō, monēre, monuī, mōnitum* 5. *faciō, facere, fēcī, factum*
-
-**B.**
-6. *laudō, laudās, laudat, laudāmus, laudātis, laudant*
-7. *nōrō, nōrās, nōrat, nōrāmus, nōrātis, nōrant*
-8. *errō, errās, errat, errāmus, errātis, errant*
-
-**C.**
-9. 4. Konjugation 10. 4. Konjugation 11. 2. Konjugation 12. 5. (Misch-)Konjugation 13. 1. Konjugation
-
-**D.**
-14. „Das Mädchen liebt Rosen." 15. „Der Lehrer ruft die Schüler und ermahnt sie."
-16. „Das Mädchen liebt [die Rose] nicht!" (hier *nōn*, denn Indikativ; *nē amēs* wäre Konjunktiv)
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -155,21 +139,17 @@ Die Regel: *nē* + **Konjunktiv**; *nōn* + **Indikativ/Imperativ**.
 5. Was unterscheidet *amā-t* von *ama-nt*? ______
 :::
 
-:::loesung
-1. *amō, amāre, amāvī, amātum* 2. -mus 3. Stamm + *-ā* (amā!) 4. *nē* 5. Der lange Themenvokal *ā* vor -t, der kurze *a* vor -nt
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Puer rosam ______ (amāre, Präs. 3. Sg.).* → *amat*
-2. Übersetze: *Magister discipulōs monet.* — „Der Lehrer ermahnt die Schüler."
+1. Setze ein: *Puer rosam ______ (amāre, Präs. 3. Sg.).*
+2. Übersetze: *Magister discipulōs monet.*
 3. Erkläre: Woran erkennst du an *amātum*, dass dies die Partizipform (Hauptform 4) ist und nicht eine 1. Person Singular?
 :::
 
-:::loesung
-1. *amat*
-2. „Der Lehrer ermahnt die Schüler."
-3. An der Endung **-um**: Partizipien im Neutrum Singular enden auf *-um* (wie *amātum, amāta, amātum*). Die 1. Person Singular Präsens lautet *amō*.
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
+
 
 :::vertiefung
 - Alle fünf Konjugationen im Vergleich: Kapitel 10.

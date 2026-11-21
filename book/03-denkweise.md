@@ -178,29 +178,6 @@ Deshalb gilt beim Lesen klassischer Texte:
 11. *Magister discipulōs monet.* / *Discipulī magistrōs monent.*
 :::
 
-:::loesung
-**A.**
-1. **Subjekt** *puella* (Nom.) — **Verb** *portat* — **Objekt** *rosam* (Akk.). Reihenfolge S–O–V.
-2. **S** *magister* — **V** *monet* — **O** *discipulōs* — **Adverbiale** *in schōlā* (Ort, Abl.). S–O–V.
-3. **S** *agrīcola* — **V** *stat* — **O** *equum* — **Adv.** *in agrō*. S–O–V.
-4. **S** *Rōma* — **V** *est* — **Adv.** *in Italiā*. Hier steht das Verb **am Ende**, weil *est* (sein) als Kopula am Satzende steht: **S–V**.
-**Grundsatz:** Das Verb steht hinter dem Objekt, außer bei *esse* und ähnlichen Kopulen.
-
-**B.**
-5. *Puer librum legit.* — wörtlich: „der Knabe den Buch liest"; sinngemäß: „Der Junge liest das Buch." (*legere* = lesen; *librum* Akk.)
-6. *Mulier aquam portat.* — „Die Frau trägt das Wasser."
-7. *In hōrtō rosa est.* — „Im Garten ist eine Rose" / „Die Rose ist im Garten" (hier ist *rosa* Subjekt, wenn der Kontext das nahelegt; ohne Kontext: „im Garten ist eine Rose").
-
-**C.**
-8. *pontem* — Akkusativ als **Objekt**: „Caesar hat die Brücke gebaut."
-9. *decem annōs* — Akkusativ der **Ausdehnung (Dauer)**: „zehn Jahre lang"; *in urbe* — Präposition + Ablativ.
-10. *puerōs* — Akkusativ als **Objekt** („die Knaben“); *ad sē* — Richtung zu sich selbst: „zu sich her".
-
-**D.**
-11. *Magister discipulōs monet.* — Der Lehrer ermahnt die Schüler. (Betont: der **Lehrer** ist der Handelnde.)
-*Discipulī magistrōs monent.* — Die Schüler ermahnen die Lehrer. (Betont: die **Schüler**.)
-Beide Sätze haben dieselbe grammatische Struktur — nur Subjekt und Objekt sind vertauscht, und damit die Aussage.
-:::
 
 :::wortschatz
 **puella, -ae** *f.* — Mädchen · **rosa, -ae** *f.* — Rose · **portō, portāre** — tragen ·
@@ -217,24 +194,17 @@ Beide Sätze haben dieselbe grammatische Struktur — nur Subjekt und Objekt sin
 4. Wodurch betont das Latein ein wichtiges Wort? ______
 :::
 
-:::loesung
-1. Meist **hinten** (zwischen Subjekt und Objekt oder ganz am Ende).
-2. *Stīlus nōminālis* (gen. *nōminālis* von *nōmen* = Name) — „der Stil der Namen“: Aussagen werden in Form von Nomen (Genitive, Infinitiv, Partizip) gemacht.
-3. **Subjekt** (*Amat rosam.*), **Hilfsverb** (*Magister doctus.*), **Artikel** (*Rōma in Italiā est.*).
-4. Durch die **Wortstellung** — das wichtigste Wort steht an der betonten Stelle.
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Puella rosam ______ (portat).* → *portat*
-2. Übersetze: *Caesar pontem fecit.* — „Cäsar hat die Brücke gebaut."
+1. Setze ein: *Puella rosam ______ (portat).*
+2. Übersetze: *Caesar pontem fecit.*
 3. Erkläre: Warum ist *Magister doctus* ein vollständiger lateinischer Satz?
 :::
 
-:::loesung
-1. *portat*
-2. „Cäsar hat die Brücke gebaut."
-3. Weil die Kopula *est* im Indikativ weggfallen darf: *Magister doctus est* = „Der Lehrer ist ein Gelehrter". Die Auslassung ist im Lateinischen ausdrücklich erlaubt (Kapitel 36).
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
+
 
 :::vertiefung
 - Cicero, *Pro rege Caecilio* — berühmter Beleg für den Nominalstil.

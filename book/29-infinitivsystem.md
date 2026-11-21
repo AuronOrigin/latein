@@ -10,7 +10,7 @@ Nach diesem Kapitel kannst du:
 - AcI, Infinitiv als Subjekt und Infinitiv als Objekt sicher bilden,
 - die **Zeitfolge** (consecutio temporum) anwenden,
 - den Akkusativ als Subjekt vom Akkusativobjekt unterscheiden.
----
+:::
 
 :::wortschatz
 **dīcere** — sagen · **putāre** — glauben, denken · **arbitrārī** — entscheiden ·
@@ -140,23 +140,6 @@ Das ist der Unterschied zwischen „Er sagt, er sei krank" (Konjunktiv) und „E
 12. *Rogō eum adesse.* / *Rogō eum adfutūrum esse.*
 :::
 
-:::loesung
-**A.**
-1. **AcI** (Akkusativ + Infinitiv, Verb des Sagens) 2. **Infinitiv als Objekt** (ergänzt *posse*) 3. **Infinitiv als Subjekt** 4. **AcI** mit *rogāre*: Akkusativ ist die Person, um die gebeten wird
-
-**B.**
-5. „Der Lehrer sagte, dass die Schüler starke Taten vollbringen."
-6. „Ich glaubte, dass er im Garten sei."
-7. „Er begehrt, in die Stadt zu gehen."
-8. „Wir wissen nicht, ob sie gekommen ist." (*ea* ist feminine: „sie" — die Frau oder die Sache; *ea vēnit* = „sie ist gekommen".)
-
-**C.**
-9. Präsens (*venīre*), wenn die Aussage jetzt ist; Futur (*venītūrum esse*), wenn sie künftig ist. 10. Perfekt (*vēnisse*) — außer die Aussage bezieht sich auf die Zukunft: dann *venītūrum esse*.
-
-**D.**
-11. *Dīcō eum vēnisse* = **Indikativ**: Ich sage, dass er (tatsächlich) gekommen ist. *Dīcō eum vēnerit* = **Konjunktiv**: Ich gebe nur seine Aussage wieder, dass er gekommen sei (ob es wahr ist, steht nicht fest).
-12. *Rogō eum adesse* = „Ich bitte ihn, **da zu sein**" (gegenwärtig). *Rogō eum adfutūrum esse* = „Ich bitte ihn, **dabeizusein**" (künftig) — *adfutūrum esse* ist der Infinitiv von *adsum, adesse*.
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -167,14 +150,15 @@ Das ist der Unterschied zwischen „Er sagt, er sei krank" (Konjunktiv) und „E
 5. Nenne zwei Verben, die einen Infinitiv als Objekt nehmen. ______
 :::
 
-:::loesung
-1. *īre* 2. Subjekt des Infinitivs 3. Gegenwart → Präsens, Vergangenheit → Perfekt 4. Wenn die Aussage als Geäußertes (nicht als Faktum) wiedergegeben wird 5. *cupere, posse, velle, coepisse*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Magister discipulōs admonuit fortia ______ (facere).* → *facere*
-2. Übersetze: *Dīcō eum in Galliā esse.* — „Ich sage, dass er in Gallien ist."
+1. Setze ein: *Magister discipulōs admonuit fortia ______ (facere).*
+2. Übersetze: *Dīcō eum in Galliā esse.*
 3. Erkläre: Warum ist *putāvi eum in hōrtō esse* die richtige Zeitfolge und nicht *putāvi eum in hōrtō futūrum esse?*
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

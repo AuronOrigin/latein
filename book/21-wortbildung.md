@@ -148,22 +148,6 @@ Wenn du ein unbekanntes Wort siehst, geh so vor:
 14. *cantō, cantāre* 15. *fortitūdō* 16. *agricultura* 17. *militāris* 18. *rēgīna*
 :::
 
-:::loesung
-**A.**
-1. *adferō* — herbringen, bringen (ad- + ferō) 2. *dēferō* — herabtragen, wegbringen (dē- + ferō) 3. *exferō* — herausbringen (ex- + ferō) 4. *circumferō* — herumtragen (circum- + ferō) 5. *trānsferō* — hinüberbringen, übertragen (trans- + ferō)
-(Achtung: *adferō*, *dēferō*, *exferō* usw. heißen alle auch „vorladen, vorwerfen, anklagen" — je nach Kontext.)
-
-**B.**
-6. *fortis* → *fortitūdō* (Tapferkeit), *fortūnātus*? (nein, andere Wurzel) — korrekt: *fortitūdō, fortiter* (Adverb), *fortīs* selbst
-7. *vīvus* → *vīta* (Leben), *vītālis* (lebenswichtig), *vīvō* (ich lebe), *vīvum* (lebendig)
-8. *magnus* → *magnitūdō* (Größe), *magnānum* (großes Gut), *magnāre* (vergrößern), *magnopere* (sehr)
-
-**C.**
-9. kriegslustig 10. die Seefahrt 11. großherzig 12. lebenswichtig 13. gefährlich
-
-**D.**
-14. **Verb** — Infinitiv auf *-āre* → 1. Konjugation 15. **Nomen** — auf *-tūdō* → abstraktes Nomen 16. **Nomen** — Kompositum aus *ager* + *cultūra* 17. **Adjektiv** — auf *-āris*, gehört zu *mīles* 18. **Nomen** — auf *-īna*, weibliches Nomen (von *rēx*)
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -174,14 +158,15 @@ Wenn du ein unbekanntes Wort siehst, geh so vor:
 5. In welcher Reihenfolge stehen die Bestandteile eines lateinischen Kompositums? ______
 :::
 
-:::loesung
-1. z. B. ad- (zu), ex- (aus), per- (durch), sub- (unter), trans- (über) 2. *-īre* 3. *-tūdō* (oder *-mentum*) 4. *prīnceps* + *-ium* 5. Bestimmungswort zuerst
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Magister ______ (venit) ad schōlam cum discipulīs.* → *vēnit*
-2. Übersetze: *Hostēs urbem magnīs ignibus dēferunt.* — „Die Feinde tragen die Stadt mit großen Feuern nieder" (dēferō = niederreißen).
+1. Setze ein: *Magister ______ (venit) ad schōlam cum discipulīs.*
+2. Übersetze: *Hostēs urbem magnīs ignibus dēferunt.*
 3. Erkläre: *adferō* und *ad puellam* — warum ist das nicht dasselbe?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

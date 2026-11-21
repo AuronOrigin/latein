@@ -236,19 +236,6 @@ Wer *Aeneis* I liest, liest also den **Gründungstext Roms** — geschrieben in 
 11. Schreibe einen eigenen Hexameter-Einstieg nach dem Muster: „Ich singe von X und Y, der …"
 :::
 
-:::loesung
-**A.**
-1. Von der **Haferpfeife** und von den Feldern: „Jener ich, der einst mit der dünnen Haferpfeife ein Lied begleitete" — der Prolog, den Vergil wieder gestrichen hat. Er war ein einfacher Hirte, der seinen Wald in einen Platz verwandelte, an dem Bauern gern arbeiteten (Vergils biographische Selbstbeschreibung, *Bucolica*). 2. **Aeneas**, der Sohn des Anchises und der Venus, der von Troja nach Italien floh. 3. Weil Junons Zorn auf Aeneas lastete (aus der *Ilias* übernommen) — sie verfolgte ihn und seine Nachkommen, die später Karthago gründeten: Roms Gegner. 4. Dass sie ihm die Gründe nennt: „welche Gottheit war verletzt, und was litt die Königin der Götter, dass sie den frommen Mann so vieles wenden ließ“.
-
-**B.**
-5. „Waffen und den Mann singe ich, der als Erster von der Küste Trojas nach Italien kam, vom Schicksal vertrieben, und zu den Küsten Laviniums gelangte." 6. „Vieles auch im Kriege erlitt er, solange er die Stadt gründete." 7. „Muse, gedenke mir der Gründe."
-
-**C.**
-8. Wegen des **historischen Präsens** — Vergil erzählt in der Gegenwart, „zieht es“ (vgl. Kapitel 39). 9. *Passus* ist das Partizip Perfekt Passiv von *patior*, hat hier aber **aktiven Sinn**: „was er erlitt". (So wie *iactatus* in Z. 7.) 10. *Multum ille* wird von *iactatus* getrennt, und zwischen Subjekt und Partizip steht die Doppelangabe *et terris … et alto*. Der Satz beginnt also mit einem **Exkurs** über das Ausmaß des Umhergetriebenwerdens und kommt dann zum Kern.
-
-**D.**
-11. z. B. *Arma cano et urbem, quam condit in laribus ille …* — frei nach dem Muster; wichtig ist die Struktur: Objekt + Relativsatz + Hauptverb.
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -258,14 +245,15 @@ Wer *Aeneis* I liest, liest also den **Gründungstext Roms** — geschrieben in 
 4. Wie viele Zeilen umfasst die Anrede an die Muse in diesem Auszug? ______
 :::
 
-:::loesung
-1. *Arma virumque cano* 2. Die Trennung grammatisch zusammengehöriger Wörter 3. Der Wechsel des Wortes mit dem bezeichneten Gegenstand 4. Vier (Z. 8–11)
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Arma virumque ______ (cano), Troiae qui primus ab oris …* → *canō*
-2. Übersetze: *inferretque deos Latio, genus unde Latinum.* — „und die Götter nach Latium einbrachte, von woher das lateinische Geschlecht stammt."
+1. Setze ein: *Arma virumque ______ (cano), Troiae qui primus ab oris …*
+2. Übersetze: *inferretque deos Latio, genus unde Latinum.*
 3. Erkläre: Warum ist *iactatus* im Text passiv, *passus* aber nicht?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

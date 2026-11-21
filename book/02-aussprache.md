@@ -94,10 +94,10 @@ Die Silbentrennung regelt das Latein erstaunlich genau:
 Trenne: *agricola, puella, consulis, pulchritudo, magistri*.
 :::
 
-:::loesung
-*agri-cola* (a-gri-co-la: 4 Silben) · *pu-e-lla* (pu-el-la: 3 Silben) · *con-su-lis* (3) · *pul-chri-tu-do* (4) · *ma-gis-tri* (3).
-Beachte: *ma-gis-tri* — **i** vor *st* bleibt bei der Konsonantengruppe.
+:::info Lösung
+Die Lösung zu dieser **Mikroübung** steht in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54), im Abschnitt „02".
 :::
+
 
 ## Betonung
 
@@ -138,18 +138,19 @@ Latein wird im Fluss verständlich, nicht am Einzelsatz-Anfang.
 **Schritt 3 — verstehen:**
 „Die Gallier hatten in Gallien viele Städte. In deren Mitte aber war kein bekannter Marktfleck. Die Römer jedoch bauten eine lange Brücke und trieben die Feinde zurück."
 
-:::loesung Wort-für-Wort
-`Gallīī` Gallier (Nom. Pl.) · `in Galliā` in Gallien (Abl.) · `multās urbes` viele Städte (Akk. Pl.) · `habēbant` sie hatten (Imperf.) · `in quārum mediō` in deren Mitte (Gen. + Abl.) · `oppidō` Marktfleck/ befestigter Ort (Abl.) · `clārum` berühmt/wichtig (Akk. Sg.) · `non erat` es war nicht (Imperf.) · `Rōmānī` die Römer (Nom. Pl.) · `autem` jedoch · `pontem longum` eine lange Brücke (Akk.) · `fēcērunt` sie bauten (Perf.) · `et` und · `hostēs` die Feinde (Akk. Pl.) · `repulērunt` sie trieben zurück (Perf.)
+:::info Lösung
+Die **Wort-für-Wort-Übersetzung** zu diesem Lesestück steht in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54), im Abschnitt „02".
 :::
+
 
 :::mikro Übung 2 — Aussprache
 Sprich laut: *Cāesar, aeolus, quinque, philosophus, veni, aquila, ratio, Iūlius, mūsa, poena*.
 :::
 
-:::loesung
-*Kai-sar, ai-o-lus, kwin-kwe, fi-lo-so-fus, we-ni, a-ku-la, ra-ti-o, Ju-li-us, mu-za, poi-na.*
-Beachte: *philosophus* = *fi-lo-so-fus* (ph = f, ch = kh), *philosophia* = *fi-lo-so-fi-a*.
+:::info Lösung
+Die Lösung zu dieser **Mikroübung** steht in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54), im Abschnitt „02".
 :::
+
 
 :::uebung Übungen
 1. Zerlege in Silben und markiere die Betonung: *puella, aqua, consul, puer, magister, civitas, argentum, laudat, puellam, amīcus*.
@@ -159,13 +160,6 @@ Beachte: *philosophus* = *fi-lo-so-fus* (ph = f, ch = kh), *philosophia* = *fi-l
 5. Warum ist *aqua* zweisyllabig, aber *aquare* dreisyllabig? Ziehe die Betonungsregel heran.
 :::
 
-:::loesung
-1. *pu-él-la · á-qua · cón-sul · puer · má-gis-ter · ci-ví-tas · ar-gén-tum · lau-dát · pu-él-lam · a-mí-cus.*
-2. Diphthong: *poena* (oe), *aurum* (au), *caesar* (ae), *deinde* (ei), *claudō* (au). — *laudat* (au), *puer*, *amīcus* (keiner).
-3. *caesar*, *videre* (das *u* gehört zum *qu*), *scriptum*.
-4. *Puellā* und *puellam* sind zweisyllabig → Betonung auf der ersten Silbe (Zweisilbenregel). Der Kasus ändert die **Endung**, nicht die Betonung.
-5. *Aquă* ist zweisyllabig (a-qua) → erste Silbe. *Aquāre* ist dreisyllabig (a-qua-re); die letzte Silbe *-re* ist kurz, deshalb bleibt die Betonung auf der ersten Silbe: **áquare**.
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -175,12 +169,6 @@ Beachte: *philosophus* = *fi-lo-so-fus* (ph = f, ch = kh), *philosophia* = *fi-l
 4. Nenne drei Zweisilbner mit kurzer Endung. ______
 :::
 
-:::loesung
-1. Fünf: *a, e, i, o, u* — ohne Umlaute.
-2. **Zweisilber** → Betonung auf der ersten Silbe (bei langer Endung auf der zweiten). **Dreisilber** → Betonung auf der dritten, wenn die Endung kurz ist, sonst auf der ersten. **Viersilber** → Betonung auf der dritten, wenn die Endung lang ist, sonst auf der zweiten.
-3. *a-qua* — zwei Silben, Betonung auf **á** (Zweisilbenregel).
-4. *puella* (pu-él-la), *aqua* (á-qua), *rosa* (ró-sa), *via* (ví-a), *hortus* (hór-tus), *puer* (pu-er), *magister* (ma-gís-ter).
-:::
 
 :::check Prüfungscheck
 1. Setze die Akzente richtig: *PUELLA*, *AQUA*, *CONSUL*, *ARGENTUM*, *LAUDAT*.
@@ -188,11 +176,10 @@ Beachte: *philosophus* = *fi-lo-so-fus* (ph = f, ch = kh), *philosophia* = *fi-l
 3. Erkläre: Warum ist *amīcus* zweisilbig, *amīcitia* aber dreisilbig — und wo liegt jeweils die Betonung?
 :::
 
-:::loesung
-1. *pu-él-la · á-qua · cón-sul · ar-gén-tum · lau-dát.*
-2. „Der Junge liebt die Rose."
-3. *Amīcus* ist zweisilbig → Betonung auf der ersten Silbe (*a-mí-cus*). *Amīcitia* ist dreisilbig; die Endung *-tia* ist kurz, also Betonung auf der dritten Silbe (*a-mi-cí-tia*).
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
+
 
 :::vertiefung
 - *Vox Latina* (Heinrich Sweet, 1880) — die klassische Aussprache in phonetischer Umschrift, mit Übungen.

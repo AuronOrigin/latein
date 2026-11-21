@@ -250,16 +250,6 @@ Nach diesem Anhang kannst du:
 12. Schreibe einen vollständigen Satz mit *futurum periphrasticum* und einen mit *passivum periphrasticum*.
 :::
 
-:::loesung
-**A.**
-1. regam, regās, regat, regāmus, regātis, regant. 2. audiō → audīvī, audīvistī, audīvit, audīvimus, audīvistis, audīvērunt. 3. laudātus sum, laudāta es, laudātum est, laudātī sumus, laudātae sumus, laudāta sumus, laudātī estis, laudātae estis, laudāta estis, laudātī sunt, laudātae sunt, laudāta sunt. 4. optimus, pēssimus, maximus, minimus, difficillimus. 5. mihi, tibi, sibi, nōbīs, vōbīs, sibi.
-
-**B.**
-6. *cōnsul, cōnsulis* → 3. Deklination, Typ i (Konsonantendeklination). 7. rērum, mēnsium, corporum. 8. **-ātis**: *audiātis*. 9. *Amāvī* = **ich habe geliebt** (Aktiv Perfekt, Bezug auf die Gegenwart); *amāta est* = **er/sie ist gelobt worden** (Passiv Perfekt, Bezug auf die Gegenwart). 10. Alle vier Formen gehören zu *sum, esse, fuī*; *sum* ist Präsens Indikativ, *erat* Imperfekt, *fuit* Perfekt, *fuī* Perfekt (1. Sg.).
-
-**C.**
-11. *Dīcit sē esse mālum.* / *Dīxit sē mālum esse.* (prōnomen *sē* statt *ipsum*; Konjunktiv Präsens nach Präsens, Perfekt nach Perfekt). 12. *Clamābit animōs meōs esse fortēs* (ich werde mutig sein) / *Laudātus est vir bonus* (der brave Mann ist gelobt worden).
-:::
 
 :::wiederholung Wiederholungsfach
 1. Welche Endung hat die 3. Person Plural Konjunktiv Präsens der 1. Konjugation? ______
@@ -269,14 +259,15 @@ Nach diesem Anhang kannst du:
 5. Welche sechs Verben zwingen im Hauptsatz den Konjunktiv? ______
 :::
 
-:::loesung
-1. **-ent** (ament). 2. *doctus, docta, doctum est* — Plural: *doctī, doctae, docta sunt*. 3. Fünf: -ī, -ōrum, -um, -ium, -īus (im 4./5. Dekl.: -ūs). 4. *possum, posse, potuī*. 5. z. B. *putō, cēnseō, exīstimō, dūcō, nēscīō, timeō* — die vollständige Liste steht in Abschnitt 8.
-:::
 
 :::check Prüfungscheck
 1. Decke die rechte Spalte in Abschnitt 1 ab und bilde alle Formen der 3. Deklination aus dem Gedächtnis. Dann decke die linke Spalte ab und bestimme die Deklination.
 2. Decke Abschnitt 4 ab und bilde den Konjunktiv Präsens aller vier Konjugationen. Vergleiche die vier Endungsfamilien — sie sind verschieden, die **Tempus** sind es nicht.
 3. Schreibe einen Satz mit *acerbus, acerba, acerbum* und prüfe, ob du die 3. Deklination sicher beherrschst.
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

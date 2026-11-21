@@ -10,7 +10,7 @@ Nach diesem Kapitel kannst du:
 - die **Zeitfolge** sicher anwenden,
 - die drei Konstruktionen der indirekten Rede unterscheiden (AcI, NcI, Konjunktiv),
 - erklären, warum das Latein keinen Konjunktiv in AcI braucht.
----
+:::
 
 :::wortschatz
 **dīcō** — sagen · **putō** — glauben · **arbitror** — meine, entscheiden ·
@@ -139,27 +139,12 @@ Aus indirekter Rede macht man direkte, indem man:
 **C. Zeitfolge.**
 8. *Dīcō:* → *venīre / vēnisse / ventūrum esse?*
 9. *Dīxī:* → *venīre / vēnisse / ventūrum esse?*
-10. *Dīxī: „crās veniam."* → *Dīxī crās ___ esse.*
+10. *Dīxī: „crās veniam."*
 
 **D. Verstehen.** Erkläre den Unterschied:
 11. *Dīcō eum vēnisse.* / *Dīcō eum vēnerit.*
 :::
 
-:::loesung
-**A.**
-1. *Dīcō puerum amāre.* 2. *Dīxī magistrī adesse.* 3. *Putō eum fortem esse.* 4. *Dīxī eum vēnisse.*
-
-**B.**
-5. „Ich sagte, dass er im Garten sei."
-6. „Ich glaubte, dass er gekommen sei."
-7. „Die Mutter sagt, dass ihr Sohn morgen kommen wird."
-
-**C.**
-8. Präsens (*venīre*), wenn die Aussage die Gegenwart betrifft; Futur (*ventūrum esse*), wenn künftig. 9. Perfekt (*vēnisse*), wenn vergangen; Futur (*ventūrum esse*), wenn künftig. 10. *ventūrum* — denn das Ereignis liegt in der Zukunft des Sprechens, auch wenn der Hauptsatz vergangen ist.
-
-**D.**
-11. *Dīcō eum vēnisse* (Indikativ): Ich sage, dass er **tatsächlich gekommen ist** — der Sprecher bürgt für die Tatsache. *Dīcō eum vēnerit* (Konjunktiv): Ich gebe nur wieder, **was er gesagt hat** — ob es wahr ist, bleibt offen.
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -169,14 +154,15 @@ Aus indirekter Rede macht man direkte, indem man:
 4. Nenne die drei Formen der indirekten Rede. ______
 :::
 
-:::loesung
-1. Jetzt → Präsens, Damals → Perfekt 2. *Dīcō eum venīre.* 3. Ein AcI (Infinitiv) 4. AcI, NcI, Konjunktiv-Nebensatz
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Dīcō puerum ______ (venīre).* → *venīre*
-2. Übersetze: *Dīxī sē victōrem esse.* — „Ich sagte, dass ich der Sieger sei." (*sē* ist der Akkusativ des Rückbezugs auf das Subjekt des Sprechers.)
+1. Setze ein: *Dīcō puerum ______ (venīre).*
+2. Übersetze: *Dīxī sē victōrem esse.*
 3. Erkläre, warum *dīxī crās ventūrum esse* nicht *dīxī crās vēnisse* heißt.
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

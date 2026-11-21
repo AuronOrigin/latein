@@ -10,7 +10,7 @@ Nach diesem Kapitel kannst du:
 - Genus, Numerus und Kasus des Relativpronomens bestimmen,
 - Relativsätze mit Konjunktiv (Zweck, Merkmal) unterscheiden,
 - die Besonderheiten (*quī* als unbestimmtes Relativ, Auslassung des Bezugsworts) anwenden.
----
+:::
 
 :::wortschatz
 **quī, quae, quod** — welcher/welche/welches · **cuius** — dessen · **quem** — welchen ·
@@ -120,24 +120,9 @@ Manchmal steht das Relativpronomen **ohne** vorangehendes Bezugswort — das Bez
 8. *Quis amat, amat puellam.* / *Puella quae amat, amat puerum.*
 
 **D. Formulieren.** Relativsatz aus dem Hauptsatz herauslösen:
-9. *Magister, quem puerī amābant, mortuus est.* → *Der Lehrer ist gestorben.*
+9. *Magister, quem puerī amābant, mortuus est.*
 :::
 
-:::loesung
-**A.**
-1. *quī* (Nom., mask.) 2. *quae* (Nom., fem.) 3. *quae* (Nom. Pl.) 4. *quī* (Nom., mask.)
-
-**B.**
-5. „Das Mädchen, das die Rose liebt, ist im Garten."
-6. „Der Feldherr, der die Soldaten geführt hatte, kehrte zurück."
-7. „Die Frauen, die in der Schule waren, waren Schülerinnen."
-
-**C.**
-8. *Quis amat, amat puellam* = unbestimmtes Relativ: „Wer (jemand) liebt, liebt ein Mädchen." *Puella quae amat, amat puerum* = „Das Mädchen, das liebt, liebt den Jungen."
-
-**D.**
-9. *Magister, quem puerī amābant, mortuus est* → „Der Lehrer, den die Jungen liebten, ist gestorben."
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -148,14 +133,15 @@ Manchmal steht das Relativpronomen **ohne** vorangehendes Bezugswort — das Bez
 5. Was ist *quis* als unbestimmtes Relativ? ______
 :::
 
-:::loesung
-1. Nach dem Bezugswort 2. Nach der Rolle im Relativsatz 3. *cuius* und *cui* 4. Bei Zweck (final) und Folge (consecutiv) 5. „Jemand, der …"
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Fīlia … pater amat.* (Bezug: fem. Sg., Akkusativ) → *quam*
-2. Übersetze: *Litterae quas mihi scrīptae sunt.* — „Die Briefe, die mir geschrieben worden sind." (AcP)
+1. Setze ein: *Fīlia … pater amat.* (Bezug: fem. Sg., Akkusativ)
+2. Übersetze: *Litterae quas mihi scrīptae sunt.*
 3. Erkläre: Warum kann das Bezugswort auch **nach** dem Relativsatz stehen?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

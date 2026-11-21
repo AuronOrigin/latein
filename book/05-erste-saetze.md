@@ -158,9 +158,10 @@ Der **Imperativ Präsens** nimmt die Personalendung der 2. Person Singular und e
 Bilde den Imperativ: *amāre, monēre, legere, audīre* — je Singular und Plural.
 :::
 
-:::loesung
-*amā! / amāte!* · *monē! / monēte!* · *lege! / legite!* · *audī! / audīte!*
+:::info Lösung
+Die Lösung zu dieser **Mikroübung** steht in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54), im Abschnitt „05".
 :::
+
 
 ## Übungen
 
@@ -190,23 +191,6 @@ Bilde den Imperativ: *amāre, monēre, legere, audīre* — je Singular und Plur
 16. „Der Lehrer ermahnt die Schüler."
 :::
 
-:::loesung
-**A.**
-1. *estis* 2. *amāmus* 3. *rosās* 4. *puellārum* 5. *magistrum* 6. *est*
-
-**B.**
-7. *Puer rosam amat.* — „Der Junge liebt die Rose."
-8. *Magister discipulōs monet.* — „Der Lehrer ermahnt die Schüler."
-9. *Rōma in Italiā est.* — „Rom ist in Italien."
-10. *Nōs in schōlā sumus.* — „Wir sind in der Schule."
-
-**C.**
-11. S *puer* — V *legit* — O *librum* 12. S *puella* — V *sedet* — Adv. *in hortō* 13. S *magister* — V *amat* — O *discipulōs*
-
-**D.**
-14. *Puer librum legit.* 15. *Puella in hortō est.* 16. *Magister discipulōs monet.*
-(Bei 15 gibt es zwei gleichwertige Wortstellungen: *Puella in hortō est.* / *In hortō puella est.*)
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -216,24 +200,17 @@ Bilde den Imperativ: *amāre, monēre, legere, audīre* — je Singular und Plur
 4. Welche zwei Wortstellungen sind bei *Puella in hortō est* möglich? ______
 :::
 
-:::loesung
-1. *sum, es, est, sumus, estis, sunt.*
-2. *ego* (Akkusativ *mē*).
-3. *Nōs in schōlā sumus.*
-4. *Puella in hortō est.* und *In hortō puella est.* — beide bedeuten dasselbe; die Stellung zeigt, was betont wird.
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Pueri ______ (esse) in hōrtō.* → *sunt*
-2. Übersetze: *Magister doctus est.* — „Der Lehrer ist ein Gelehrter."
+1. Setze ein: *Pueri ______ (esse) in hōrtō.*
+2. Übersetze: *Magister doctus est.*
 3. Erkläre: Warum fehlt im Deutschen ein Artikel, im Latein aber auch?
 :::
 
-:::loesung
-1. *sunt*
-2. „Der Lehrer ist ein Gelehrter."
-3. Beide Sprachen lassen den **unbestimmten Artikel** weg, wenn er keine Information trägt. Im Deutschen ist der Artikel nur obligatorisch, weil das Nomen allein als Nominativ missverständlich wäre (*Puer — ein Junge?*); das Lateinische löst das über den **Kasus**.
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
+
 
 :::vertiefung
 - Ørbergs *Lingua Latina* (Kapitel 1–3) beginnt mit genau diesen Sätzen — in lateinischer Sprache.

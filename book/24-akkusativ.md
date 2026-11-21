@@ -10,7 +10,7 @@ Nach diesem Kapitel kannst du:
 - den Akkusativ der Richtung sicher anwenden,
 - den Akkusativ als Ausruf und als Akkusativ+Infinitiv erkennen,
 - den Akkusativ vom Nominativ und vom Ablativ unterscheiden.
----
+:::
 
 :::wortschatz
 **rosam** — die Rose (Akk.) · **hortum** — den Garten (Akk.) · **Rōmam** — nach Rom (Akk.) ·
@@ -126,26 +126,10 @@ Der Akkusativ ist hier kein Objekt von *dīcere*, sondern **Subjekt des Infiniti
 10. *Rōmam īvit* / *in Rōmam īvit*
 
 **D. Satzgestaltung.** Formuliere um:
-11. *Magister librōs dedit puerōs.* → mit Akkusativ und Dativ
-12. *Dīcō librum esse utilem.* → mit Akkusativ als Subjekt
+11. *Magister librōs dedit puerōs.*
+12. *Dīcō librum esse utilem.*
 :::
 
-:::loesung
-**A.**
-1. Objekt 2. Richtung (Ort wohin) 3. Ausdehnung (Zeit) 4. Bezug (griech. Akkusativ) 5. Ausruf
-
-**B.**
-6. „Die Jungen gingen auf den Forum und kauften Bücher."
-7. „Der Lehrer ermahnte alle Schüler."
-8. „Die Frau lebte drei Jahre in Rom."
-
-**C.**
-9. *annōs decem* = Akkusativ der **Dauer** → „zehn Jahre lang"; *annō decemō* = Ablativ des **Zeitpunkts** → „im zehnten Jahr".
-10. *Rōmam* = Richtung **nach Rom** (ohne Präposition, Ortsname); *in Rōmam* = **in** Rom hinein.
-
-**D.**
-11. *Magister puerōs librōs dedit.* 12. *Dīcō librum esse utilem.* (schon so — der Akkusativ *librum* ist hier Subjekt des Infinitivs)
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -155,14 +139,15 @@ Der Akkusativ ist hier kein Objekt von *dīcere*, sondern **Subjekt des Infiniti
 5. Nenne zwei Verben mit Dativrektion. ______
 :::
 
-:::loesung
-1. *Rōmam* 2. *annōs decem* 3. Griechischer Akkusativ 4. Subjekt des Infinitivs 5. *parcere, irascī*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Puer ______ (amat) puellam in hortō.* → *amat*
-2. Übersetze: *Dux milites in aciē dūxit.* — „Der Feldherr führte die Soldaten in die Schlachtordnung."
+1. Setze ein: *Puer ______ (amat) puellam in hortō.*
+2. Übersetze: *Dux milites in aciē dūxit.*
 3. Erkläre, warum *in Rōmam* und *Rōmam* nicht dasselbe bedeuten.
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

@@ -246,19 +246,6 @@ Die goldene Zeit kennt kein *aes* (Erz = Waffenmaterial), kein *ensis*, keine *c
 11. Formuliere eine Sentenz nach dem Muster von *sine lege fidem rectumque colebat*: „Ohne X lebten die Menschen Y."
 :::
 
-:::loesung
-**A.**
-1. Um Beistand für sein Vorhaben — er will von ihren **Verwandlungen** erzählen. 2. Im goldenen Zeitalter gibt es **keine Strafgesetze**; im silbernen beginnt die erste göttliche Ordnung (Jahreszeiten, Arbeit, Zucht). 3. „Ohne Gesetz" — nicht ohne Ordnung, sondern ohne **aufgezwungenes** Recht; die Güter wurden aus eigenem Willen gewahrt, nicht durch Strafen erzwungen. 4. Die Bäume (Kiefern), die Gräben/Städtebefestigungen, die Trompeten und Hörner, die Helme und Schwerter.
-
-**B.**
-5. „Das goldene Zeitalter ward zuerst geboren." 6. „Noch waren die Bäume nicht gefällt, um die fremde Welt zu sehen." 7. „Es gab keine aufgerichtete Trompete, kein geblasenes Horn aus Erz, keinen Helm, kein Schwert."
-
-**C.**
-8. Weil *ut viseret* eine **finale** Erweiterung ist: „damit er die Welt sähe" — der Konjunktiv steht bei Absicht. 9. „**Geworden / geboren**" — Passiv zu *serō, serere* = „säen, pflanzen". 10. Die **vierfache Verneinung** (*non … non … non … non …*) drückt aus: Nichts von dem, was später üblich wurde, war vorhanden. Die Wiederholung macht das Bild **vollständig** — kein einziges Stück des Kriegswesens fehlt.
-
-**D.**
-11. z. B. *Sine metu homines in pace vivebant.* — „Ohne Furcht lebten die Menschen in Frieden."
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -268,14 +255,15 @@ Die goldene Zeit kennt kein *aes* (Erz = Waffenmaterial), kein *ensis*, keine *c
 4. Nenne drei Dinge, die im Goldenen Zeitalter fehlen. ______
 :::
 
-:::loesung
-1. Vier: Gold, Silber, Bronze, Eisen 2. Ohne aufgezwungenes Gesetz — aus eigenem Willen 3. Sechs 4. Bäume, Gräben, Trompeten/Hörner, Helme/Schwerter
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Aurea prima ______ (sum) aetas.* → *sata est*
-2. Übersetze: *Sed erant sine vindice tuti.* — „Sondern sie waren ohne Beschützer in Sicherheit."
+1. Setze ein: *Aurea prima ______ (sum) aetas.*
+2. Übersetze: *Sed erant sine vindice tuti.*
 3. Erkläre: Warum ist *metusque aberant* (Nominalstil) stilistisch stärker als *metus non erat*?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

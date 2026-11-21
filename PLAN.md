@@ -150,9 +150,30 @@ TEIL VI — ANHÄNGE
  50  Anhang I   Vokabelverzeichnis: 893 Kernvokabeln in fünf Stufen (A–E)
  51  Anhang II  Glossar der Fachbegriffe: 182 Begriffe mit Herkunft und Kapitelverweis
  52  Anhang III Formenspiegel: Deklinationen, Steigerung, Pronomina, Konjugation, Tempus/Modus
- 53  Anhang IV  Gesamtprüfung: 43 Aufgaben aus allen Teilen — mit vollständigen Lösungen
+ 53  Anhang IV  Gesamtprüfung: 43 Aufgaben aus allen Teilen (100 Punkte)
+ 54  Anhang V   Lösungen zu allen Übungen: Übungsblöcke, Wiederholungsfächer,
+                Prüfungschecks und der Lösungsband zur Gesamtprüfung
 
-*(Endstand: 54 Kapitel in `book/00-…` bis `book/53-…`. Die Lektüre wurde gegenüber dem Entwurf von „12 Texte" auf **zehn** konkretisierte Texte in **je einem eigenen Kapitel** umgesetzt; Vokabel-Lernsystem, Wortbildungs-Übungen, Literaturverzeichnis und 12-Wochen-Plan sind in die Anhänge 50–53 sowie das Vorwort integriert.)*
+*(Endstand: 55 Kapitel in `book/00-…` bis `book/54-…`. Die Lektüre wurde gegenüber dem Entwurf von „12 Texte" auf **zehn** konkretisierte Texte in **je einem eigenen Kapitel** umgesetzt; Vokabel-Lernsystem, Wortbildungs-Übungen, Literaturverzeichnis und 12-Wochen-Plan sind in die Anhänge 50–54 sowie das Vorwort integriert. Die Lösungen stehen
+nicht beim Aufgabentext, sondern gesammelt in Anhang V — so dient das Buch zugleich als
+Arbeitsheft und als Lösungsbuch.)*
+
+### 6a. Der Lösungs-Werkzeugbau (`build/loesungen/`)
+
+Damit Anhang V jederzeit **reproduzierbar** bleibt, liegen Generator und Daten
+im Repository statt in `/tmp`:
+
+| Datei | Inhalt |
+|---|---|
+| `moved.json` | die 122 aus den Kapiteln migrierten Lösungen (Übungsblöcke, Wiederholungsfächer, Mikroübungen, Check-Lösungen der Kapitel 02–10) |
+| `stripped.json` | die 123 beim Bereinigen der Kapitel entfernten Inline-Antworten (Prüfungscheck-Aufgaben 1 und 2) |
+| `check_answers_a/b/c.py` | die fachlichen Musterantworten auf die offenen Prüfungscheck-Fragen der Kapitel 01 und 11–53 |
+| `teil_e_block.md` | der Lösungsband zur Gesamtprüfung (Teil E) |
+| `strip_answers.py` | entfernt die Antwortmarker aus den Kapiteldateien (`--check` = Probelauf) |
+| `build_anhang.py` | erzeugt `book/54-anhang-loesungen.md` aus allen Quellen |
+
+Ablauf: `python3 build/loesungen/strip_answers.py` → `python3 build/loesungen/build_anhang.py` → `python3 build/build.py --all`.
+Ergebnis: **171 Lösungskästen** (53 Übungsblöcke, 53 Wiederholungsfächer, 54 Prüfungschecks, 6 Mikroübungen, 1 Wort-für-Wort-Übersetzung, 4 Gesamtprüfungsteile, 2 anhangseigene) — **jede** Bausteinaufgabe aller 53 Kapitel hat genau eine Lösung.
 
 ---
 

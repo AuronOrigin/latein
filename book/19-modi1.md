@@ -140,23 +140,6 @@ Immer prüfen: Steht ein **Partizip + esse**, ist es eine Verbform. Steht ein **
 13. *Dīcō eum amāvisse.* / *Dīcō eum amāre.*
 :::
 
-:::loesung
-**A.**
-1. *monē!/monēte!* · *dūce!/dūcite!* · *audī!/audīte!* · *cape!/capite!*
-2. *Nē amā!* (auch *Nōn amā!*)
-3. *Magister mē monuit, nē timerem.* (indirekter Befehl mit Konjunktiv)
-
-**B.**
-4. Infinitiv Präsens Passiv 5. Infinitiv Perfekt Aktiv 6. Infinitiv Futur Aktiv 7. Infinitiv Futur Passiv 8. **Perfektpassiv** (finite Form!) 9. Infinitiv Präsens Aktiv
-
-**C.**
-10. „Hab keine Angst, Freund!"
-11. „Der Lehrer ermahnte mich, keine Angst zu haben."
-12. „Ich glaube, dass er König ist." / „Ich glaube, dass er König sein wird."
-
-**D.**
-13. *Dīcō eum amāvisse* = „Ich sage, dass er **geliebt hat**" (vorher). *Dīcō eum amāre* = „Ich sage, dass er **liebt**" (jetzt, gleichzeitig mit dem Sprechen).
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -165,14 +148,15 @@ Immer prüfen: Steht ein **Partizip + esse**, ist es eine Verbform. Steht ein **
 5. Welches Wort verneint den Indikativ? ______
 :::
 
-:::loesung
-1. *audī!* 2. *amārī* 3. *amāvisse* 4. *amātum īrī* 5. *nōn*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Magister discipulōs admonuit, nē ______ (venire).* → *vēnerint* (Konjunktiv Perfekt) bzw. *vēnīrent* (Imperfekt)
-2. Übersetze: *Dīcō librum utilem esse.* — „Ich sage, dass das Buch nützlich ist."
+1. Setze ein: *Magister discipulōs admonuit, nē ______ (venire).*
+2. Übersetze: *Dīcō librum utilem esse.*
 3. Erkläre, warum *amātum esse* kein Infinitiv ist.
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

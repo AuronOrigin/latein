@@ -77,16 +77,6 @@ Die Tabelle nennt nicht nur Übersetzungen, sondern auch **Stamm** und **Wortfam
 10. Wie unterscheidet sich die Bedeutung von *urbs* (C) und *oppidum* (A)?
 :::
 
-:::loesung
-**A.**
-1. z. B. *amō, laudō, vocō, portō, spectō, cantō, māndō, numerō, probō,occupō*. 2. *aqua, mūsa, puella, rosa, lingua*. 3. *caput, capiō, captīvus, captīvitas, praecipus* — alle mit der Familie *cap-*. 4. *arbitror, loquor, sequor, patior, morior, nascor, memini, īnfitor, ōdor, ūtor, reor, fateor, frustor* und weitere. 5. *liber* (Buch, Stufe A) / *līber* (frei, Stufe D) — gleiche Schreibweise, verschiedene Betonung.
-
-**B.**
-6. *rēx* (König) → *regere* (lenken) → *rectus* (gerade, recht) → *rēgnum* (Königreich), *rēgula* (Regel). 7. *fuga* (Flucht), *fugere* (fliehen), *fugitivus* (flüchtig). 8. *rex* mit intervokalischer Konsonantenverschärfung → *reg-*; die Grundform *regere* bewahrt den Stamm.
-
-**C.**
-9. *Imperātor Rōmam vēnit* (A) / *Caesar Rōmam pervēnit* (E). 10. *Urbs* ist die **große Stadt mit Einwohnern und Selbstverwaltung** (Rom), *oppidum* die **kleinere Landstadt** ohne eigenes Zentrum. In der militia unterscheidet: *urbs* = Wohnstätte, *oppidum* = befestigter Platz.
-:::
 
 :::wiederholung Wiederholungsfach
 1. Wie viele Stufen hat das Vokabelverzeichnis? ______
@@ -95,14 +85,15 @@ Die Tabelle nennt nicht nur Übersetzungen, sondern auch **Stamm** und **Wortfam
 4. Nenne drei Wörter, die in **keiner** Stufe stehen und trotzdem häufig vorkommen (z. B. *et*, *in*, *cum*). ______
 :::
 
-:::loesung
-1. Fünf (A–E). 2. Das lautliche Grundgerüst, aus dem sich die Formen bilden. 3. Stufe E. 4. *et, in, cum, ad, ex, cum, ut, quod, non* — Funktionswörter stehen absichtlich nicht im Verzeichnis.
-:::
 
 :::check Prüfungscheck
 1. Suche fünf Verben der Stufe B heraus, die im 3. Kapitel noch nicht vorkamen. Schreibe ihre 1. Person Präsens und Perfekt auf.
 2. Finde eine Wortfamilie, die in **drei** Stufen vorkommt. Welche ist es?
 3. Das Verzeichnis ist nach Stufen sortiert. Warum ist das für das Lernen wichtig — und was ist der Nachteil?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

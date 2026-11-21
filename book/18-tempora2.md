@@ -121,8 +121,8 @@ Der Infinitiv steht dabei im **Perfekt**, wenn das Futur steht: *exspectābō, u
 4. *futūrus sum* in allen drei Genera
 
 **B. Erkennen.**
-5. Welche Futurform ist *audībō*? → Futur I der 4. Konjugation (mit *-ī-*? nein: *audiābō* wäre 2.; richtig: *audiam*, 4. Konjugation). Erklärung: In der 4. Konjugation lautet das Futur *audiam*, *audies*, *audiet*, *audiemus*, *audietis*, *audient*.
-6. *capio futūrum*: *capiam* — welche Form? → Futur I der 5. Konjugation.
+5. Welche Futurform ist *audībō*?
+6. *capio futūrum*: *capiam* — welche Form?
 
 **C. Übersetzen.**
 7. *Magister discipulōs admonēbit et eīs librōs dabit.*
@@ -133,22 +133,6 @@ Der Infinitiv steht dabei im **Perfekt**, wenn das Futur steht: *exspectābō, u
 10. *amābit* / *amātūrus est* / *amātum irī*
 :::
 
-:::loesung
-**A.**
-1. *amābō, amābis, amābit, amābimus, amābitis, amābunt* 2. *dūcam, dūcēs, dūcet, dūcēmus, dūcetis, dūcunt* 3. *monuerō, monuerint* 4. *amātūrus sum, amātūra sum, amātūrum est*
-
-**B.**
-5. *audiam* — 4. Konjugation, Futur I ohne *b*: *audiam, audies, audiet, audiemus, audietis, audient*.
-6. *capiam* — Futur I der 5. (Misch-)Konjugation.
-
-**C.**
-7. „Der Lehrer wird die Schüler ermahnen und ihnen Bücher geben."
-8. „Pompeius glaubt, dass Caesar geliebt werden wird."
-9. „Er kam nach Rom, um die Stadt zu sehen."
-
-**D.**
-10. *amābit* = einfaches Futur I (aktiv, persönlich); *amātūrus est* = Umschreibung des Futur I (aktiv, betont den Vorgang, oft mit Absicht); *amātum irī* = Futur Passiv (unpersönlich, Subjekt im Akkusativ).
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -159,14 +143,15 @@ Der Infinitiv steht dabei im **Perfekt**, wenn das Futur steht: *exspectābō, u
 5. Die Form für „ich werde lieben" (Umschreibung): ______
 :::
 
-:::loesung
-1. *amābunt* 2. *dūcam* 3. *amāverō* 4. *amātum irī* 5. *amātūrus sum*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Pueri cras ______ (venire) ad schōlam.* → *venient*
-2. Übersetze: *Rōmānī urbem in duās partēs divīdunt.* — „Die Römer teilten die Stadt in zwei Teile." (Präteritum = Perfekt)
+1. Setze ein: *Pueri cras ______ (venire) ad schōlam.*
+2. Übersetze: *Rōmānī urbem in duās partēs divīdunt.*
 3. Erkläre: Warum gibt es im Latein keine einfache Form für das Futur Passiv?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

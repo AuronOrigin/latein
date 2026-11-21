@@ -166,19 +166,6 @@ In diesem Text kommen **alle** Fälle vor, die du bisher gelernt hast:
 9. „Der Diener bringt dem Schüler Brot."
 :::
 
-:::loesung
-**A.**
-1. Er ruft Marcus an und fragt nach seinem Wunsch. 2. Weil der Wirt sie ansieht — und sie errötet, weil sie ertappt wurde. 3. „Auf keinen Fall“ — der Wirt will ihr keinen Wein geben.
-
-**B.**
-4. „Der Diener bringt Wasser.“ 5. „Der Wirt sieht das schöne Mädchen.“
-
-**C.**
-6. Weil *mihi vinum dato* das Muster „dativus commodi“ ist: „**mir** Wein gib“ — der Wein ist für sie bestimmt. 7. „Wenn du kannst“ — die Verbfindung *posse* mit Konjunktiv. 8. *dā!* (Präsens) bzw. *dato* (Imperativ Präsens der 1. Konjugation).
-
-**D.**
-9. *Servus discipulō panem affert.*
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -188,14 +175,15 @@ In diesem Text kommen **alle** Fälle vor, die du bisher gelernt hast:
 4. Wie übersetzt man *mihi vinum dato* idiomatisch? ______
 :::
 
-:::loesung
-1. Vorlesen, Markieren, Glossar, Analysieren, Übersetzen, Prüfen, Verstehen 2. „Gast“ — der Wirt spricht seinen Gast an 3. Ablativ 4. „Gib mir Wein.“
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Dominus ______ (discipulus) librum dat.* → *discipulō* (Dativ)
-2. Übersetze: *Servus eum vocat.* — „Der Diener ruft ihn an."
+1. Setze ein: *Dominus ______ (discipulus) librum dat.*
+2. Übersetze: *Servus eum vocat.*
 3. Erkläre: Warum ist *cum cōpō* nicht Akkusativ?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

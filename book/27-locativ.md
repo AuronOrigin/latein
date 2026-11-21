@@ -10,7 +10,7 @@ Nach diesem Kapitel kannst du:
 - *in + Akkusativ* (wohin?) und *in + Ablativ* (wo?) unterscheiden,
 - die Ortsadverbien (*hīc, ibi, ibidem, illīc, undīque*) einordnen,
 - die Richtung eines Satzes eindeutig bestimmen.
----
+:::
 
 :::wortschatz
 **Rōmae** — in Rom (Locativ) · **Rōmā** — von Rom (Ablativ) · **Rōmam** — nach Rom (Akkusativ) ·
@@ -119,25 +119,9 @@ Wenn eine Richtung ohne Nomen angegeben wird, steht das Adverb im Akkusativ:
 11. *in hōrtō dormiō* / *in hortum dormiō?* (korrigiert)
 
 **D. Ersetzen.** Ersetze das Adverb durch eine Präpositionalphrase:
-12. *hīc sum* 13. *eō ībō?* → *eō ibō*
+12. *hīc sum* 13. *eō ībō?*
 :::
 
-:::loesung
-**A.**
-1. Locativ: „in Rom" 2. Ablativ: „von Rom" 3. Akkusativ: „nach Rom" 4. Locativ: „zu Hause" 5. Akkusativ (Richtung): „hierher" 6. Lokaladverb: „dort"
-
-**B.**
-7. „Der Lehrer ist in der Schule, aber die Schüler spielen im Garten."
-8. „Der Junge kam mit dem Vater nach Rom."
-9. „Er fand ihn nicht hier, sondern dort."
-
-**C.**
-10. „Er wurde in Rom geboren, reiste von Rom ab und kehrte nach Rom zurück." — Die drei Richtungen Geburt (wo?), Abreise (woher?), Rückkehr (wohin?) werden durch die drei Formen des Locativs, Ablativs und Akkusativs ausgedrückt.
-11. *in hōrtō dormiō* = „ich schlafe im Garten" (wo?); *in hortum dormiō* ist falsch — man kann nicht „in den Garten schlafen" (das hieße „einschlafen auf dem Weg"). Richtig für den Übergang: *in hortum īvit, ibi dormiit* — oder man sagt *īn hortum dormīre nōn potest*.
-
-**D.**
-12. *hīc sum* = *in hōrtō sum* (oder: *hōc locō sum*) 13. *eō ibō* = *ad eum locum ibō* / *in eum locum ibō*
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -145,14 +129,15 @@ Wenn eine Richtung ohne Nomen angegeben wird, steht das Adverb im Akkusativ:
 4. Welcher Kasus steht bei *in + Akkusativ*? ______ 5. Nenne drei Ortsadverbien. ______
 :::
 
-:::loesung
-1. *Rōmae* 2. *Rōmā* 3. *Rōmam* 4. Akkusativ (wohin) 5. *hīc, ibi, ibidem*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Pueri in ______ (hortus) currunt.* → *hortō* (Ablativ, weil „wo?")
-2. Übersetze: *Rōmā profectus, Rōmam rediit.* — „Er reiste von Rom ab und kehrte nach Rom zurück."
+1. Setze ein: *Pueri in ______ (hortus) currunt.*
+2. Übersetze: *Rōmā profectus, Rōmam rediit.*
 3. Erkläre, warum *in Rōmam* und *Rōmam* nicht identisch sind.
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

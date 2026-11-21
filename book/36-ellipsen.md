@@ -122,22 +122,6 @@ Wenn du einen lateinischen Satz findest, der „zu kurz" ist, ist das fast immer
 **D. Formulieren.** Schreibe einen lateinischen Satz mit ausgelassenem Subjekt und einen mit ausgelassenem Hilfsverb.
 :::
 
-:::loesung
-**A.**
-1. Das Subjekt 2. Das Hilfsverb *est* 3. Das Subjekt *ego* 4. Die Kopula *est* (zweimal)
-
-**B.**
-5. „Die Römer und die Latiner führten Krieg."
-6. „Ich weiß nichts."
-7. „Alle denken gleich."
-
-**C.**
-8. Weil es lateinische **Stilform** ist (Asyndeton) und das Subjekt (*ego*) in der 1. Person Singular ohnehin im Verb steckt: *vēnī* = „ich kam". Der Satz ist vollständig.
-9. Eine Auslassung ist **regelkonform** und aus dem Kontext erschließbar; ein Fehler ist eine Form, die es im Latein nicht gibt (z. B. *puellam amat* statt *puellā amat*).
-
-**D.**
-z. B. *Portam aperit.* (Subjekt aus dem Kontext) und *Rex magnus.* („Der König ist groß.")
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -147,14 +131,15 @@ z. B. *Portam aperit.* (Subjekt aus dem Kontext) und *Rex magnus.* („Der Köni
 4. Beispiel für die Auslassung des Hilfsverbs: ______
 :::
 
-:::loesung
-1. Subjekt, Hilfsverb, Prädikat, Artikel (u. a.) 2. Das, was der Kontext erlaubt 3. Asyndeton 4. *Summa iniūria.*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Magister ______ (est) doctus et clārus.* → *est*
-2. Übersetze: *Omnēs in eādem rem intendunt animō.* — „Alle richten ihre Aufmerksamkeit auf dieselbe Sache."
+1. Setze ein: *Magister ______ (est) doctus et clārus.*
+2. Übersetze: *Omnēs in eādem rem intendunt animō.*
 3. Erkläre: Warum ist *puellam amat* ein Fehler, *puellā amat* aber korrekt?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

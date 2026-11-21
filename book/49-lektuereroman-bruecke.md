@@ -315,19 +315,6 @@ Das Prinzip: **Man kann keine Sprache aus Wörterbüchern lernen, nur aus Gespr�
 9. Formuliere einen modernen Satz auf Lateinisch, der eine Begrüßung ausdrückt, und übersetze ihn ins Deutsche. 10. Erkläre: Welche grammatischen Strukturen der Antike findest du im mittellateinischen Text wieder?
 :::
 
-:::loesung
-**A.**
-1. Caesar denkt **politisch** (Eroberung, Herrschaft), Beda **beschreibt** (Geographie, Natur, Reichtum) und stellt das Ganze in ein **heilsgeschichtliches** Bild. Er nennt dieselben Maße, aber sie dienen jetzt der **Weltordnung**, nicht der Expansion. 2. Nominativ als Subjekt und Prädikatsnomen (*Brittania … insula*), Partizip als Adjektiv (*prolixioribus tractibus*), Passiv mit *a + Ablativ* (*a gente Anglorum … vocata*), Infinitiv als Adjektiv (*alendis apta*), Akkusativus limitans (*quae dicitur … portus*), *a meridie* als Angabe des Raums. 3. **Klassisch:** die gesamte Grammatik, der Satzbau, das Vokabular der Grüßformeln (*salve pater, salve mater*). **Neu:** das Wort *Demeae* (dänisch), die Spottbezeichnungen *caligarie/calcearie*, das bewusste Spiel mit Register und Anredeformeln, der **Schulzweck** (Alltagssprache). 4. Weil der Titel **signalisiert**, dass hier Alltagssprache geübt wird — nicht Philosophie, nicht Theologie. Und weil eine Begrüßung das **erste** ist, was ein Ausländer lernt.
-
-**B.**
-5. „Denn ein freundlicher und lieblicher Gruß bringt oft Freundschaft zustande und löst Feindschaft." 6. „Es ist höflich, einen Verwandtschafts- oder Schwangerschaftstitel hinzuzufügen …" 7. „Fruchtbar an Getreide und Bäumen ist die Insel …"
-
-**C.**
-8. *Vocata* ist Partizip Perfekt Passiv zu *vocare* = „rufen, nennen": „die (Rouen) genannt wurde" — **passiv**, weil die Benennung von außen geschieht: Die Angelsachsen haben den gallischen Namen verändert. Genau diese passive Wendung zeigt, dass Beda den Namen **als fremd erworben** markiert.
-
-**D.**
-9. z. B. *Salve, domine magister.* — „Sei gegrüßt, Herr Lehrer." 10. Siehe Antwort unter A. 2. — Die **Kasusendungen**, die **Partizipien**, die **Infinitivkonstruktionen**, die **Passivbildung mit *a + Ablativ*** und der **Akkusativus limitans** funktionieren in Beda genauso wie in Caesar.
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -337,14 +324,15 @@ Das Prinzip: **Man kann keine Sprache aus Wörterbüchern lernen, nur aus Gespr�
 4. Welches lateinische Wort bedeutet „Schuhflicker" bei Erasmus? ______
 :::
 
-:::loesung
-1. Mittellatein = diekirchlich-verwaltendeSprache desMittelalters (Bede); Neulatein = diegelehrt-humanistischeSprache der Renaissance (Erasmus) 2. Erasmus' *Colloquia familiaria* 3. *Demeae* 4. *caligarie* (Stiefelflicker) / *calcearie* (Schuhflicker)
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Brittania Oceani ______ (insula) est.* → *insula*
-2. Übersetze: *Nonnullis hoc vitii conciliavit educatio, verius quam natura.* — „Diesen Fehler hat nicht die Natur, sondern die Erziehung beseitigt."
+1. Setze ein: *Brittania Oceani ______ (insula) est.*
+2. Übersetze: *Nonnullis hoc vitii conciliavit educatio, verius quam natura.*
 3. Erkläre: Was bedeutet es, dass Beda eine Stadt *Rep tacastir* nennt — und was sagt das über die Sprachgeschichte?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

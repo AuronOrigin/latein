@@ -146,33 +146,6 @@ Für *agrīcola pulcher rosam portat*:
 11. *bonī* 12. *malum* 13. *fortis*
 :::
 
-:::loesung
-**A.**
-| | m. | f. | n. |
-|---|---|---|---|
-| Nom. Sg. | pulcher | pulchra | pulchrum |
-| Gen. Sg. | pulchri | pulchrae | pulchri |
-| Dat. Sg. | pulchrō | pulchrae | pulchrō |
-| Akk. Sg. | pulchrum | pulchram | pulchrum |
-| Abl. Sg. | pulchrō | pulchrā | pulchrō |
-| Nom. Pl. | pulchrī | pulchrae | pulchra |
-| Gen. Pl. | pulchrōrum | pulchrārum | pulchrōrum |
-| Dat. Pl. | pulchrīs | pulchrīs | pulchrīs |
-| Akk. Pl. | pulchrōs | pulchrās | pulchra |
-
-**B.**
-1. ✗ → *puella pulchra* (feminin) 2. ✗ → *agricola pulcher* (maskulin) 3. ✓ 4. ✗ → *puellae pulchrae* (Gen. Sg. f.) 5. ✓ 6. ✗ → *fortis puella* — als Adjektiv auf *puella* (f.) muss es *forte* heißen; oder, wenn *fortis* Substantiv ist: „die Tapfere" (f.) — dann *fortis puella* = „die tapfere (Frau) als) Mädchen"? Eindeutig: *forte puella* = „ein tapferes Mädchen".
-
-**C.**
-7. „Die schönen Mädchen tragen Rosen."
-8. „Der gelehrte Lehrer ermahnt die Schüler."
-9. „Die guten Freunde sitzen im Garten." (*amīci* = Nom. Pl. m.; *bona* = Akk. Pl. n. — Objekt von *sedent*? Nein: *bona* ist Akk. Pl. n. → das Adjektiv *bonus* im Akkusativ Plural Neutrum: „die guten [Freunde]". Hier: *Bona amīci* = Akk. Pl. n. + Nom. Pl. m. → besser: *Amīci bonī in hōrtō sedent.* — die Adjektivendungen müssen zum Nomen passen: *amīci bonī*.)
-   → **Richtig ist: *Amīci bonī in hōrtō sedent.*** „Die guten Freunde sitzen im Garten."
-10. „Der tapfere Bauer liebt das Pferd."
-
-**D.**
-11. *bonī* — der Gute / die Guten (Nom. Pl. m. oder Gen. Sg. m.) 12. *malum* — das Übel, die Krankheit, das Unglück (n.) 13. *fortis* — der Tapfere (m.) / die Tapfere (f.)
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -183,21 +156,17 @@ Für *agrīcola pulcher rosam portat*:
 5. Nenne ein substantiviertes Adjektiv. ______
 :::
 
-:::loesung
-1. Genus, Numerus, Kasus 2. *bonae* 3. -a 4. Im Nominativ 5. z. B. *bonī* = „die Guten"
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Puella ______ (pulcher) rosam amat.* → *pulchra* (feminin, Nominativ Singular)
-2. Übersetze: *Agrīcolae fortēs agrōs colunt.* — „Die tapferen Bauern bebauen die Felder."
+1. Setze ein: *Puella ______ (pulcher) rosam amat.*
+2. Übersetze: *Agrīcolae fortēs agrōs colunt.*
 3. Erkläre: Warum kann man ein lateinisches Adjektiv nicht ohne Nomen gebrauchen, ein Nomen aber ohne Adjektiv?
 :::
 
-:::loesung
-1. *pulchra*
-2. „Die tapferen Bauern bebauen die Felder."
-3. Das Adjektiv ist im Latein ein **Nomen mit Lücke**: Es muss an ein Nomen angebunden werden und holt sich dort Genus, Numerus und Kasus. Ohne Nomen gibt es kein Adjektiv — nur das substantivierte Adjektiv (*bonus* = „der Gute“), das selbst zum Nomen wird.
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
+
 
 :::vertiefung
 - Adjektive der 3. Deklination: Kapitel 14.

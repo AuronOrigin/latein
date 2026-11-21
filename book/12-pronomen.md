@@ -176,23 +176,6 @@ Wie *ille*, aber mit der Nuance „der da, über den wir reden".
 **D. Reflexives Pronomen.** Erkläre: *sī* in *eī sī* = „sie selbst". Wofür steht *sī* im Singular (*sē*)?
 :::
 
-:::loesung
-**A.**
-1. *meus, mea, meum; meī, meae, meī; meum, meam, meum; meī, meae, mea* (+ Gen. Pl. *meōrum*, Dat./Abl. Pl. *meīs*)
-2. *quī, quae, quod; cuius; quem, quam, quod; cui; quō, quā, quō; quōrum, quārum, quōrum; quibus; quōs, quās, quae*
-3. *hunc, hanc, hoc* (Sg.) — Plural: *hīc, haec, haec*; *illōs, illās, illa*
-
-**B.**
-4. Genitiv des 3. Person-Personalpronomens („sein“) 5. Genitiv Singular des Relativpronomens („dessen“) 6. Possessivpronomen 3. Person 7. „selbst“ 8. „ein gewisser“ 9. „niemand“ 10. „derselbe“
-
-**C.**
-11. „Die Jungen lesen **ihre** Bücher." (*suōs* Akk. Pl. m., deckt sich mit *librōs*.)
-12. Korrekt: *Magister eum monet, **qui** puerum monet?* — *quī* (Relativ, maskulin, Nominativ als Subjekt des Relativsatzes).
-13. „Dieser Mann hier ist mein Freund, jener dort aber ist ein Feind."
-
-**D.**
-*sī* (Reflexivpronomen, 3. Person, Singular *sē*, Plural *sē*) bezieht sich immer auf das **Subjekt** des Satzes. *Eī sī* = „sie selbst" (d. h. „jene selbst, nicht ihre Freunde“).
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -203,14 +186,15 @@ Wie *ille*, aber mit der Nuance „der da, über den wir reden".
 5. Welches Indefinitpronomen steht nur bei Negation? ______
 :::
 
-:::loesung
-1. *cuius* 2. *cui* 3. *sī* 4. *hic* und *ille* 5. *quisquam* (bzw. *nēquam/nēquid*)
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Quī ______ (studet) studet bene, is est doctus.* → *studet*
-2. Übersetze: *Illa puella est soror mea.* — „Jenes Mädchen (dort) ist meine Schwester."
+1. Setze ein: *Quī ______ (studet) studet bene, is est doctus.*
+2. Übersetze: *Illa puella est soror mea.*
 3. Erkläre den Unterschied zwischen *eius* und *eiusdem*.
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

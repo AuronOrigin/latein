@@ -90,16 +90,6 @@ Drei Zusagen:
 7. Wie viele Wochen brauchst du nach dieser Rechnung für solides Lese-Latein bei 4 Stunden pro Woche? ______
 :::
 
-:::loesung
-**A.**
-1. Latein als **Denkmaschine** (es erzwingt Genauigkeit), als **gemeinsame Sprache Europas** (800–1500 n. Chr.), als **Zugang zu den Originalquellen**, als **Training der Denkstrukturen**. 2. „Tot" heißt: niemand spricht es mehr. „Eingefroren" heißt: es wird noch gesprochen, nur bewegt es sich nicht mehr mit der Welt weiter — von der OECD, vom Vatikan, von Juristen, von Historikern. 3. „Latein ist eine tote Sprache", „Latein ist unregelmäßig und voller Ausnahmen", „Nach einem Jahr Latein kann ich Cäsar lesen". 4. **Regeln statt Tabellen**, die **wichtigen Dinge zuerst**, und **Übersetzen statt nur Erkennen**.
-
-**B.**
-5. *in urbe* = „in der Stadt" (Ablativ des Ortes), *in urbem* = „in die Stadt" hinein (Akkusativ), *cum urbe* = „mit der Stadt" (Ablativ der Begleitung). Beim Ablativ bleibt die Endung -e gleich; der Unterschied steckt im Nomen: *urb-* / *urbem* / *urbe* — -em bedeutet „hinein", -e kann Begleitung bedeuten. 6. „Die Formen passen sich den Dingen an."
-
-**C.**
-7. 500–600 Stunden ÷ 4 Stunden pro Woche = **125–150 Wochen**, also rund zweieinhalb bis drei Jahre. Genau die Einschätzung, die das Kapitel nennt.
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -109,15 +99,16 @@ Drei Zusagen:
 4. Wie viele Vokabeln braucht man für unadaptierte Originaltexte? ______
 :::
 
-:::loesung
-1. **Form → Funktion → Bedeutung.** 2. 500–600 Stunden. 3. „Latein ist tot", „Latein ist unregelmäßig", „Nach einem Jahr kann ich Cäsar lesen". 4. 1.500–2.000.
-:::
 
 :::check Prüfungscheck
 1. Kannst du in **einem** Satz sagen, wofür Latein wirklich gut ist — und wofür nicht?
 2. Kannst du die **drei Mythen** in eigenen Worten widerlegen?
 3. Hast du einen **realistischen Zeitplan** — und weißt du, wie viele Stunden das sind?
 4. Sind **Formenspiegel** (Anhang III) und **Vokabelverzeichnis** (Anhang I) griffbereit?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung Mehr zum Thema

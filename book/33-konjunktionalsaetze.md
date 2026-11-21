@@ -10,7 +10,7 @@ Nach diesem Kapitel kannst du:
 - den Modus (Indikativ oder Konjunktiv) begründet wählen,
 - den Unterschied zwischen *cum* als temporal und kausal unterscheiden,
 - Fehler in der Konjunktionalsatzen-Bildung vermeiden.
----
+:::
 
 :::wortschatz
 **ut** — dass, damit · **ne** — dass nicht · **cum** — als, weil, während ·
@@ -148,20 +148,6 @@ Hier steht der **Konjunktiv** (seltener der Indikativ) — der Sprecher gibt die
 12. „Ich glaube, dass er kommen wird."
 :::
 
-:::loesung
-**A.**
-1. **Indikativ** — *cum* temporal, gleichzeitige Tatsache 2. **Konjunktiv** — *cum* temporal, nachgeordnet/erwartet 3. **Konjunktiv** — *ut* + Folge (*tam …*) 4. **Konjunktiv** — *ut* + Absicht 5. **Konjunktiv** — konzessiv (*quamquam*)
-
-**B.**
-6. „Der Lehrer ermahnte die Schüler, dass sie eifrig seien." 7. „Weil die Jungen kamen, war der Lehrer froh." 8. „Wenn du Zeit hast, benutze sie."
-
-**C.**
-9. *cum venit* (Indikativ) = „als er kam" (Tatsache). *cum vēnerit* (Konjunktiv) = „wenn er gekommen sein wird" (offen, erwartet, oft mit *sī*).
-10. *tam … ut* = Folge (so … dass). *ut …* ohne *tam* = meist Absicht (damit).
-
-**D.**
-11. *Cum vēnit, domī eram.* 12. *Putō eum ventūrum esse.*
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -172,14 +158,15 @@ Hier steht der **Konjunktiv** (seltener der Indikativ) — der Sprecher gibt die
 5. Wie heißt „bevor"? ______
 :::
 
-:::loesung
-1. Absicht und Folge 2. „wenn" (nachgeordnet/offen) 3. *tam* (oder *tantus, sīc, ita*) 4. *quamquam* 5. *antequam* / *priusquam*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Cum puer ______ (venire), magister discipulōs admonuit.* → *vēnit* (Indikativ, wenn Tatsache) bzw. *vēnerit* (Konjunktiv, wenn offen)
-2. Übersetze: *Dīcō eum vēnīre nōn audeō.* — „Ich wage nicht zu sagen, dass er kommt."
+1. Setze ein: *Cum puer ______ (venire), magister discipulōs admonuit.*
+2. Übersetze: *Dīcō eum vēnīre nōn audeō.*
 3. Erkläre, warum *cum venit* und *cum vēnerit* unterschiedlich übersetzt werden.
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

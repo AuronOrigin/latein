@@ -160,11 +160,11 @@ Ein benannter Fehler verschwindet; ein unbenannter bleibt.
 
 :::uebung
 **A. Fehlerart bestimmen.** Welche der acht Fehlerquellen?
-1. *Magister discipulōs monet.* → „Die Schüler ermahnen den Lehrer."
-2. *Dux urbem cepit.* → „Der Feldherr wird die Stadt nehmen."
-3. *Amat rosam.* → „Liebt die Rose."
-4. *Vēnit ut vidēret.* → „Er kam und sah."
-5. *Pueri Currentes currunt.* → „Die Jungen laufen laufend."
+1. *Magister discipulōs monet.*
+2. *Dux urbem cepit.*
+3. *Amat rosam.*
+4. *Vēnit ut vidēret.*
+5. *Pueri Currentes currunt.*
 
 **B. Korrigieren.**
 6. *Magister discipulōs monet librōs.*
@@ -178,20 +178,6 @@ Ein benannter Fehler verschwindet; ein unbenannter bleibt.
 10. *Pueri librōs in schōlā legunt, magister eōs admonet.*
 :::
 
-:::loesung
-**A.**
-1. Subjekt-Sünde 2. Tempus-Sünde 3. Auslassungs-Sünde 4. Modus-Sünde 5. Bedeutungs-Sünde (Partizip als Adverb)
-
-**B.**
-6. „Der Lehrer ermahnt die Schüler (bezüglich der Bücher)." — *discipulōs* ist Akkusativ (Objekt), *librōs* Akkusativ plural — beide Akkusativ. Das ist unklar; richtig wäre: *Magister discipulōs de librīs admonet* („über die Bücher") oder *Magister discipulōs librīs admonet* (mit Akkusativ der Sache, wenn *admonēre* dies zulässt). 7. „Die Tochter liebt ihre Mutter." (*māter* ist Akkusativ; mit Possessiv: *mātrem suam*.)
-
-**C.**
-8. Weil *cepit* das **Perfekt** ist, nicht das Futur. Richtig: „Der Feldherr **hat** die Stadt genommen."
-9. Kasus-, Subjekt-, Tempus-, Auslassungs-, Stamm-, Modus-, Bedeutungs- und Erwartungs-Sünde.
-
-**D.**
-10. „Die Jungen lesen in der Schule Bücher; der Lehrer ermahnt sie."
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -201,14 +187,15 @@ Ein benannter Fehler verschwindet; ein unbenannter bleibt.
 4. Welches Werkzeug hilft gegen die Auslassungs-Sünde? ______
 :::
 
-:::loesung
-1. Kasus-, Subjekt-, Tempus-, Auslassungs-, Stamm-, Modus-, Bedeutungs-, Erwartungs-Sünde 2. Den Nominativ finden, dessen Zahl zum Verb passt 3. Wenn das Ergebnis für die Gegenwart wichtig ist 4. Die sieben Schritte (Kapitel 37), besonders Schritt 2
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Magister ______ (discipulus) monet.* → *discipulōs*
+1. Setze ein: *Magister ______ (discipulus) monet.*
 2. Korrigiere: „Der Kaiser schlug den Feind." (latein: *Imperator hostem vicit.* — was ist hier die Fehlerquelle?)
 3. Erkläre: Warum ist „liebt den Vater" für *amat patrem* falsch, für *amat patris* aber richtig?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

@@ -10,7 +10,7 @@ Nach diesem Kapitel kannst du:
 - den Ablativ ohne Präposition korrekt verwenden,
 - den Agenten bei Passivkonstruktionen bilden,
 - den Ablativ vom Dativ unterscheiden.
----
+:::
 
 :::wortschatz
 **gladiō** — mit dem Schwert (Abl.) · **sine pēne** — ohne Strafe (Abl.) ·
@@ -131,8 +131,8 @@ Wer einen persönlichen Urheber nennt, braucht den Aktivsatz: *Rōmānī urbem c
 1. *gladiō pūnctus est* 2. *magnā celeritāte vēnit* 3. *sine pēnā rediit* 4. *maior patre est* 5. *nocte fugit* 6. *urbs a Rōmānīs condita est*
 
 **B. Übersetzen.**
-7. *Magister discipulōs gladiōs?* → korrigiere!
-8. *Puer librōs manūs?* → korrigiere!
+7. *Magister discipulōs gladiōs?*
+8. *Puer librōs manūs?*
 9. *Nocte hostēs urbem ceperunt.*
 
 **C. Verstehen.** Erkläre den Unterschied:
@@ -145,22 +145,6 @@ Wer einen persönlichen Urheber nennt, braucht den Aktivsatz: *Rōmānī urbem c
 14. „Er ist größer als sein Vater."
 :::
 
-:::loesung
-**A.**
-1. Instrument (mittel) 2. Art und Weise 3. Trennung/Abwesenheit 4. Vergleich 5. Zeitpunkt 6. Agent (a + Abl.)
-
-**B.**
-7. Richtig: *Magister discipulīs gladiōs dat.* — „Der Lehrer gibt den Schülern die Schwerter." (Dativ der Person + Akkusativ der Sache.)
-8. Richtig: *Puer librōs **manibus** habet.* — *manibus* ist Ablativ Plural: „mit den Händen". Die Form *manūs* wäre Akkusativ Plural.
-9. „In der Nacht nahmen die Feinde die Stadt ein."
-
-**C.**
-10. *Rōmae sum* = Locativ: „**Ich bin** in Rom." *Rōmā vēnī* = Ablativ der Herkunft: „Ich kam **von Rom**."
-11. *cum amīcō loquor* = Ablativ: „**mit dem Freund** (Singular) spreche ich". *cum amīcōs admonet* = Akkusativ: „er ermahnt **die Freunde** (Plural)".
-
-**D.**
-12. *Gladiō occīsus est.* 13. *Urbs a Rōmānīs condita est.* 14. *Maior patre est.*
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -171,14 +155,15 @@ Wer einen persönlichen Urheber nennt, braucht den Aktivsatz: *Rōmānī urbem c
 5. Der Ablativ der Herkunft bei Städten: ______
 :::
 
-:::loesung
-1. *gladiō* 2. Ablativ (mit *a/ab*) 3. Ablativ 4. „von" 5. *Rōmā*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Urbs ______ (a Rōmānīs) condita est.* → *ā/ab Rōmānīs* → *ā Rōmānīs*
-2. Übersetze: *Māgnā fortūnā homēs multōs adiūvāre solent.* — „Glücklicherweise helfen die Menschen oft vielen."
+1. Setze ein: *Urbs ______ (a Rōmānīs) condita est.*
+2. Übersetze: *Māgnā fortūnā homēs multōs adiūvāre solent.*
 3. Erkläre: Warum steht *a Rōmānīs* im Ablativ und nicht im Dativ?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

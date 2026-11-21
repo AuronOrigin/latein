@@ -220,7 +220,7 @@ Die Römer schrieben Zahlen als **Buchstabenwerte**: I = 1, V = 5, X = 10, L = 5
 
 **C. Konjunktionen.**
 6. Übersetze: *Puer librum legit, sed puella rosam amat.*
-7. Welche Konjunktion leitet einen kausalen Nebensatz ein? → *quod, quoniam, cum*
+7. Welche Konjunktion leitet einen kausalen Nebensatz ein?
 8. Was bedeutet *autem*? Wo steht es?
 
 **D. Zahlen.**
@@ -228,23 +228,6 @@ Die Römer schrieben Zahlen als **Buchstabenwerte**: I = 1, V = 5, X = 10, L = 5
 10. Wie heißt „am dritten Tag" (Ablativ)?
 :::
 
-:::loesung
-**A.**
-1. *bene, male, pulchrē, celeriter, fortiter* 2. *bene → melius, optimē*; *male → peius, pessimē* 3. *magis* = „mehr"; *multum magis* = „viel mehr" (Vergleich mit dem Komparativ *magis doctus* = „gelehrter").
-
-**B.**
-4. Akkusativ: *ad, per, propter* (auch *in*, *sub* mit Akkusativ). Ablativ: *cum, sine, ab, ex, dē, prō*.
-5. *in hōrtō* = „im Garten" (Abl.) · *in hortum* = „in den Garten" (Akk.) · *cum amīcō* = „mit dem Freund" · *ad urbem* = „zur Stadt" · *ab agrīcolā* = „vom Bauern".
-
-**C.**
-6. „Der Junge liest das Buch, aber das Mädchen liebt die Rose."
-7. *quod, quoniam, cum* (kausal)
-8. *autem* = „jedoch, aber" — es steht **nach** dem ersten Satzglied und verbindet zwei Sätze.
-
-**D.**
-9. 3 = *trēs*, 5 = *quīnque*, 11 = *undēcim*, 20 = *vīgintī*, 100 = *centum*
-10. *tertio diē* — *tertio* ist der Ablativ der Ordnungszahl, *diē* der Ablativ von *diēs*.
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -254,14 +237,15 @@ Die Römer schrieben Zahlen als **Buchstabenwerte**: I = 1, V = 5, X = 10, L = 5
 7. Wie heißt „hundert" auf Latein? ______
 :::
 
-:::loesung
-1. *pulchrē* 2. *optimē* 3. Akkusativ 4. Ablativ 5. aber 6. denn 7. *centum*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Puer cum puellā ______ (venit) in hortum.* → *venit*
-2. Übersetze: *Magister discipulōs monet, at eī discunt.* — „Der Lehrer ermahnt die Schüler, aber sie lernen."
+1. Setze ein: *Puer cum puellā ______ (venit) in hortum.*
+2. Übersetze: *Magister discipulōs monet, at eī discunt.*
 3. Erkläre den Unterschied zwischen *in urbe* und *in urbem*.
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

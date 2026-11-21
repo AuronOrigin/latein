@@ -162,20 +162,6 @@ Das deutsche Perfekt drückt eine **abgeschlossene** Handlung aus, das lateinisc
 12. *Magister discipulōs monuit.* / *Magister discipulōs monet.*
 :::
 
-:::loesung
-**A.**
-1. *amābam, amābās, amābat, amābāmus, amābātis, amābant* 2. *monuī, monuistī, monuit, monuimus, monuistis, monuērunt* 3. *dūxerat, dūxerant* 4. *audītus est, audītī sunt*
-
-**B.**
-5. Imperfekt (3. Person Sg.) 6. Perfekt 7. Plusquamperfekt 8. Präsens 9. Perfektpassiv
-
-**C.**
-10. „Die Jungen sangen im Garten, dann gingen sie in die Schule."
-11. „Der Lehrer hatte die Schüler ermahnt, als die Feinde eintraten."
-
-**D.**
-12. *monuit* = Perfekt: „Der Lehrer **hat** die Schüler ermahnt" (Ergebnis: die Schüler wissen es). *monet* = Präsens: „Der Lehrer **ermahnt** die Schüler (gerade jetzt)“. Der Unterschied ist zeitlich, nicht inhaltlich.
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -186,14 +172,15 @@ Das deutsche Perfekt drückt eine **abgeschlossene** Handlung aus, das lateinisc
 5. Wie lautet das Plusquamperfekt Passiv von *amāre*? ______
 :::
 
-:::loesung
-1. *audiēbam* 2. *monuit* 3. *amāveram* 4. *amātum est* 5. *amātus eram*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Cum puer ______ (venit), magister loquebatur.* → *vēnit* (Perfekt) bzw. *vēnerat* (Plusquamperfekt) — nach Kontext.
-2. Übersetze: *Hostēs urbem incēnderant, cives autem salūtī erant.* — „Die Feinde hatten die Stadt angezündet, die Bürger aber waren in Sicherheit."
+1. Setze ein: *Cum puer ______ (venit), magister loquebatur.*
+2. Übersetze: *Hostēs urbem incēnderant, cives autem salūtī erant.*
 3. Erkläre, warum *monuit* und *monet* im Deutschen unterschiedlich übersetzt werden.
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

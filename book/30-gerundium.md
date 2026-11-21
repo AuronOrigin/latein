@@ -10,7 +10,7 @@ Nach diesem Kapitel kannst du:
 - das Gerundium nach Präpositionen anwenden,
 - die **passive Umschreibung** (*amandus est*) bilden,
 - Pflicht und Notwendigkeit korrekt übersetzen.
----
+:::
 
 :::wortschatz
 **amandum** — zu lieben (Gerundium) · **amandus** — zu liebend (Gerundivum) ·
@@ -96,6 +96,8 @@ Das ist die **passive Infinitiv-Umschreibung**: Gerundivum + *esse*. Sie entspri
 - **Gerundivum + esse** = **passive** Pflicht: *amandus est* = „Er muss **geliebt** werden."
 - **Futurpartizip + esse** = **aktive** Pflicht: *amātūrus est* = „Er **wird** lieben **müssen**."
 Verwechslung? Deshalb die Merkregel:
+:::
+
 :::merksatz
 **Gerundivum = es passiert an mir. Futurpartizip = ich muss es tun.**
 *amandus est* → „er wird geliebt" → **es passiert an ihm**.
@@ -140,22 +142,6 @@ In der letzten Konstruktion (*gerundivum + esse* mit Akkusativ) wird der Akkusat
 10. „Er kam, um zu arbeiten."
 :::
 
-:::loesung
-**A.**
-1. *amandum, amandī, amandō, amandum, amandō* 2. *monendus, monenda, monendum* 3. *videndum* / *videndus, videnda, videndum*
-
-**B.**
-4. „Er kam, um mich zu helpen." (Gerundivum als Akkusativ-Objekt: *adiūtātum* — wer hilft, hilft **jemandem**; das Akkusativ-Objekt ist die geholfene Person, das Gerundivum die Tätigkeit.)
-5. „Ich sage dir das, damit du es erfährst."
-6. „Alles muss getan werden."
-
-**C.**
-7. *amandus est* = **passive** Pflicht: „Er muss geliebt werden." *amātūrus est* = **aktive** Pflicht: „Er wird lieben müssen."
-8. *cōnandum est* = „Es muss gekämpft werden" (passiv, mit *esse*). *cōnandum* allein = „das Kämpfen" / „um zu kämpfen" (Substantiv oder Akkusativ-Objekt).
-
-**D.**
-9. *Pārendum est.* (Gerundivum + esse) 10. *Vēnit labōrātum.*
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -164,14 +150,15 @@ In der letzten Konstruktion (*gerundivum + esse* mit Akkusativ) wird der Akkusat
 5. Nenne drei Präpositionen, nach denen das Gerundium steht. ______
 :::
 
-:::loesung
-1. Präsensstamm + *-nd-* + Kasusendung 2. Präsensstamm + *-nd-* + Adjektivendung 3. Gerundivum + *esse* 4. Futurpartizip + *esse* 5. *ad, per, prō, sine, dē*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Omnia ______ (facere) sunt.* → *facienda*
-2. Übersetze: *Cīvēs Rōmam incolendam esse dīcunt.* — „Die Bürger sagen, dass man Rom bewohnen muss." (Gerundivum + esse im AcI.)
+1. Setze ein: *Omnia ______ (facere) sunt.*
+2. Übersetze: *Cīvēs Rōmam incolendam esse dīcunt.*
 3. Erkläre, warum *amandus est* passiv und *amātūrus est* aktiv ist.
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

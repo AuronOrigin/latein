@@ -115,11 +115,11 @@ Der lateinische Komparativ hat **zwei** Bedeutungen:
 
 :::uebung
 **A. Steigern.**
-1. *pulcher* → Komparativ, Superlativ
-2. *facilis* → Komparativ, Superlativ
-3. *bonus* → Komparativ, Superlativ
-4. *magnus* → Komparativ, Superlativ
-5. *fortis* → Komparativ, Superlativ
+1. *pulcher*
+2. *facilis*
+3. *bonus*
+4. *magnus*
+5. *fortis*
 
 **B. Formen bilden.** Dekliniere *fortior* (m./f./n.): Nominativ und Akkusativ Singular, Genitiv und Nominativ Plural.
 
@@ -132,21 +132,6 @@ Der lateinische Komparativ hat **zwei** Bedeutungen:
 9. *Nemo pulchrior est.* / *Nemo pulchrior est quam tu.*
 :::
 
-:::loesung
-**A.**
-1. *pulchrior, -ius* / *pulcherrimus, -a, -um* 2. *facilior* / *facillimus* 3. *melior* / *optimus* 4. *maior* / *maximus* 5. *fortior* / *fortissimus*
-
-**B.**
-*fortior, fortior, fortius* (Nom. Sg. m./f./n.) · *fortiorem, fortiorem, fortius* (Akk. Sg.) · *fortiōris* (Gen. Sg. aller Genus) · *fortiōrēs, fortiōrēs, fortiōra* (Nom. Pl.)
-
-**C.**
-6. „Kein Mädchen in der Schule ist tapferer." (bzw. „…ist so tapfer.")
-7. „Der Lehrer ist gelehrter als der Schüler."
-8. „Das ist die schönste Stadt Italiens." (*Haec* weist auf die Stadt: Nominativ Sg. f.)
-
-**D.**
-9. *Nemo pulchrior est.* = „Keiner ist so schön" (absoluter Superlativ/relativer Komparativ, ohne Vergleichspunkt). *Nemo pulchrior est quam tu* = „Keiner ist schöner als du" (echter Vergleich).
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -156,14 +141,15 @@ Der lateinische Komparativ hat **zwei** Bedeutungen:
 6. Woran erkennt man ein 3.-Deklinations-Adjektiv? ______
 :::
 
-:::loesung
-1. *pulchrior* 2. *difficillimus* 3. *melior* 4. *maximus* 5. *facillimus* 6. An der maskulinen Nominativform auf -is (fortis, grāvis) bzw. an der neutralen Form auf -e
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Magister doctior est quam ______ (discipulus).* → *discipulus*
-2. Übersetze: *Fortitūdō melior est patientia.* — „Ausdauer ist besser als Geduld" (oder: „… ist stärker als …").
+1. Setze ein: *Magister doctior est quam ______ (discipulus).*
+2. Übersetze: *Fortitūdō melior est patientia.*
 3. Erkläre, warum *Nihil pulchrius est* nicht „Nichts ist schöner" heißt.
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

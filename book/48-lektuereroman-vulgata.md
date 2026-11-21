@@ -222,19 +222,6 @@ Das *incipium* psalterii ist übrigens ein Hinweis auf die **Orientation**: Der 
 11. Bilde einen eigenen Satz nach dem Muster: „X ist mein Y, und Z fehlt mir nicht."
 :::
 
-:::loesung
-**A.**
-1. Hirte und Weide, Wasser der Erfrischung, Wege der Gerechtigkeit, Rute und Stab, Tisch und Kelch. 2. „An einem Ort der Weiden" — also an einem Ort der Ruhe und der Nahrung. 3. Der Psalm nennt *in medio umbrae mortis* („im Schattental des Todes") — die **Angst** vor dem Tod, nicht der Tod selbst; gefürchtet wird das *malum*, das Böse, das von außen kommt. 4. *Virga* ist die **Rute** (auch: der Stock, mit dem man stößt oder züchtigt), *baculus* der **Stab** (der Wanderstab). Beide gehören zum Hirten.
-
-**B.**
-5. „Der Herr ist mein Hirte, und es fehlt mir nichts." 6. „Denn ob ich auch wandle im Schattental des Todes, ich fürchte kein Übel, denn du bist bei mir." 7. „Und deine Barmherzigkeit wird mir folgen alle Tage meines Lebens."
-
-**C.**
-8. Weil *deerit* im **Futur** steht: Das Nicht-Fehlen ist ein **Zustand für die Zukunft** — es ist ein Versprechen, keine Beschreibung. 9. Weil *etsi* (obwohl) im Konjunktiv steht: Es ist ein **hypothetischer** Fall, kein Tatsachenbericht. 10. *Mecum* ist ein **Ablativ** (von *cum* + Personalpronomen): *cum* verlangt den Ablativ. „Denn du bist bei mir" — *mecum esse* = „mit mir sein".
-
-**D.**
-11. z. B. *Dīcus mihi dux est, et nihil mihi deest.*
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -244,14 +231,15 @@ Das *incipium* psalterii ist übrigens ein Hinweis auf die **Orientation**: Der 
 4. Was bedeutet *in longitudinem dierum*? ______
 :::
 
-:::loesung
-1. Hieronymus, um 390 n. Chr. 2. „Er weidet / lenkt mich" 3. Ablativ 4. „für die Länge der Tage" — Akkusativ der Ausdehnung
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Dominus ______ (rego) me.* → *regit*
-2. Übersetze: *Parasti in conspectu meo mensam adversus eos qui tribulant me.* — „Du hast vor meinen Augen einen Tisch bereitet gegen die, die mich quälen."
+1. Setze ein: *Dominus ______ (rego) me.*
+2. Übersetze: *Parasti in conspectu meo mensam adversus eos qui tribulant me.*
 3. Erkläre: Warum ist *virga* etwas anderes als *baculus* — und was sagt das über die Art des Trostes?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

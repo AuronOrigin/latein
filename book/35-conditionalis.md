@@ -10,7 +10,7 @@ Nach diesem Kapitel kannst du:
 - die Formen des Konjunktivs in der Bedingung richtig wählen,
 - den Gebrauch des Indikativs in der Bedingung begründen,
 - Fehler in der Moduswahl vermeiden.
----
+:::
 
 :::wortschatz
 **sī** — wenn · **nisi** — wenn nicht · **sī nōn** — wenn nicht ·
@@ -121,21 +121,6 @@ Und in der Apodosis: Präsens/Futur beim Offenen und Erwarteten; Imperfekt beim 
 11. *Sī puella venit, gaudebo.* / *Sī puella veniat, gaudebo.*
 :::
 
-:::loesung
-**A.**
-1. **expectativum** (Konjunktiv Perfekt) 2. **counterfactualis** (Konjunktiv Plusquamperfekt + Imperfekt) 3. **relatus / Tatsache** (Indikativ) 4. **relatus** (Indikativ)
-
-**B.**
-5. *Sī [venerit], gaudebo* — je nach Kontext: Präsens (offen) oder Perfekt (erwartet). Hier: *Sī veniēnerit?* → richtige Form: *Sī **venerit*** (Perfekt). 6. *Sī [Rōmam vōdisset], [Rōmam vīdissem].* — oder: *Nisi [Rōmam vōdissem], …* 7. *Sī [magister discipulōs admonuerit], …*
-
-**C.**
-8. „Wenn er nicht tapfer gewesen wäre, hätte er nichts zustande gebracht."
-9. „Wenn du Zeit hast, benutze sie."
-10. „Wer immer studierte, konnte immer wissen."
-
-**D.**
-11. *Sī puella venit* — Indikativ: „**Wenn** das Mädchen kommt (und es kommt tatsächlich), freue ich mich." *Sī puella veniat* — Konjunktiv: „**Wenn** das Mädchen (erst einmal) kommt, werde ich mich freuen" (offen, Erwartung).
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -146,14 +131,15 @@ Und in der Apodosis: Präsens/Futur beim Offenen und Erwarteten; Imperfekt beim 
 5. Wie lautet die Merkformel? ______
 :::
 
-:::loesung
-1. Konjunktiv Präsens 2. Konjunktiv Plusquamperfekt 3. Konjunktiv Imperfekt 4. Bei erwarteten Ereignissen 5. Offen: Präsens. Erwartet: Perfekt. Unrealistisch: Plusquamperfekt. Tatsache: Indikativ.
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Sī puer ______ (venit), dicam tibi.* → *venerit* (Konjunktiv Perfekt, erwartet) oder *vēniat* (Konjunktiv Präsens, offen)
-2. Übersetze: *Sī nōn vēnisset, nōn admonuissem eum.* — „Wenn er nicht gekommen wäre, hätte ich ihn nicht ermahnt."
+1. Setze ein: *Sī puer ______ (venit), dicam tibi.*
+2. Übersetze: *Sī nōn vēnisset, nōn admonuissem eum.*
 3. Erkläre: Warum steht in einem Tatsachen-Conditionalis der Indikativ?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

@@ -249,19 +249,6 @@ Für den Anfänger ist der Text zugleich eine **Lektion über Quellenkritik**: L
 11. Schreibe zwei verschiedene lateinische Formulierungen für „Die Römer bauten eine Stadt" — eine im Nominalstil, eine im Verbalstil.
 :::
 
-:::loesung
-**A.**
-1. Wegen des alten Gastrechts (sie waren Gäste in Troja) und weil sie die Rückgabe der Helena und den Frieden betrieben hatten. 2. Der erste Ort, an dem sie ankamen, hieß Troja — daher der Landschaftsname; das ganze Volk wurde Veneter genannt. 3. Version A: Der Latiner wurde **besiegt** und schloss dann Frieden (Ehe). Version B: Die Schlacht wurde **vermieden**, weil der Latiner vorher zu einem Gespräch kam und ein Bündnis schloss. 4. Es ist der **Sagenursprung des Geldes**: Die Väter der ersten Legionen sollen die Denare auszahlen, die sie für die Sabinerinnen erhalten hatten. Livius notiert das als Sage, nicht als Faktum.
-
-**B.**
-5. „Zuerst von allem steht fest, dass die Trojaner nach der Eroberung Trojas gegen die übrigen wüteten." 6. „Wo sie zuerst hinausgetreten waren, heißt es Troja." 7. „Der Feldherr rief den Latiner unter den Vordersten zu einem Gespräch."
-
-**C.**
-8. Weil der Infinitiv in der **indirekten Rede** steht (nach *constat*) — und dort gilt die Zeitfolge: Hauptsatz Präsens → Infinitiv Präsens; Hauptsatz Perfekt → Infinitiv **Perfekt**. *Saevitum esse* ist der Perfektinfinitiv. 9. Der Akkusativ als Subjekt einer Infinitiv-Aussage. Hier steckt er in *profugos sedem … quaerere* und *nobilitatem admiratum gentis virique* — das Partizip *profugos* bzw. *admiratum* ist das Prädikatsnomen, das Subjekt steht im Akkusativ. 10. Weil der Konjunktiv **Perfekt** in der indirekten Rede den vom Sprecher berichteten, aber nicht bestätigten Inhalt angibt (erzählte Rede) — die Zeitfolge.
-
-**D.**
-11. Verbal: *Rōmānī urbem condidērunt.* Nominal: *Rōmā conditum est oppidum Rōmānōrum.* (= „Von den Römern wurde eine Stadt gegründet“.)
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -271,14 +258,15 @@ Für den Anfänger ist der Text zugleich eine **Lektion über Quellenkritik**: L
 4. Welches Satzmuster benutzt Livius für „es steht fest, dass …"? ______
 :::
 
-:::loesung
-1. Zwei Varianten der Überlieferung, die nebeneinander stehen 2. Die Veneter (aus Troja) und die Veneter/Eneter (aus Paphlagonien) — bzw. Trojaner und Eneter 3. Gefecht, Schlacht 4. *satis constat … + Infinitiv* (AcI mit unpersönlichem Verb)
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Troia capta in ceteros saevitum ______ (esse) Troianos.* → *esse*
-2. Übersetze: *Postquam audierit multitudinem Troianos esse …* — „Nachdem er gehört hatte, dass es Trojaner seien …"
+1. Setze ein: *Troia capta in ceteros saevitum ______ (esse) Troianos.*
+2. Übersetze: *Postquam audierit multitudinem Troianos esse …*
 3. Erkläre: Warum stellt Livius die beiden Überlieferungen nebeneinander, statt eine davon zu wählen?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

@@ -58,16 +58,6 @@ Wer diese Schichten kennt, erkennt in jeder Fachliteratur sofort, welches Zeital
 7. Die Begriffe *hysteron proteron* und *chiasmus* stammen aus derselben griechischen Denktradition. Erkläre den gemeinsamen Kern.
 :::
 
-:::loesung
-**A.**
-1. Die griechische Terminologie stammt aus der **rhetorisch-poetischen Analyse** der Griechen, die lateinische aus der **grammatischen Schullehre** der Römer. Die Römer haben vieles griechisch übernommen (*syntaxis*, *apostrophe*, *metaphora*) und anderes selbst latinisiert (*accusativus limitans*, *verbum dicendi*). 2. *Comparātiō* ist das lateinische Wort für „Vergleichung" — die Steigerung wird als *Vergleich* aufgefasst (gut — besser — am besten). 3. *Exordium, apostrophē, invocātiō, paradoxon, hypallage, anastrophē, ekphrasis, enthymēma* u. a. 4. *Tempusprofil, Audit, Fehleranalyse, Ordo rerum, Gradus difficilitatis* — Begriffe, die die antike Grammatik nicht brauchte, weil es weder Tempusprofile noch Didaktik-Forschung gab.
-
-**B.**
-5. **34 (indirekte Rede):** *Indirecta, Modus obliquus, Tempus consecutivum, Oratio recta, Nuntius, Verbum dicendi, Accusativus infiniti, Nominativus infiniti*. **20 (Konjunktiv):** *Coniunctivus, Modus obliquus, Subiectivus*. **39 (Tempusprofil):** *CS, CT, CS/CT-Regel, Tempus*. 6. *Nominalstil, Verbalstil, Ordo rerum* — das *Nominalstil*-Kapitel ist **29** (Infinitivsystem); *Ordo rerum* gehört zu 37.
-
-**C.**
-7. Beide Figuren beruhen auf dem Prinzip, dass die **normale Abfolge** der Glieder absichtlich **umgekehrt** wird: *hysteron proteron* kehrt die **logische** Reihenfolge um (das Spätere zuerst), *chiasmus* die **syntaktische** (AB wird zu BA). Beide zwingen den Leser, die Glieder bewusst neu zu sortieren — eine typisch griechische Vorliebe für den Reiz der Umstellung.
-:::
 
 :::wiederholung Wiederholungsfach
 1. Wie viele Fachbegriffe enthält das Glossar? ______
@@ -75,13 +65,14 @@ Wer diese Schichten kennt, erkennt in jeder Fachliteratur sofort, welches Zeital
 3. Welcher Begriff gehört zu Kapitel 46 (Ovid)? ______
 :::
 
-:::loesung
-1. 182. 2. Griechisch, Latein (Antike) und Neulatein — im Glossar zusätzlich als „Lehnwort" und „Modern" markiert. 3. *Hexameter, Dactyl, Spondeus, Caesura, Metrum, Ekphrasis, Enargeia, Alliteration, Tmesis, Goldenes Zeitalter* (u. a.).
-:::
 
 :::check Prüfungscheck
 1. Wähle drei Begriffe, die dir **noch** nicht geläufig sind, und schlage ihren Kapitelverweis nach. Notiere jeweils einen Satz dazu, den du selbst formulierst.
 2. Erkläre an einem selbst gewählten Beispiel, warum ein griechischer Fachbegriff oft **inhaltsreicher** ist als sein lateinisches Gegenstück (Tipp: *hyperbaton* gegenüber *transiectio*).
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

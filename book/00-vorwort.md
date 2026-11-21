@@ -16,7 +16,7 @@ Es gibt drei typische Ausgangslagen:
 * **Du willst einen lateinischen Text lesen.** Dann lies Teil IV (Übersetzungstechnik) und Teil V (Lektüre) zuerst und benutze Teil VI (Wort) als Nachschlagewerk.
 
 :::info Was dieses Buch nicht ist
-Es ist **kein** Wörterbuch, **kein** Nachschlagewerk für zweifelhafte Formen (dafür gibt es Anhang 46) und **kein** Lehrbuch für das Latinum-Prüfungsformat. Es ist ein **Verstehensbuch**: Es erklärt, warum Latein so gebaut ist, wie es gebaut ist — damit du die Regeln nicht auswendig lernst, sondern sie benutzen kannst.
+Es ist **kein** Wörterbuch, **kein** Nachschlagewerk für zweifelhafte Formen (dafür gibt es den Formenspiegel in Anhang III) und **kein** Lehrbuch für das Latinum-Prüfungsformat. Es ist ein **Verstehensbuch**: Es erklärt, warum Latein so gebaut ist, wie es gebaut ist — damit du die Regeln nicht auswendig lernst, sondern sie benutzen kannst.
 :::
 
 ## Wie du dieses Buch liest
@@ -73,7 +73,7 @@ Das Buch ist linear geschrieben, aber nicht linear zu lesen. Dieser Plan verteil
 | 9 | 24–26 | Akkusativ, Dativ, Ablativ |
 | 10 | 27–31 | Passiv, Infinitivsystem, Gerundium, Partizipien |
 | 11 | 32–35 | Pronomen- und Konjunktionalsätze, indirekte Rede, Conditionalis |
-| 12 | 36–44 | Übersetzungstechnik, Lektüre, Wortschatz, Glossar |
+| 12 | 36–54 | Übersetzungstechnik, zehn Lektürettexte, Anhänge, Gesamtprüfung |
 
 **Zusätzlich:** jeden Tag 5 Minuten Wiederholungsfach, jeden siebten Tag 20 Minuten Wiederholung der Vorwoche. Am Ende jeder Woche: die drei Sätze der Lektüre lesen, die du in der Woche gelernt hast.
 
@@ -84,17 +84,18 @@ Das Buch ist linear geschrieben, aber nicht linear zu lesen. Dieser Plan verteil
 ## Eine Karte des Buches
 
 ```
-TEIL I    DIE SPRACHE IM KOPF      Wie Latein klingt und denkt (Kap. 2–5)
+TEIL I    DIE SPRACHE IM KOPF      Wie Latein klingt und denkt (Kap. 1–5)
 TEIL II   FORMENLEHRE              Nomen, Verb, Pronomen, Tempora, Modi (Kap. 6–21)
 TEIL III  SYNTAX                  Die sechs Fälle, Passiv, Infinitiv, Nebensätze (Kap. 22–36)
 TEIL IV   ÜBERSETZUNG             Die Werkzeuge des Übersetzers (Kap. 37–39)
-TEIL V    LEKTÜRE                 Zehn Texte, von der Fabel bis zum Neulatein (Kap. 40–41)
-TEIL VI   DAS WORT                Kernvokabular, Lernsystem, Wortbildung (Kap. 42–44)
-TEIL VII  NACHschLAGEN            Glossar, Formenspiegel, Lösungen, Literatur (Kap. 45–48)
+TEIL V    LEKTÜRE                 Zehn Texte, von der Fabel bis zum Neulatein (Kap. 40–49)
+TEIL VI   ANHÄNGE                 Vokabeln, Glossar, Formenspiegel, Gesamtprüfung,
+                                 Lösungen zu allen Übungen (Kap. 50–54)
 ```
 
 ## Zum Schluss
 
-Ein Wort vorweg: **Du wirst Fehler machen.** Du wirst *puellam* schreiben, wo *puellā* gemeint ist, und *puellā* verstehen, wo *puella* steht. Das ist kein Zeichen schlechten Lernens, sondern von Lernen überhaupt. Die Fehler, die bleiben, sind die, die du nicht bemerkt hast — und deshalb enthält dieses Buch so viele Prüfungen, Wiederholungsfächer und Musterlösungen.
+Ein Wort vorweg: **Du wirst Fehler machen.** Du wirst *puellam* schreiben, wo *puellā* gemeint ist, und *puellā* verstehen, wo *puella* steht. Das ist kein Zeichen schlechten Lernens, sondern von Lernen überhaupt. Die Fehler, die bleiben, sind die, die du nicht bemerkt hast — und deshalb enthält dieses Buch so viele Prüfungen und Wiederholungsfächer — und deshalb stehen
+alle Musterlösungen gesammelt in **Anhang V**, damit du sie erst nach dem eigenen Versuch liest.
 
 Viel Vergnügen. *Bona fortuna!*

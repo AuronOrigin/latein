@@ -10,7 +10,7 @@ Nach diesem Kapitel kannst du:
 - PC, AcP und Ablativus absolutus unterscheiden,
 - die **relative Zeit** der Partizipien bestimmen,
 - einen Satz mit Partizip in einen Hauptsatz umformen.
----
+:::
 
 :::wortschatz
 **amāns, amantis** — liebend (Part. Präs. akt.) · **amātus** — geliebt (Part. Perf. pass.) ·
@@ -122,21 +122,6 @@ Die Form des Partizips zeigt, ob die Handlung **gleichzeitig**, **vorhergehend**
 10. *Cōnsule cōnsule, pāx facta est.*
 :::
 
-:::loesung
-**A.**
-1. *ambulāns, ambulantis* 2. *captus, capta, captum* 3. *ventūrus, ventūra, ventūrum*
-
-**B.**
-4. **AcP** (Akkusativ + Partizip) 5. **Ablativus absolutus** 6. **PC** (Partizip, das sich auf *magister* bezieht)
-
-**C.**
-7. „Die laufenden Jungen erreichten das Tor."
-8. „Als niemand floh, arbeiteten die Bauern auf dem Feld."
-9. „Ich sehe den Jungen singen."
-
-**D.**
-10. *Cum cōnsul esset, pāx facta est.*
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -146,14 +131,15 @@ Die Form des Partizips zeigt, ob die Handlung **gleichzeitig**, **vorhergehend**
 5. Partizip Futur von *venīre*: ______
 :::
 
-:::loesung
-1. *amāns, amantis* 2. *captus, capta, captum* 3. Der Ablativus absolutus 4. Der AcP 5. *ventūrus, ventūra, ventūrum*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Urbe ______ (capta), Rōmānī trīumphōrunt.* → *capta*
-2. Übersetze: *Dux milites fortēs in aciē dūxit.* — kein Partizip, aber: „Der Feldherr führte die tapferen Soldaten in die Schlachtordnung."
+1. Setze ein: *Urbe ______ (capta), Rōmānī trīumphōrunt.*
+2. Übersetze: *Dux milites fortēs in aciē dūxit.*
 3. Erkläre: Warum ist *ventūrus* keine Gegenwartsform?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

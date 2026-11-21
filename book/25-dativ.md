@@ -10,7 +10,7 @@ Nach diesem Kapitel kannst du:
 - den Dativ des Besitzes, des Interesses und des Zwecks unterscheiden,
 - den doppelten Dativ verstehen,
 - den Dativ vom Genitiv und Nominativ unterscheiden.
----
+:::
 
 :::wortschatz
 **fīliae** — der Tochter (Dat.) · **amīcō** — dem Freund (Dat.) · **puerīs** — den Jungen (Dat. Pl.) ·
@@ -147,22 +147,6 @@ Wenn du *-ae, -ī, -ō, -īs* siehst, ist der entscheidende **Tipp**: Frag das V
 13. „Der Vater ist treu."
 :::
 
-:::loesung
-**A.**
-1. Dativ (Besitz) 2. Dativ (Besitz, Plural) 3. Genitiv (Objektgenitiv) 4. Dativ (indirektes Objekt) 5. Dativ (Bezug)
-
-**B.**
-6. „Der Lehrer lehrt den Schülern Wörter."
-7. „Ich habe Silber und Edelsteine."
-8. „Sie schickten den Freund zu Hilfe." (Dativ des Zwecks)
-
-**C.**
-9. *Sibi carī sunt* = Dativ des Interesses: „Für sich selbst sind sie teuer" (= „Sie lieben sich [selbst]"). *Ei liber est* = Dativ des Besitzes: „Er hat ein Buch."
-10. *Prō salute patriae* = **Ablativus dativi**: „pro" + Ablativ, mit Genitiv *patriae* als Ziel des „pro": „für das Heil des Vaterlandes".
-
-**D.**
-11. *Amīcō librum mittō.* 12. *Duōs filiōs habet.* (= *Ei duo filiī sunt*.) 13. *Pater fidēlis est.*
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -172,14 +156,15 @@ Wenn du *-ae, -ī, -ō, -īs* siehst, ist der entscheidende **Tipp**: Frag das V
 5. Was ist der Ablativus dativi? ______
 :::
 
-:::loesung
-1. Dativ 2. „Ich habe Silber." 3. Der Interessendativ 4. Verb + Dativ (Person) + Dativ (Sache) 5. „pro salute" — pro + Ablativ mit Genitiv
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Magister ______ (discipulus) multa dicit.* → *discipulōs* (Dativ Plural, bei *dīcere aliquem aliquid`) — Achtung: *dīcere* + Akk. + Akk.; *docēre aliquem aliquid* = Dativ + Akkusativ.
-2. Übersetze: *Nōn sibi sed patriae vivere oportet.* — „Man muss nicht für sich, sondern für das Vaterland leben."
+1. Setze ein: *Magister ______ (discipulus) multa dicit.*
+2. Übersetze: *Nōn sibi sed patriae vivere oportet.*
 3. Erkläre: Warum ist *Est mihi liber* kein Fehler?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

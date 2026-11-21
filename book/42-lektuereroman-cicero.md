@@ -233,19 +233,6 @@ Cicero argumentiert in *De natura deorum* ausdrücklich gegen die klassischen My
 11. Welche Formen sind im Nebensatz *quibus evenit iam ut morerentur* Konjunktiv, welche Indikativ?
 :::
 
-:::loesung
-**A.**
-1. Wenn die Toten elend wären (wie die Dichter behaupten), wären alle von Geburt an zu ewigem Unglück verdammt — und der Tod wäre dann wirklich ein ewiges Übel. 2. Dass die Dichter die Hölle mit Kerberos, Tantalus, Sisyphus und Minos ausmalen — das sei Mythenbildung, kein Beweis. 3. Kerberos, Tantalus, Sisyphus, Minos, Rhadamanthus (und Cocytus, Acheron). 4. Cicero dreht die Argumentation um: Vor **Griechen** kann er keinen römischen Anwalt aufstellen, also Demosthenes — und die **„corona"** (der Siegerkranz) ist die Verleihungung für den, der die beste Verteidigung hält. Er stellt sich selbst als den *Ankläger* der These hin — das ist der rhetorische Kunstgriff.
-
-**B.**
-5. „Also ist es elend, weil es ein Übel ist.“ 6. „Das fürchtest du vielleicht.“ 7. „Du erzählst schlecht, beim Herkules.“
-
-**C.**
-8. Weil *evenit* im **Konjunktiv** steht: Es ist kein eingetretenes Faktum, sondern der hypothetische Fall („denen es widerfahren **wird**“). 9. *Num* = „ob“ — es leitet die **indirekte Frage** ein. 10. *Moriendum est* ist der **Passivinfinitiv**: „es muss gestorben werden“ = „man muss sterben“. *Est enim* begründet die allgemeine Aussage: „Sterben muss ja jeder.“
-
-**D.**
-11. Konjunktiv: *evenit* (erwartet), *morerentur* (nachgeordnet). Indikativ: *iam* ist ein Adverb (kein Verb); der Indikativ steht im Hauptsatz *moriendum est* (Ausdruck einer allgemeinen Tatsache).
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -255,14 +242,15 @@ Cicero argumentiert in *De natura deorum* ausdrücklich gegen die klassischen My
 4. Nenne drei mythologische Gestalten aus dem Text. ______
 :::
 
-:::loesung
-1. *Tusculanae disputationes* 2. Der Gesprächsleiter, der die These aufstellt und die Antworten der Freunde aufgreift 3. Ewig 4. Kerberos, Tantalus, Sisyphus
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Iisne, qui mortui sunt, an iis, quibus moriendum est?* → (Antwort: *UTRQUE*)
-2. Übersetze: *Nemo ergo non miser. Prorsus nemo.* — „Also ist niemand nicht elend. Ganz gewiss niemand."
+1. Setze ein: *Iisne, qui mortui sunt, an iis, quibus moriendum est?*
+2. Übersetze: *Nemo ergo non miser. Prorsus nemo.*
 3. Erkläre: Was bedeutet *prorsus* und wie wirkt es in der Argumentation?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

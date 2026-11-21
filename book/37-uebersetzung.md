@@ -206,25 +206,6 @@ Weil das Verb spät steht, übersetzen Anfänger oft: „Lehrer die Schüler erm
 10. *Magisterum discipulī audiunt.*
 :::
 
-:::loesung
-**A.**
-1. Akkusativ Plural → Objekt von *admonuit* 2. Nominativ Singular → Subjekt 3. Genitiv Singular → Besitzgenitiv („die Bücher des Vaters“) 4. Akkusativ Plural → Objekt von *ferunt*
-
-**B.**
-5. Verb: *dūxit*, *ēmīt*. Subjekt: *pater*. Objekte: *puerum*, *librum*. Adverbiale: *in forum*. → „Der Vater führte den Jungen auf den Markt und kaufte das Buch."
-6. Verb: *habitat*, *monet*. Subjekt: *magister*. Relativsatz: *qui Rōmāe habitat* (Konjunktiv? — Indikativ: „der in Rom wohnt"). Objekt: *discipulōs*. → „Der Lehrer, der in Rom wohnt, ermahnt die Schüler."
-
-**C.**
-```
-multa (Akk.) ─┬─ vidēt   ← Relativsatz zu quī
-              └─ discit  ← Hauptsatz, Verb
-quī ──────────── Hauptsatz-Subjekt
-```
-→ „Wer vieles sieht, lernt vieles."
-
-**D.**
-8. „Die Schüler hören den Lehrer." 9. „Hören die Schüler den Lehrer?" (gleiche Wörter, andere Betonung → Frage) — hier: Betonung auf *magisterum*: „Die Schüler hören **den Lehrer**.“ 10. „Hören die Schüler den Lehrer" mit Betonung auf *discipulī* → „**Die Schüler** hören den Lehrer."
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -234,14 +215,15 @@ quī ──────────── Hauptsatz-Subjekt
 4. Welche drei Wörter muss man immer zuerst finden? ______
 :::
 
-:::loesung
-1. Dem Verb 2. Bei langen Sätzen mit mehreren Nebensätzen 3. Das wichtigste Wort steht am Ende 4. Verb, Subjekt, Objekte
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Dux milites ______ (dūcō) in aciem.* → *dūxit*
-2. Übersetze: *Puerī rosās in hortō legunt.* — „Die Jungen lesen Rosen im Garten." (Falls *legunt* = „lesen“ gemeint ist; im Garten Rosen lesen zu lassen ist ungewöhnlich — dann war *legunt* = „sammeln“ gemeint: „Die Jungen sammeln Rosen im Garten.")
+1. Setze ein: *Dux milites ______ (dūcō) in aciem.*
+2. Übersetze: *Puerī rosās in hortō legunt.*
 3. Erkläre: Warum ist Schritt 5 (wortwörtlich) unverzichtbar?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

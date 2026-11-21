@@ -250,19 +250,6 @@ Caesar war **Propagandist**. Das zeigen drei Dinge:
 11. Schreibe einen ähnlichen dreifachen Parallelismus über drei Dinge, die dich auszeichnen.
 :::
 
-:::loesung
-**A.**
-1. Drei: Belgae, Aquitani, Celtae (von den Galliern „Galli" genannt). 2. Garumna (Garonne) zwischen Galliern und Aquitaniern; Matrona und Sequana zwischen Galliern und Belgiern; Rhodanus (Rhône), Rhenus (Rhein) als äußere Grenzen. 3. Weil sie am weitesten von der römischen Kultur entfernt sind, kaum Händler zu ihnen kommen und sie daher „unverweichlicht" sind — das ist Caesars (bewusst positive) Wertung der Aufständischen. 4. Dass es ganz leicht sei, ganz Gallien zu beherrschen, weil sie alle an Tapferkeit übertreffen.
-
-**B.**
-5. „Die Garonne trennt die Gallier von den Aquitaniern." 6. „Alle drei unterscheiden sich in Sprache, Einrichtungen und Gesetzen untereinander." 7. „Außerdem sind sie den Germanen am nächsten, die jenseits des Rheins wohnen."
-
-**C.**
-8. Weil Caesar im **historischen Präsens** erzählt: Die Handlung wird als **gleichzeitig** zum Erzählmoment dargestellt (vgl. Kapitel 39). 9. *Proximus sum* = „ich bin nahe / am nächsten"; *proximo sunt Germanis* = „sie sind den Germanen am nächsten". 10. *Cum* leitet hier einen temporalen Nebensatz ein: „wenn / während sie …"; *aut … aut* = „entweder … oder". Der Nebensatz zeigt die zwei möglichen Formen des Krieges: abwehrend oder angreifend.
-
-**D.**
-11. z. B. *Legō ad librōs, scribō ad tabulas, meditor ad ignem* — oder frei nach eigenem Geschmack.
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -272,14 +259,15 @@ Caesar war **Propagandist**. Das zeigen drei Dinge:
 4. Welche rhetorische Technik nutzt Caesar dreifach? ______
 :::
 
-:::loesung
-1. „Notiz, Erfahrungsbericht" — bei Caesar eine politische Niederschrift in Ich-Form 2. Belgae, Aquitani, Celtae 3. Den Rhein (*Rhenus*) 4. Die Parallele (dreifache Wiederholung desselben Satzbaus)
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Gallia est omnis ______ (divido) in partes tres.* → *divisa* (Partizip Perfekt Passiv)
-2. Übersetze: *Eorum una pars initium capit a flumine Rhodano.* — „Einer ihrer Teile beginnt am Fluss Rhône."
+1. Setze ein: *Gallia est omnis ______ (divido) in partes tres.*
+2. Übersetze: *Eorum una pars initium capit a flumine Rhodano.*
 3. Erkläre: Warum ist es problematisch, Caesars Gallienbeschreibung als „nüchterne Geographie" zu lesen?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung

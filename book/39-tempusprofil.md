@@ -140,21 +140,8 @@ Diese Ironie ist ein Kennzeichen lateinischer Prosa: Der Sprecher sagt das Gegen
 
 **D. Formulieren.** Formuliere im lateinischen Erzählstil:
 8. „Die Römer gründeten die Stadt.“
-
-:::loesung
-**A.**
-1. Perfekt (Hauptlinie) 2. Imperfekt (gleichzeitige Nebenhandlung) 3. Präsens (Beginn der Erzählung, wie in der Chronik)
-
-**B.**
-4. „Die Römer gründeten die Stadt." 5. „Man muß sterben" / „Alle müssen sterben." (allgemeine Aussage → Präsens)
-
-**C.**
-6. Weil das Blockieren des Brückenbaus **gleichzeitig** mit dem Brückenbau stattfand, nicht die Haupthandlung war. Die Haupthandlung (der Brückenbau) steht im Perfekt (*cūrāvit*).
-7. Der Sprecher meint das Gegenteil: Er nennt Caesars Vorgehen nicht „vorsichtig“, sondern spöttisch „vorausschauend“ — Caesar hat den Brückenbau ja gerade erst befohlen, um die Feinde zu überraschen.
-
-**D.**
-8. *Populī Rōmānī urbem condidērunt.*
 :::
+
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -164,18 +151,19 @@ Diese Ironie ist ein Kennzeichen lateinischer Prosa: Der Sprecher sagt das Gegen
 4. Nenne zwei Adverbien der Gewissheit. ______
 :::
 
-:::loesung
-1. Präsens, Perfekt, Imperfekt 2. Das Präsens, obwohl Vergangenes erzählt wird — der Erzähler „springt hinein" 3. Für das, was noch früher als die Haupthandlung geschah 4. *certē, fōrsitan, vērē*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Dum Caesar pontem faceret, ______ (hostēs) redierunt.* → *redierunt* (Hauptlinie, Perfekt)
-2. Übersetze: *Hiems īnitium facit.* — „Der Winter beginnt."
+1. Setze ein: *Dum Caesar pontem faceret, ______ (hostēs) redierunt.*
+2. Übersetze: *Hiems īnitium facit.*
 3. Erkläre: Woran erkennt man Ironie in lateinischer Prosa?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung
 - Livius' Erzählkunst: Kapitel 45 (Lektüre).
 - Ciceros Reden: Kapitel 42 (Lektüre).
-- Das Tempussystem im Formenspiegel: Kapitel 54.
+- Das Tempussystem im Formenspiegel: Kapitel 52.
 :::

@@ -218,19 +218,6 @@ Phaedrus war Freigelassener des Kaisers **Caligula** und Teil der literarischen 
 10. Bilde einen eigenen Satz nach dem Muster: „X behauptet, Y habe Unrecht; Y erwidert: ‚Nein, ich nicht.‘“
 :::
 
-:::loesung
-**A.**
-1. Beide waren vom Durst getrieben. 2. Beides: körperlich (oben/unten am Hang) **und** gesellschaftlich (stark/schwach, Unterdrücker/Unterdrückter). 3. Mit einer Gegenrede: Das Wasser ist von dir zu mir hinuntergeflossen, ich kann es nicht verursacht haben. 4. Der Wolf erfindet bei jedem Vorwurf eine neue Ausrede — deshalb richtet sich die Fabel an die, „die mit erfundenen Gründen Unschuldige unterdrücken“.
-
-**B.**
-5. „Wie kann ich, ich bitte, das tun, was du mir vorwirfst, Wolf?“ 6. „Das Wasser ist von dir zu meinen Schlucken hinuntergeflossen.“
-
-**C.**
-7. **Konjunktiv** (Präsens), weil es eine **indirekte Frage** ist: „was wirfst du mir vor?“ (direkt: *quid queris?*). 8. Weil *bibenti* ein **Dativ des Zustands** ist: „beim Trinken“ — die Tätigkeit, bei der etwas geschieht. 9. *laniger* = „der Wollen-de“ (von *lāna*, Wolle); es ist das Substantiv zum Adjektiv *lāniger* und dient als Eigennname des Lammes (wie *lupus* für den Wolf).
-
-**D.**
-10. z. B. *Rex populum accusat: "Iniūstum dīcit." Populus respondet: "Ego hoc nōn dīxī."*
-:::
 
 :::wiederholung Wiederholungsfach
 **Aus dem Gedächtnis:**
@@ -240,14 +227,15 @@ Phaedrus war Freigelassener des Kaisers **Caligula** und Teil der literarischen 
 4. Nenne zwei Redewendungen aus der Fabel. ______
 :::
 
-:::loesung
-1. Durst (Genitiv *sitīs*) — der Grund des Zwingens 2. Akkusativ (Richtung) 3. Die eine nennt **erfundene** Gründe, die andere die **Wahrheit** — der Gegensatz bildet die Fabel 4. *fictis causis*, *iniusta nece*, *lupus et agnus*
-:::
 
 :::check Prüfungscheck
-1. Setze ein: *Lupus et agnus ______ (venio) ad rivum eundem.* → *venerant* (Perfekt)
-2. Übersetze: *Respondit agnus: "Equidem natus non eram."* — „Das Lamm antwortete: ‚Freilich, ich war noch nicht geboren.‘"
+1. Setze ein: *Lupus et agnus ______ (venio) ad rivum eundem.*
+2. Übersetze: *Respondit agnus: "Equidem natus non eram."*
 3. Erkläre: Warum ist *quod quereris* Akkusativ + Konjunktiv und nicht Akkusativ + Indikativ?
+:::
+
+:::info Lösungen
+Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** dieses Kapitels stehen in **Anhang V — Lösungen zu allen Übungen** (Kapitel 54).
 :::
 
 :::vertiefung
