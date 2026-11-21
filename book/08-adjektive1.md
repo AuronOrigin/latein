@@ -82,7 +82,7 @@ Wenn das Genus des Nomens falsch bestimmt ist, ist **jede** Adjektivform falsch.
 
 Steht direkt beim Nomen, **vor** ihm: *puella pulchra* — „das schöne Mädchen". Das ist der Normalfall.
 
-Aber: Das Adjektiv muss **nicht** direkt beim Nomen stehen. Zwischen Nomen und Adjektiv können遥远 Adverbialien und andere Wörter stehen:
+Aber: Das Adjektiv muss **nicht** direkt beim Nomen stehen. Zwischen Nomen und Adjektiv können Adverbialien und andere Wörter stehen:
 
 > *Magister magnus in schōlā discipulōs monet.*
 > „Der **große** Lehrer ermahnt die Schüler in der Schule."

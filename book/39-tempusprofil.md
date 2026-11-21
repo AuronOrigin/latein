@@ -42,7 +42,7 @@ Das Latein hat **beide** Wege — und der Gebrauch ist zwischen den Textsorten s
 
 :::begriff Tempusprofil
 **Begriff:** Die **Verteilung** der Tempora in einem Text — also das Muster, das zeigt, in welcher Zeit der Erzähler die Handlung setzt.
-**Herkunft:** lat. *prōfilus* = „Umriss,轮廓“ (griech. *pro-* vor + *ōdē* Grenze) — der Umriss der zeitlichen Erstreckung.
+**Herkunft:** lat. *prōfilus* = „Umriss, Kontur“ (griech. *pro-* vor + *ōdē* Grenze) — der Umriss der zeitlichen Erstreckung.
 **Wozu?** Es beantwortet die Frage: **„Wie weit entfernt ist das Erzählte vom Erzähler?“** Je näher, desto mehr Präsens; je weiter, desto mehr Perfekt.
 **Verwandte Begriffe:** *Tempus*, *Aspekt*, *histōricum*, *Erzählhaltung*.
 :::

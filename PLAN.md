@@ -81,7 +81,7 @@ Diese Tabelle wird im Buch **mehrmals** auftauchen (pro Kapitel als Kurzmarke, i
 
 ---
 
-## 5. Vollständige Gliederung (Entwurf)
+## 5. Vollständige Gliederung (Endstand)
 
 ```
 VORWORT
@@ -134,29 +134,25 @@ TEIL IV — DIE KUNST DER ÜBERSETZUNG
  38  Fehlerquellen und ihre Behebung (Kasus-Sünden, Tempus-Sünden, Subjekt-Sünden …)
  39  Tempusprofil & Modalität: „Was weiß der Erzähler?“
 
-TEIL V — LEKTÜRE
- 40  12 Texte in 3 Stufen: adaptierte Originaltexte → kurze Originalpassagen → echte Kernstellen
-      (Phaedrus, Cicero (Catilinarianen, Tusculanae), Caesar, Livy, Ovid, Seneca, Vergil-Auszug,
-       Bедиcht, Hieronymus, plus 1 lateinisch-neulateinischer Brückentext)
- 41  Jeder Text mit: Vokabelhilfe (Randnotizen), Wort-für-Wort-Übersetzung, sinngemäßer Übersetzung,
-      Satzdiagramm, Verständnisfragen, kulturhistorische Box
+TEIL V — LEKTÜRE (10 Texte, je ein Kapitel)
+ 40  Lektüre I   Ein Tag in Rom — erfundener Alltagsdialog in der Taberna (Wortschatz, Münzen, Maße)
+ 41  Lektüre II  Phaedrus, Fabulae I.1 — Lupus et agnus (Senarien, Pointe, Redewendungen)
+ 42  Lektüre III Cicero, Tusculanae disputationes I.9–11 (Sprecherwechsel, Argumentationsanalyse)
+ 43  Lektüre IV  Seneca, Epistulae morales I — Briefschema, Sentenzen, Nominalstil
+ 44  Lektüre V   Caesar, De bello Gallico I.1–2 (historisches Präsens, Passiv, Parallelismus)
+ 45  Lektüre VI  Livius, Ab urbe condita I.1–8 (Quellenvarianten, AcI, Zeitfolge)
+ 46  Lektüre VII Ovid, Metamorphosen I.1–5 und I.89–95 (Hexameter, Goldenes Zeitalter)
+ 47  Lektüre VIII Vergil, Aeneis I.1–11 (Hyperbaton, Enallage, epischer Prolog)
+ 48  Lektüre IX  Die Vulgata: Psalmus 22/23 (Bibelübersetzungs-Latein, Gleichnisse)
+ 49  Lektüre X   Die Brücke: Beda (Mittellatein) und Erasmus (Neulatein)
 
-TEIL VI — WORT
- 42  Das Kernvokabular (5 Frequenzstufen, ~600 Wörter, mit Wortfamilien)
- 43  Vokabel-Lernsystem: Karteikarten, Anki-CSV, Spaced-Repetition-Plan, Wortschatztest
- 44  Wortbildungs-Übungen: unbekannte Wörter selbst zerlegen
+TEIL VI — ANHÄNGE
+ 50  Anhang I   Vokabelverzeichnis: 893 Kernvokabeln in fünf Stufen (A–E)
+ 51  Anhang II  Glossar der Fachbegriffe: 182 Begriffe mit Herkunft und Kapitelverweis
+ 52  Anhang III Formenspiegel: Deklinationen, Steigerung, Pronomina, Konjugation, Tempus/Modus
+ 53  Anhang IV  Gesamtprüfung: 43 Aufgaben aus allen Teilen — mit vollständigen Lösungen
 
-TEIL VII — NACHKSCHLAGEN
- 45  Glossar der Fachbegriffe (~130 Einträge: Definition, Herleitung, Beispiel, „Merke“)
- 46  Formenspiegel (alle Paradigmen auf einen Blick)
- 47  Lösungen zu allen Übungen
- 48  Literatur, Quellen, weiterführende Werke
-
-ANHANG
- 49  12-Wochen-Lernplan · Checklisten · Tempusübersicht · Griechische Anfangslehrzeichen
-```
-
-*(Die Nummern der Überschriften sind Arbeitsnummern; die Kapitelzählung kann sich beim Schreiben noch verschieben.)*
+*(Endstand: 54 Kapitel in `book/00-…` bis `book/53-…`. Die Lektüre wurde gegenüber dem Entwurf von „12 Texte" auf **zehn** konkretisierte Texte in **je einem eigenen Kapitel** umgesetzt; Vokabel-Lernsystem, Wortbildungs-Übungen, Literaturverzeichnis und 12-Wochen-Plan sind in die Anhänge 50–53 sowie das Vorwort integriert.)*
 
 ---
 
