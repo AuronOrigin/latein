@@ -167,6 +167,33 @@ Beachte: *philosophus* = *fi-lo-so-fus* (ph = f, ch = kh), *philosophia* = *fi-l
 5. *Aquă* ist zweisyllabig (a-qua) → erste Silbe. *Aquāre* ist dreisyllabig (a-qua-re); die letzte Silbe *-re* ist kurz, deshalb bleibt die Betonung auf der ersten Silbe: **áquare**.
 :::
 
+:::wiederholung Wiederholungsfach
+**Aus dem Gedächtnis:**
+1. Wie viele Vokale hat das Lateinische? ______
+2. Was sind die drei Regeln für die Betonung? ______
+3. Wie zerlegt man *aqua* in Silben, und wo liegt die Betonung? ______
+4. Nenne drei Zweisilbner mit kurzer Endung. ______
+:::
+
+:::loesung
+1. Fünf: *a, e, i, o, u* — ohne Umlaute.
+2. **Zweisilber** → Betonung auf der ersten Silbe (bei langer Endung auf der zweiten). **Dreisilber** → Betonung auf der dritten, wenn die Endung kurz ist, sonst auf der ersten. **Viersilber** → Betonung auf der dritten, wenn die Endung lang ist, sonst auf der zweiten.
+3. *a-qua* — zwei Silben, Betonung auf **á** (Zweisilbenregel).
+4. *puella* (pu-él-la), *aqua* (á-qua), *rosa* (ró-sa), *via* (ví-a), *hortus* (hór-tus), *puer* (pu-er), *magister* (ma-gís-ter).
+:::
+
+:::check Prüfungscheck
+1. Setze die Akzente richtig: *PUELLA*, *AQUA*, *CONSUL*, *ARGENTUM*, *LAUDAT*.
+2. Übersetze und sprich laut: *Puer rosam amat.*
+3. Erkläre: Warum ist *amīcus* zweisilbig, *amīcitia* aber dreisilbig — und wo liegt jeweils die Betonung?
+:::
+
+:::loesung
+1. *pu-él-la · á-qua · cón-sul · ar-gén-tum · lau-dát.*
+2. „Der Junge liebt die Rose."
+3. *Amīcus* ist zweisilbig → Betonung auf der ersten Silbe (*a-mí-cus*). *Amīcitia* ist dreisilbig; die Endung *-tia* ist kurz, also Betonung auf der dritten Silbe (*a-mi-cí-tia*).
+:::
+
 :::vertiefung
 - *Vox Latina* (Heinrich Sweet, 1880) — die klassische Aussprache in phonetischer Umschrift, mit Übungen.
 - Ørberg, *Lingua Latina* — Kapitel 1 enthält eine sehr klare Aussprache-Einführung mit Zeichnungen.

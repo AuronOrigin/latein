@@ -199,6 +199,33 @@ Finde den Stamm: *amāmus, puerī, rosīs, monētis, audīvērunt*.
 8. *magistrī* = Genitiv Singular (2. Dekl.) oder Nominativ Plural → „**des** Lehrers“ / „**die** Lehrer“.
 :::
 
+:::wiederholung Wiederholungsfach
+**Aus dem Gedächtnis:**
+1. Wie viele lateinische Wortarten gibt es? ______
+2. Welche drei „Drehräder“ haben Substantive? ______
+3. Was ist der Unterschied zwischen Stamm und Endung? ______
+4. Welche Wortarten sind unveränderlich? ______
+:::
+
+:::loesung
+1. Sechs (bzw. neun Zeilen in der Übersichtstabelle): Substantiv, Adjektiv, Pronomen, Numerale, Verb, Adverb, Konjunktion, Präposition, Interjektion.
+2. **Kasus × Numerus × Genus**.
+3. Der **Stamm** ist der unveränderliche Teil, der die Bedeutung trägt (*amā-* in *amāre*); die **Endung** ist der wechselnde Teil, der die grammatische Funktion anzeigt (*-re* = Infinitiv).
+4. Adverb, Konjunktion, Interjektion (und die Präposition ist ebenfalls unveränderlich — sie hat nur einen festen Kasus).
+:::
+
+:::check Prüfungscheck
+1. Setze ein: *Puella rosam ______ (amāre, Präs. 3. Sg.).* → *amat*
+2. Übersetze: *Magister discipulōs monet.* — „Der Lehrer ermahnt die Schüler."
+3. Erkläre: Woran erkennst du an *puellārum*, dass es ein Substantiv ist und kein Verb?
+:::
+
+:::loesung
+1. *amat*
+2. „Der Lehrer ermahnt die Schüler."
+3. An der Endung *-ārum* (Genitiv Plural) — diese Endung kommt bei Verben nicht vor. Die Endung *-ārum* gehört zum Paradigma der 1. Deklination, deren Stamm *puellā-* ist.
+:::
+
 :::vertiefung
 - Grammatische Terminologie zum Nachschlagen: das *Glossar der Fachbegriffe* in Kapitel 45.
 - Zur Wortbildung (Präfixe, Suffixe) als vertiefende Grammatik: Kapitel 21.

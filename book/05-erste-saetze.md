@@ -208,6 +208,33 @@ Bilde den Imperativ: *amāre, monēre, legere, audīre* — je Singular und Plur
 (Bei 15 gibt es zwei gleichwertige Wortstellungen: *Puella in hortō est.* / *In hortō puella est.*)
 :::
 
+:::wiederholung Wiederholungsfach
+**Aus dem Gedächtnis:**
+1. Wie heißen die fünf Formen von *esse* im Präsens? ______
+2. Welche Form benutzt man für „ich“? ______
+3. Wie lautet der Satz „Wir sind in der Schule“? ______
+4. Welche zwei Wortstellungen sind bei *Puella in hortō est* möglich? ______
+:::
+
+:::loesung
+1. *sum, es, est, sumus, estis, sunt.*
+2. *ego* (Akkusativ *mē*).
+3. *Nōs in schōlā sumus.*
+4. *Puella in hortō est.* und *In hortō puella est.* — beide bedeuten dasselbe; die Stellung zeigt, was betont wird.
+:::
+
+:::check Prüfungscheck
+1. Setze ein: *Pueri ______ (esse) in hōrtō.* → *sunt*
+2. Übersetze: *Magister doctus est.* — „Der Lehrer ist ein Gelehrter."
+3. Erkläre: Warum fehlt im Deutschen ein Artikel, im Latein aber auch?
+:::
+
+:::loesung
+1. *sunt*
+2. „Der Lehrer ist ein Gelehrter."
+3. Beide Sprachen lassen den **unbestimmten Artikel** weg, wenn er keine Information trägt. Im Deutschen ist der Artikel nur obligatorisch, weil das Nomen allein als Nominativ missverständlich wäre (*Puer — ein Junge?*); das Lateinische löst das über den **Kasus**.
+:::
+
 :::vertiefung
 - Ørbergs *Lingua Latina* (Kapitel 1–3) beginnt mit genau diesen Sätzen — in lateinischer Sprache.
 - Zur Entstehung der romanischen Sprachen aus dem Latein: Kapitel 42 (Wort) zeigt viele Beispiele.

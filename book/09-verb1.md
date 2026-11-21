@@ -159,6 +159,18 @@ Die Regel: *nē* + **Konjunktiv**; *nōn* + **Indikativ/Imperativ**.
 1. *amō, amāre, amāvī, amātum* 2. -mus 3. Stamm + *-ā* (amā!) 4. *nē* 5. Der lange Themenvokal *ā* vor -t, der kurze *a* vor -nt
 :::
 
+:::check Prüfungscheck
+1. Setze ein: *Puer rosam ______ (amāre, Präs. 3. Sg.).* → *amat*
+2. Übersetze: *Magister discipulōs monet.* — „Der Lehrer ermahnt die Schüler."
+3. Erkläre: Woran erkennst du an *amātum*, dass dies die Partizipform (Hauptform 4) ist und nicht eine 1. Person Singular?
+:::
+
+:::loesung
+1. *amat*
+2. „Der Lehrer ermahnt die Schüler."
+3. An der Endung **-um**: Partizipien im Neutrum Singular enden auf *-um* (wie *amātum, amāta, amātum*). Die 1. Person Singular Präsens lautet *amō*.
+:::
+
 :::vertiefung
 - Alle fünf Konjugationen im Vergleich: Kapitel 10.
 - Unregelmäßige Verben (sum, esse, ferre, fieri, ire): Kapitel 11.

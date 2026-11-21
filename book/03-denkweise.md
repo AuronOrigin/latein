@@ -202,6 +202,40 @@ Deshalb gilt beim Lesen klassischer Texte:
 Beide Sätze haben dieselbe grammatische Struktur — nur Subjekt und Objekt sind vertauscht, und damit die Aussage.
 :::
 
+:::wortschatz
+**puella, -ae** *f.* — Mädchen · **rosa, -ae** *f.* — Rose · **portō, portāre** — tragen ·
+**legō, legere** — lesen · **sum, esse** — sein · **magister, -trī** *m.* — Lehrer ·
+**discipulus, -ī** *m.* — Schüler · **Caesar, -is** *m.* — Cäsar · **pons, pontis** *m.* — Brücke ·
+**decem** — zehn · **annus, -ī** *m.* — Jahr · **urbs, urbis** *f.* — Stadt
+:::
+
+:::wiederholung Wiederholungsfach
+**Aus dem Gedächtnis:**
+1. In welcher Stellung steht im Latein das Verb im Hauptsatz? ______
+2. Wie heißt der Nominalstil auf Latein? ______
+3. Welche drei Auslassungen sind typisch? ______
+4. Wodurch betont das Latein ein wichtiges Wort? ______
+:::
+
+:::loesung
+1. Meist **hinten** (zwischen Subjekt und Objekt oder ganz am Ende).
+2. *Stīlus nōminālis* (gen. *nōminālis* von *nōmen* = Name) — „der Stil der Namen“: Aussagen werden in Form von Nomen (Genitive, Infinitiv, Partizip) gemacht.
+3. **Subjekt** (*Amat rosam.*), **Hilfsverb** (*Magister doctus.*), **Artikel** (*Rōma in Italiā est.*).
+4. Durch die **Wortstellung** — das wichtigste Wort steht an der betonten Stelle.
+:::
+
+:::check Prüfungscheck
+1. Setze ein: *Puella rosam ______ (portat).* → *portat*
+2. Übersetze: *Caesar pontem fecit.* — „Cäsar hat die Brücke gebaut."
+3. Erkläre: Warum ist *Magister doctus* ein vollständiger lateinischer Satz?
+:::
+
+:::loesung
+1. *portat*
+2. „Cäsar hat die Brücke gebaut."
+3. Weil die Kopula *est* im Indikativ weggfallen darf: *Magister doctus est* = „Der Lehrer ist ein Gelehrter". Die Auslassung ist im Lateinischen ausdrücklich erlaubt (Kapitel 36).
+:::
+
 :::vertiefung
 - Cicero, *Pro rege Caecilio* — berühmter Beleg für den Nominalstil.
 - *A Note on Latin Word Order* (in den gängigen Lehrbüchern zu finden) — der klassische Einwand gegen die „freie Wortstellung“.

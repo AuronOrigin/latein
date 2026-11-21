@@ -169,6 +169,18 @@ Das ist das Prinzip der Mischkonjugation:
 1. -it (dūcit) 2. *audiens* 3. *capere, facere* (auch iacere, pōnere) 4. -ō, -mus, -nt (und -s/-t) 5. *dūce!*
 :::
 
+:::check Prüfungscheck
+1. Setze ein: *Magister discipulōs ______ (monēre, Präs. 3. Sg.).* → *monet*
+2. Übersetze: *Dux militem in aciē dūcit.* — „Der Feldherr führt den Soldaten in die Schlachtordnung."
+3. Erkläre: Warum ist *capere* eine Mischkonjugation und nicht einfach die 3. Konjugation?
+:::
+
+:::loesung
+1. *monet*
+2. „Der Feldherr führt den Soldaten in die Schlachtordnung."
+3. Weil *capere* im Präsens einen **i-Stamm** hat (*cap-iō*), im Perfekt aber den reinen e-Stamm (*cap-ere*) — es verbindet also die 3. mit der 1. Konjugation. Deshalb nennt man sie *Mischkonjugation*.
+:::
+
 :::vertiefung
 - Unregelmäßige Verben: Kapitel 11.
 - Das gesamte Verbalsystem (alle Tempora, Modi, Diathesen): Kapitel 17–20.

@@ -187,6 +187,18 @@ Für *agrīcola pulcher rosam portat*:
 1. Genus, Numerus, Kasus 2. *bonae* 3. -a 4. Im Nominativ 5. z. B. *bonī* = „die Guten"
 :::
 
+:::check Prüfungscheck
+1. Setze ein: *Puella ______ (pulcher) rosam amat.* → *pulchra* (feminin, Nominativ Singular)
+2. Übersetze: *Agrīcolae fortēs agrōs colunt.* — „Die tapferen Bauern bebauen die Felder."
+3. Erkläre: Warum kann man ein lateinisches Adjektiv nicht ohne Nomen gebrauchen, ein Nomen aber ohne Adjektiv?
+:::
+
+:::loesung
+1. *pulchra*
+2. „Die tapferen Bauern bebauen die Felder."
+3. Das Adjektiv ist im Latein ein **Nomen mit Lücke**: Es muss an ein Nomen angebunden werden und holt sich dort Genus, Numerus und Kasus. Ohne Nomen gibt es kein Adjektiv — nur das substantivierte Adjektiv (*bonus* = „der Gute“), das selbst zum Nomen wird.
+:::
+
 :::vertiefung
 - Adjektive der 3. Deklination: Kapitel 14.
 - Steigerung (Komparation): Kapitel 14 und Kapitel 46.
