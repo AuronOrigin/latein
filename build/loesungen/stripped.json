@@ -1,0 +1,341 @@
+{
+ "03-denkweise.md": {
+  "check": [
+   "*portat*",
+   "„Cäsar hat die Brücke gebaut.\""
+  ]
+ },
+ "04-baukasten.md": {
+  "check": [
+   "*amat*",
+   "„Der Lehrer ermahnt die Schüler.\""
+  ]
+ },
+ "05-erste-saetze.md": {
+  "check": [
+   "*sunt*",
+   "„Der Lehrer ist ein Gelehrter.\""
+  ]
+ },
+ "06-dek1.md": {
+  "check": [
+   "*hortō* (Ablativ: „wo?“)",
+   "„Der Bauer liebt das Mädchen.\""
+  ]
+ },
+ "07-dek2.md": {
+  "check": [
+   "*scholā* (Ablativ)",
+   "„Die Herren ermahnen die Sklaven.\""
+  ],
+  "uebung": [
+   "*Equum* ist Akkusativ: *Der Junge liebt das Pferd.*",
+   "korrigieren!"
+  ]
+ },
+ "08-adjektive1.md": {
+  "check": [
+   "*pulchra* (feminin, Nominativ Singular)",
+   "„Die tapferen Bauern bebauen die Felder.\""
+  ]
+ },
+ "09-verb1.md": {
+  "check": [
+   "*amat*",
+   "„Der Lehrer ermahnt die Schüler.\""
+  ]
+ },
+ "10-konjugationen.md": {
+  "check": [
+   "*monet*",
+   "„Der Feldherr führt den Soldaten in die Schlachtordnung.\""
+  ],
+  "uebung": [
+   "korrigiere!"
+  ]
+ },
+ "11-unregelmaessig.md": {
+  "check": [
+   "*est*",
+   "„Die Römer konnten viele Kriege führen.\"",
+   "*fīō*."
+  ],
+  "uebung": [
+   "→ *potuī*"
+  ]
+ },
+ "12-pronomen.md": {
+  "check": [
+   "*studet*",
+   "„Jenes Mädchen (dort) ist meine Schwester.\""
+  ]
+ },
+ "13-dek3.md": {
+  "check": [
+   "*est*",
+   "„Die berühmten Konsuln sprechen im Senat.\"",
+   "kurzer Stammvokal (*mīl-*) → i-Stamm → -ium; langer Vokal (*cōnsul-*) → -um."
+  ]
+ },
+ "14-adjektive2.md": {
+  "check": [
+   "*discipulus*",
+   "„Ausdauer ist besser als Geduld\" (oder: „… ist stärker als …\")."
+  ],
+  "uebung": [
+   "Komparativ, Superlativ",
+   "Komparativ, Superlativ",
+   "Komparativ, Superlativ",
+   "Komparativ, Superlativ",
+   "Komparativ, Superlativ"
+  ]
+ },
+ "15-dek45.md": {
+  "check": [
+   "*est*",
+   "„Der Staat beruht auf größter Tugend.\""
+  ],
+  "uebung": [
+   "korrigiere!"
+  ]
+ },
+ "16-adverb-praep-konj.md": {
+  "check": [
+   "*venit*",
+   "„Der Lehrer ermahnt die Schüler, aber sie lernen.\""
+  ],
+  "uebung": [
+   "*quod, quoniam, cum*"
+  ]
+ },
+ "17-tempora1.md": {
+  "check": [
+   "*vēnit* (Perfekt) bzw. *vēnerat* (Plusquamperfekt) — nach Kontext.",
+   "„Die Feinde hatten die Stadt angezündet, die Bürger aber waren in Sicherheit.\""
+  ]
+ },
+ "18-tempora2.md": {
+  "check": [
+   "*venient*",
+   "„Die Römer teilten die Stadt in zwei Teile.\" (Präteritum = Perfekt)"
+  ],
+  "uebung": [
+   "Futur I der 4. Konjugation (mit *-ī-*? nein: *audiābō* wäre 2.; richtig: *audiam*, 4. Konjugation). Erklärung: In der 4. Konjugation lautet das Futur *audiam*, *audies*, *audiet*, *audiemus*, *audietis*, *audient*.",
+   "Futur I der 5. Konjugation."
+  ]
+ },
+ "19-modi1.md": {
+  "check": [
+   "*vēnerint* (Konjunktiv Perfekt) bzw. *vēnīrent* (Imperfekt)",
+   "„Ich sage, dass das Buch nützlich ist.\""
+  ]
+ },
+ "20-konjunktiv.md": {
+  "check": [
+   "*vēnit*",
+   "„Niemand ist so töricht, dass er das nicht sieht.\""
+  ]
+ },
+ "21-wortbildung.md": {
+  "check": [
+   "*vēnit*",
+   "„Die Feinde tragen die Stadt mit großen Feuern nieder\" (dēferō = niederreißen)."
+  ]
+ },
+ "22-satzglieder.md": {
+  "check": [
+   "*amat*",
+   "„Der Vater ist ein berühmter und gelehrter Mann.\" (*vir* ist das Prädikatsnomen.)",
+   "Weil unklar bleibt, ob *tablinum* Subjekt („das Arbeitszimmer ist im Atrium\") oder Adverbiale („im Arbeitszimmer ist …\") ist; erst der zweite Nominal-Akkusativ verrät es: *est in atriō tablinum …*"
+  ]
+ },
+ "23-genitiv.md": {
+  "check": [
+   "*patris*",
+   "„Nichts Neues unter der Sonne.\" (*sub + Abl.*, nicht Genitiv — *novī* ist Akkusativ Singular Neutrum: „nichts Neues\".)"
+  ],
+  "uebung": [
+   "korrigiere!",
+   "*memini + Akk. + Infinitiv*: „Ich erinnere mich, den Jungen im Garten gesehen zu haben.\""
+  ]
+ },
+ "24-akkusativ.md": {
+  "check": [
+   "*amat*",
+   "„Der Feldherr führte die Soldaten in die Schlachtordnung.\""
+  ],
+  "uebung": [
+   "mit Akkusativ und Dativ",
+   "mit Akkusativ als Subjekt"
+  ]
+ },
+ "25-dativ.md": {
+  "check": [
+   "*discipulōs* (Dativ Plural, bei *dīcere aliquem aliquid`) — Achtung: *dīcere* + Akk. + Akk.; *docēre aliquem aliquid* = Dativ + Akkusativ.",
+   "„Man muss nicht für sich, sondern für das Vaterland leben.\""
+  ]
+ },
+ "26-ablativ.md": {
+  "check": [
+   "*ā/ab Rōmānīs* → *ā Rōmānīs*",
+   "„Glücklicherweise helfen die Menschen oft vielen.\""
+  ],
+  "uebung": [
+   "korrigiere!",
+   "korrigiere!"
+  ]
+ },
+ "27-locativ.md": {
+  "check": [
+   "*hortō* (Ablativ, weil „wo?\")",
+   "„Er reiste von Rom ab und kehrte nach Rom zurück.\""
+  ],
+  "uebung": [
+   "*eō ibō*"
+  ]
+ },
+ "28-passiv.md": {
+  "check": [
+   "*monētur*",
+   "„Es wird gekämpft.\""
+  ]
+ },
+ "29-infinitivsystem.md": {
+  "check": [
+   "*facere*",
+   "„Ich sage, dass er in Gallien ist.\""
+  ]
+ },
+ "30-gerundium.md": {
+  "check": [
+   "*facienda*",
+   "„Die Bürger sagen, dass man Rom bewohnen muss.\" (Gerundivum + esse im AcI.)"
+  ]
+ },
+ "31-partizipien.md": {
+  "check": [
+   "*capta*",
+   "kein Partizip, aber: „Der Feldherr führte die tapferen Soldaten in die Schlachtordnung.\""
+  ]
+ },
+ "32-relativsaetze.md": {
+  "check": [
+   "*quam*",
+   "„Die Briefe, die mir geschrieben worden sind.\" (AcP)"
+  ],
+  "uebung": [
+   "*Der Lehrer ist gestorben.*"
+  ]
+ },
+ "33-konjunktionalsaetze.md": {
+  "check": [
+   "*vēnit* (Indikativ, wenn Tatsache) bzw. *vēnerit* (Konjunktiv, wenn offen)",
+   "„Ich wage nicht zu sagen, dass er kommt.\""
+  ]
+ },
+ "34-indirekte-rede.md": {
+  "check": [
+   "*venīre*",
+   "„Ich sagte, dass ich der Sieger sei.\" (*sē* ist der Akkusativ des Rückbezugs auf das Subjekt des Sprechers.)"
+  ],
+  "uebung": [
+   "*Dīxī crās ___ esse.*"
+  ]
+ },
+ "35-conditionalis.md": {
+  "check": [
+   "*venerit* (Konjunktiv Perfekt, erwartet) oder *vēniat* (Konjunktiv Präsens, offen)",
+   "„Wenn er nicht gekommen wäre, hätte ich ihn nicht ermahnt.\""
+  ]
+ },
+ "36-ellipsen.md": {
+  "check": [
+   "*est*",
+   "„Alle richten ihre Aufmerksamkeit auf dieselbe Sache.\""
+  ]
+ },
+ "37-uebersetzung.md": {
+  "check": [
+   "*dūxit*",
+   "„Die Jungen lesen Rosen im Garten.\" (Falls *legunt* = „lesen“ gemeint ist; im Garten Rosen lesen zu lassen ist ungewöhnlich — dann war *legunt* = „sammeln“ gemeint: „Die Jungen sammeln Rosen im Garten.\")"
+  ]
+ },
+ "38-fehler.md": {
+  "check": [
+   "*discipulōs*"
+  ],
+  "uebung": [
+   "„Die Schüler ermahnen den Lehrer.\"",
+   "„Der Feldherr wird die Stadt nehmen.\"",
+   "„Liebt die Rose.\"",
+   "„Er kam und sah.\"",
+   "„Die Jungen laufen laufend.\""
+  ]
+ },
+ "39-tempusprofil.md": {
+  "check": [
+   "*redierunt* (Hauptlinie, Perfekt)",
+   "„Der Winter beginnt.\""
+  ]
+ },
+ "40-lektuereroman-alltag.md": {
+  "check": [
+   "*discipulō* (Dativ)",
+   "„Der Diener ruft ihn an.\""
+  ]
+ },
+ "41-lektuereroman-fabel.md": {
+  "check": [
+   "*venerant* (Perfekt)",
+   "„Das Lamm antwortete: ‚Freilich, ich war noch nicht geboren.‘\""
+  ]
+ },
+ "42-lektuereroman-cicero.md": {
+  "check": [
+   "(Antwort: *UTRQUE*)",
+   "„Also ist niemand nicht elend. Ganz gewiss niemand.\""
+  ]
+ },
+ "43-lektuereroman-seneca.md": {
+  "check": [
+   "*tempus*",
+   "„Ich kann nicht sagen, dass ich nichts verliere, aber was ich verliere, warum und wie ich es sage, das gebe ich an.\""
+  ]
+ },
+ "44-lektuereroman-caesar.md": {
+  "check": [
+   "*divisa* (Partizip Perfekt Passiv)",
+   "„Einer ihrer Teile beginnt am Fluss Rhône.\""
+  ]
+ },
+ "45-lektuereroman-livius.md": {
+  "check": [
+   "*esse*",
+   "„Nachdem er gehört hatte, dass es Trojaner seien …\""
+  ]
+ },
+ "46-lektuereroman-ovid.md": {
+  "check": [
+   "*sata est*",
+   "„Sondern sie waren ohne Beschützer in Sicherheit.\""
+  ]
+ },
+ "47-lektuereroman-vergil.md": {
+  "check": [
+   "*canō*",
+   "„und die Götter nach Latium einbrachte, von woher das lateinische Geschlecht stammt.\""
+  ]
+ },
+ "48-lektuereroman-vulgata.md": {
+  "check": [
+   "*regit*",
+   "„Du hast vor meinen Augen einen Tisch bereitet gegen die, die mich quälen.\""
+  ]
+ },
+ "49-lektuereroman-bruecke.md": {
+  "check": [
+   "*insula*",
+   "„Diesen Fehler hat nicht die Natur, sondern die Erziehung beseitigt.\""
+  ]
+ }
+}
