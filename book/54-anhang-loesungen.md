@@ -22,7 +22,7 @@ Nach diesem Anhang kannst du:
 
 ## So arbeitest du mit diesem Anhang
 
-Dieser Anhang enthält **alle** Lösungen des Buches: zu jedem Übungsblock, zu jedem Wiederholungsfach, zu jedem Prüfungscheck und zu jeder Mikroübung — dazu den vollständigen Lösungsband zur Gesamtprüfung aus Kapitel 53.
+Dieser Anhang enthält **alle** Lösungen des Buches: zu jedem Übungsblock, zu jedem Wiederholungsfach, zu jedem Prüfungscheck und zu jeder Mikroübung — dazu den vollständigen Lösungsband zur Gesamtprüfung aus Kapitel 53 (43 Aufgaben, 100 Punkte).
 
 ```
   1. Aufgabe bearbeiten  — ohne zu blättern
@@ -2051,7 +2051,7 @@ quī ──────────── Hauptsatz-Subjekt
 
 ## 53 — Anhang IV — Gesamtprüfung
 
-### Lösungen zur Gesamtprüfung (Teil A–E)
+### Lösungen zur Gesamtprüfung (Teil A–D)
 
 :::loesung Gesamtprüfung Teil A (Kapitel 53)
 
