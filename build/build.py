@@ -64,7 +64,7 @@ def load_chapters() -> list[dict]:
         with open(path, encoding="utf-8") as fh:
             raw = fh.read()
         fm, body = read_frontmatter(raw)
-        blocks = md.parse(body)
+        blocks = md.parse(expand_placeholders(body))
         title = fm.get("title") or fn[:-3]
         chapters.append({
             "file": fn,
@@ -76,6 +76,44 @@ def load_chapters() -> list[dict]:
             "hidden": fm.get("hidden", "") == "yes",
         })
     return chapters
+
+
+def expand_placeholders(body: str) -> str:
+    """Ersetzt {{glossar}} und {{vokabeln:A}} durch automatisch erzeugte Tabellen."""
+    def glossary(m):
+        return glossary_table()
+
+    def vocab(m):
+        return vocab_table(m.group(1).upper())
+
+    body = re.sub(r"\{\{glossar\}\}", glossary, body)
+    body = re.sub(r"\{\{vokabeln:([A-E])\}\}", vocab, body)
+    return body
+
+
+def glossary_table() -> str:
+    path = os.path.join(GLOSSAR, "begriffe.csv")
+    if not os.path.exists(path):
+        return "*(Glossar-Tabelle noch nicht vorhanden.)*"
+    with open(path, encoding="utf-8") as fh:
+        rows = list(csv.DictReader(fh))
+    out = ["| Begriff | Herkunft | Bedeutung |", "|---|---|---|"]
+    for r in sorted(rows, key=lambda x: x["begriff"].lower()):
+        out.append(f"| **{r['begriff']}** | {r.get('herkunft', '')} | {r['bedeutung']} |")
+    return "\n".join(out)
+
+
+def vocab_table(stufe: str) -> str:
+    path = os.path.join(GLOSSAR, "vokabeln.csv")
+    if not os.path.exists(path):
+        return "*(Vokabeltabelle noch nicht vorhanden.)*"
+    with open(path, encoding="utf-8") as fh:
+        rows = list(csv.DictReader(fh))
+    sel = [r for r in rows if r.get("stufe", "").upper() == stufe]
+    out = ["| Latein | Deutsch | Stamm | Wortfamilie |", "|---|---|---|---|"]
+    for r in sel:
+        out.append(f"| {r['latein']} | {r['deutsch']} | {r.get('stamm', '')} | {r.get('familie', '')} |")
+    return "\n".join(out)
 
 
 def build_all(what: list[str]) -> None:
@@ -173,16 +211,30 @@ def check(chapters: list[dict]) -> None:
     for ch in chapters:
         walk(ch["blocks"])
 
-    # 4. Nicht aufgelöste Verweise auf Kapitel (## Kapitel N)
-    alltext = "\n".join(md.plain(h) for ch in chapters for h in md.headings(ch["blocks"]))
-
-    # 5. Makronen ohne Kennzeichnung in lateinischen Wörtern (Stichprobe)
+    # 4. Pflicht-Bausteine je Kapitel (Vorwort und Einleitungskapitel ausgenommen)
+    REQUIRED = {"ziel", "wortschatz", "uebung", "wiederholung", "check"}
     for ch in chapters:
-        for m in re.finditer(r"\b([A-Za-zāēīōūĀĒĪŌŪ]{4,})\b", "\n".join(
-                md.plain(b.get("inlines", [])) if "inlines" in b else "" for b in ch["blocks"])):
-            w = m.group(1)
-            if re.search(r"[aeiouAEIOU]", w) and not re.search(r"[āēīōūĀĒĪŌŪ]", w):
-                continue  # viele deutsche Wörter in lateinischer Schrift
+        if ch.get("part", "").startswith("Vorwort"):
+            continue
+        kinds = set()
+        def collect(blocks):
+            for b in blocks:
+                if b["type"] == "box":
+                    kinds.add(b["kind"])
+                if b["type"] in ("box", "quote"):
+                    collect(b["blocks"])
+        collect(ch["blocks"])
+        missing = REQUIRED - kinds
+        if missing:
+            problems.append(
+                f"{ch['file']}: fehlende Bausteine: {', '.join(sorted(missing))}")
+
+    # 5. Leere Kapitel / fehlende Überschrift
+    for ch in chapters:
+        if not ch["blocks"]:
+            problems.append(f"{ch['file']}: Kapitel ist leer")
+        if not any(b["type"] == "heading" for b in ch["blocks"]):
+            problems.append(f"{ch['file']}: keine Überschrift im Kapitel")
 
     print(f"CHECK -> {len(problems)} Problem(e)")
     for p in problems[:50]:
