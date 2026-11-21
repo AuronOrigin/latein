@@ -10,6 +10,15 @@ Nach diesem Kapitel kannst du:
 - eine realistische Erwartung an dein eigenes Lernen entwickeln.
 :::
 
+:::wortschatz
+**Endung** — der grammatische Teil am Wortende; sie zeigt die Funktion im Satz ·
+**Kasus / Fall** — die grammatische „Rolle" eines Wortes (Nominativ, Akkusativ, Dativ …) ·
+**Pragmatik** — die Lehre vom Gebrauch einer Sprache, also vom Handeln mit Wörtern ·
+**adaptierter Text** — ein Originaltext, der für Lernende sprachlich vereinfacht wurde ·
+**Vokabular** — die Gesamtheit der Wörter, die man kennen muss, um Texte zu lesen ·
+**Lernprozess** — das Lernen als über Jahre laufender Vorgang, nicht als Eintrittsprüfung
+:::
+
 ## Der Nutzen: vier ehrliche Gründe
 
 ### 1. Latein ist eine Denkmaschine
@@ -19,7 +28,7 @@ Latein hat eine Besonderheit, die keine moderne europäische Sprache hat: **Es e
 :::begriff Genauigkeit durch Form
 **Begriff:** Ein Grundprinzip der lateinischen Sprache — die **Endung** zeigt die **Funktion** im Satz an.
 **Herkunft:** *finis* (Grenze, Ende) → „die Bestimmung, die etwas abschließt".
-**Beispiel:** *in urbe* (in der Stadt) → *in urbem* (in die Stadt) → *in urba* (mit der Stadt).
+**Beispiel:** *in urbe* (in der Stadt) → *in urbem* (in die Stadt) → *cum urbe* (mit der Stadt).
 **Wozu?** Weil eine Endung mehr Information trägt als ein Nebensatz. *in urbem* heißt ohne jede Übersetzung: „bewegt sich hinein".
 **Verwandte Begriffe:** *Kasus*, *Nominativ*, *Akkusativ*, *Dativ*, *Genitiv*, *Ablativ*.
 :::
@@ -68,6 +77,47 @@ Drei Zusagen:
 
 :::merksatz Das Grundgesetz des Lateinlernens
 **Form → Funktion → Bedeutung.** Erst die Form (Endung, Stamm), dann die Funktion im Satz (wer tut wem was?), dann die Bedeutung im Deutschen. Wer mit der Form beginnt und bei der Form stehen bleibt, lernt Deklination. Wer bei der Funktion anlangt, lernt Sprache.
+:::
+
+:::uebung
+**A. Verstehen.**
+1. Welche vier Gründe nennt das Kapitel für den Nutzen des Lateinischen? 2. Was ist der Unterschied zwischen „eingefroren" und „tot"? 3. Welche drei Mythen werden widerlegt? 4. Was verspricht das Buch seinen Lesern?
+
+**B. Übersetzen.**
+5. *in urbe* / *in urbem* / *cum urbe* — was bedeutet der Wechsel, und welche Endung trägt welche Bedeutung? 6. Übersetze: *formae ad res aptae sunt.* — „Die Formen passen sich den Dingen an."
+
+**C. Rechnen.**
+7. Wie viele Wochen brauchst du nach dieser Rechnung für solides Lese-Latein bei 4 Stunden pro Woche? ______
+:::
+
+:::loesung
+**A.**
+1. Latein als **Denkmaschine** (es erzwingt Genauigkeit), als **gemeinsame Sprache Europas** (800–1500 n. Chr.), als **Zugang zu den Originalquellen**, als **Training der Denkstrukturen**. 2. „Tot" heißt: niemand spricht es mehr. „Eingefroren" heißt: es wird noch gesprochen, nur bewegt es sich nicht mehr mit der Welt weiter — von der OECD, vom Vatikan, von Juristen, von Historikern. 3. „Latein ist eine tote Sprache", „Latein ist unregelmäßig und voller Ausnahmen", „Nach einem Jahr Latein kann ich Cäsar lesen". 4. **Regeln statt Tabellen**, die **wichtigen Dinge zuerst**, und **Übersetzen statt nur Erkennen**.
+
+**B.**
+5. *in urbe* = „in der Stadt" (Ablativ des Ortes), *in urbem* = „in die Stadt" hinein (Akkusativ), *cum urbe* = „mit der Stadt" (Ablativ der Begleitung). Beim Ablativ bleibt die Endung -e gleich; der Unterschied steckt im Nomen: *urb-* / *urbem* / *urbe* — -em bedeutet „hinein", -e kann Begleitung bedeuten. 6. „Die Formen passen sich den Dingen an."
+
+**C.**
+7. 500–600 Stunden ÷ 4 Stunden pro Woche = **125–150 Wochen**, also rund zweieinhalb bis drei Jahre. Genau die Einschätzung, die das Kapitel nennt.
+:::
+
+:::wiederholung Wiederholungsfach
+**Aus dem Gedächtnis:**
+1. Welches Grundgesetz des Lateinlernens nennt das Kapitel? ______
+2. Wie viele Stunden braucht solides Lese-Latein? ______
+3. Welche drei Mythen widerlegt das Kapitel? ______
+4. Wie viele Vokabeln braucht man für unadaptierte Originaltexte? ______
+:::
+
+:::loesung
+1. **Form → Funktion → Bedeutung.** 2. 500–600 Stunden. 3. „Latein ist tot", „Latein ist unregelmäßig", „Nach einem Jahr kann ich Cäsar lesen". 4. 1.500–2.000.
+:::
+
+:::check Prüfungscheck
+1. Kannst du in **einem** Satz sagen, wofür Latein wirklich gut ist — und wofür nicht?
+2. Kannst du die **drei Mythen** in eigenen Worten widerlegen?
+3. Hast du einen **realistischen Zeitplan** — und weißt du, wie viele Stunden das sind?
+4. Sind **Formenspiegel** (Anhang III) und **Vokabelverzeichnis** (Anhang I) griffbereit?
 :::
 
 :::vertiefung Mehr zum Thema
