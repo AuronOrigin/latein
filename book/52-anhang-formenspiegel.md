@@ -7,7 +7,7 @@ subtitle: Deklination, Steigerung, Pronomina, Konjugation, Tempus und Modus auf 
 :::ziel Lernziele
 Nach diesem Anhang kannst du:
 - jede Form **ohne Nachschlagen im Text** bilden,
-- die **Endungen** der fünf Deklinationen und vier Konjugationen sicher anwenden,
+- die **Endungen** der fünf Deklinationen und fünf Konjugationen sicher anwenden,
 - den **Konjunktiv** aller Zeiten bilden,
 - Perfekt und Perfekt Passiv aus den Hilfsverben **zusammensetzen**.
 :::
@@ -102,47 +102,71 @@ Nach diesem Anhang kannst du:
 | **Indefinitum** | aliquis, aliqua, aliquod | alicuius | alicui | aliquem, aliquam, aliquod | aliquō, aliquā, aliquō |
 | **Negation** | nēmō, nūlla, nūllum | nullīus | nullī | nēminem, nūllam, nūllum | nēmine, nūllā, nūllō |
 
-## 4. Die vier Konjugationen (Indikativ)
+## 4. Die fünf Konjugationen (Indikativ)
+
+Die 3. Konjugation gliedert sich in zwei Gruppen: die **Mischkonjugation** auf -iō
+(*capiō, capere*) und die **Konsonantenstammkonjugation** (*regō, regere*).
+Beide teilen dieselben Endungen; nur der Stammvokal unterscheidet sich.
 
 ### Präsens aktiv
 
-| | 1. Konjugation | 2. Konjugation | 3. Konjugation | 4. Konjugation |
-|---|---|---|---|---|
-| 1. Sg. | amō | mōnēō | regō | audiō |
-| 2. Sg. | amās | mōnēs | regis | audīs |
-| 3. Sg. | amat | mōnet | regit | audit |
-| 1. Pl. | amāmus | mōnēmus | regimus | audīmus |
-| 2. Pl. | amātis | mōnētis | regitis | audītis |
-| 3. Pl. | amant | mōnent | regunt | audiunt |
+| | 1. Konjugation | 2. Konjugation | 3. Konjugation | 3. Konj. (-iō) | 4. Konjugation |
+|---|---|---|---|---|---|
+| Infinitiv | amāre | monēre | regere | capere | audīre |
+| Stamm | amā- | monē- | reg- | cap- | audī- |
+| 1. Sg. | amō | moneō | regō | capiō | audiō |
+| 2. Sg. | amās | monēs | regis | capis | audīs |
+| 3. Sg. | amat | monet | regit | capit | audit |
+| 1. Pl. | amāmus | monēmus | regimus | capimus | audīmus |
+| 2. Pl. | amātis | monētis | regitis | capitis | audītis |
+| 3. Pl. | amant | monent | regunt | capiunt | audiunt |
+| Imperativ | amā! | monē! | rege! | cape! | audī! |
+| Part. Präs. | amāns | monēns | regēns | capiēns | audiēns |
 
 ### Präsens passiv
 
-| | 1. Konjugation | 2. Konjugation | 3. Konjugation | 4. Konjugation |
-|---|---|---|---|---|
-| 1. Sg. | amor | mōneor | regor | audiōr |
-| 2. Sg. | amāris | mōnēris | regeris | audīris |
-| 3. Sg. | amātur | mōnetur | regitur | auditur |
-| 1. Pl. | amāmur | mōnēmur | regimur | audīmur |
-| 2. Pl. | amāminī | mōnēminī | regimī | audīminī |
-| 3. Pl. | amantur | mōnentur | reguntur | audiuntur |
+| | 1. Konjugation | 2. Konjugation | 3. Konjugation | 3. Konj. (-iō) | 4. Konjugation |
+|---|---|---|---|---|---|
+| 1. Sg. | amor | moneor | regor | capior | audiōr |
+| 2. Sg. | amāris | monēris | regeris | caperis | audīris |
+| 3. Sg. | amātur | monetur | regitur | capitur | auditur |
+| 1. Pl. | amāmur | monēmur | regimur | capimur | audīmur |
+| 2. Pl. | amāminī | monēminī | regimī | capimī | audīminī |
+| 3. Pl. | amantur | monentur | reguntur | capiuntur | audiuntur |
 
 ### Konjunktiv Präsens
 
-| | 1. Konjugation | 2. Konjugation | 3. Konjugation | 4. Konjugation |
-|---|---|---|---|---|
-| 1. Sg. | amēm | mōneam | regam | audiāam |
-| 2. Sg. | amēs | mōneās | regās | audiāās |
-| 3. Sg. | amet | mōneat | regat | audiāat |
-| 1. Pl. | amēmus | mōneāmus | regāmus | audiāāmus |
-| 2. Pl. | amētis | mōneātis | regātis | audiāātis |
-| 3. Pl. | ament | mōneant | regant | audiāant |
+| | 1. Konjugation | 2. Konjugation | 3. Konjugation | 3. Konj. (-iō) | 4. Konjugation |
+|---|---|---|---|---|---|
+| 1. Sg. | amēm | moneam | regam | capiam | audiam |
+| 2. Sg. | amēs | moneās | regās | capiās | audiās |
+| 3. Sg. | amet | moneat | regat | capiat | audiat |
+| 1. Pl. | amēmus | moneāmus | regāmus | capiāmus | audiāmus |
+| 2. Pl. | amētis | moneātis | regātis | capiātis | audiātis |
+| 3. Pl. | ament | moneant | regant | capiant | audiant |
+
+### Imperfekt aktiv (Konjunktiv)
+
+| | 1. Konjugation | 2. Konjugation | 3. Konjugation | 3. Konj. (-iō) | 4. Konjugation |
+|---|---|---|---|---|---|
+| 1. Sg. | amārem | monērem | regerem | caperem | audīrem |
+| 2. Sg. | amārēs | monērēs | regerēs | caperēs | audīrēs |
+| 3. Sg. | amāret | monēret | regeret | caperet | audīret |
+| 1. Pl. | amāremus | monērēmus | regerēmus | caperēmus | audīrēmus |
+| 2. Pl. | amārētis | monērētis | regerētis | caperētis | audīrētis |
+| 3. Pl. | amārent | monērent | regerent | caperent | audīrent |
 
 :::merksatz Die fünf Konjunktivfamilien
-- **Präsens** (amēm): Endung **ē-** (1. Konj.), **eā-** (2. Konj.), **ā-** (3. Konj.), **iā-** (4. Konj.).
+- **Präsens** (amēm): Endung **ē-** (1. Konj.), **eā-** (2. Konj.), **ā-** (3. Konj. und 3. Konj. -iō), **iā-** (4. Konj.).
 - **Imperfekt** (amārem): Endung **-rem, -rēs, -ret, -rēmus, -rētis, -rent** — überall gleich.
 - **Perfekt** (amāverim): **-erim, -eris, -erit, -erimus, -eritis, -erint** — überall gleich.
 - **Plusquamperfekt** (amāvissem): **-issem, -issēs, -isset, -issēmus, -issētis, -issent**.
 - **Futur** (amātūrus sim): **Umschreibung** mit dem Partizip Futur und *sim*.
+
+**Zur 3. Konjugation -iō:** Der Stamm *cap-* verliert vor **iō, is, it** sein *i* nicht:
+*capiō, capis, capit*. Im Konjunktiv *capiam* tritt das i in die Endung. Die
+Mischkonjugation folgt also im Präsens **dem 4. Paradigma** (*audiō, audīs,
+audit*), im Konjunktiv aber der **3. Konjugation** (*regam, regās, regat*).
 :::
 
 ## 5. Tempus- und Modustabelle (1. Konjugation, aktiv)
@@ -262,7 +286,7 @@ Nach diesem Anhang kannst du:
 
 :::check Prüfungscheck
 1. Decke die rechte Spalte in Abschnitt 1 ab und bilde alle Formen der 3. Deklination aus dem Gedächtnis. Dann decke die linke Spalte ab und bestimme die Deklination.
-2. Decke Abschnitt 4 ab und bilde den Konjunktiv Präsens aller vier Konjugationen. Vergleiche die vier Endungsfamilien — sie sind verschieden, die **Tempus** sind es nicht.
+2. Decke Abschnitt 4 ab und bilde den Konjunktiv Präsens aller fünf Konjugationen. Vergleiche die vier Endungsfamilien — sie sind verschieden, die **Tempus** sind es nicht.
 3. Schreibe einen Satz mit *acerbus, acerba, acerbum* und prüfe, ob du die 3. Deklination sicher beherrschst.
 :::
 
@@ -272,6 +296,6 @@ Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** 
 
 :::vertiefung
 - **Zum Vertiefen:** Die Formenspiegel-Tabellen sind aus dem Buch in die Anlage zurückgespiegelt — du kannst sie als **Lernkarten** drucken (Seite für Seite zuschneiden).
-- **Systematik:** Der Aufbau des Formensystems folgt *Capita de grammatica* — dieselbe Ordnung, die in Kapitel 06 bis 20 entsteht.
+- **Systematik:** Der Aufbau des Formensystems folgt *Capita de grammatica* — dieselbe Ordnung, die in Kapitel 6 bis 20 entsteht.
 - **Weiterführend:** Mit diesem Spiegel und dem Vokabelanhang lässt sich das gesamte Buch ohne Lexikon bearbeiten.
 :::

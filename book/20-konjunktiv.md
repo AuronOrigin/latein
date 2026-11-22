@@ -56,7 +56,7 @@ Der Konjunktiv sagt: *Er möge lieben.* (Wunsch) — *Er mag lieben.* (Möglichk
 
 **Passiv (Perfekt und Plusquamperfekt):** **Partizip Perfekt Passiv + sim/sīs/sit/sīmus/sītis/sint** bzw. **+ essem/essēs/esset…**
 
-:::warn Die vier Konjugationen des Konjunktivs auf einen Blick
+:::warn Die fünf Konjugationen des Konjunktivs auf einen Blick
 | | 1. Konj. | 2. Konj. | 3./4./5. Konj. |
 |---|---|---|---|
 | 1. Sg. | am**ēm** | mone**am** | capi**am** |

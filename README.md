@@ -3,7 +3,7 @@
 Ein modernes Lehrbuch zum Lesen, Übersetzen und Genießen der lateinischen Sprache —
 auf Deutsch, schulneutral, als Arbeitsheft **und** Lösungsbuch in einem.
 
-**55 Kapitel** von der Aussprache über Formenlehre, Syntax und Übersetzungskunst
+**56 Kapitel** von der Aussprache über Formenlehre, Syntax und Übersetzungskunst
 bis zu zehn Lektüretexten mit Wort-für-Wort-Übersetzung. Kapitel 01–53 enthalten
 Aufgaben **ohne** Lösungen; Anhang V (Kapitel 54) enthält die Lösung zu jeder
 Bausteinaufgabe.
@@ -123,7 +123,7 @@ python3 build/make_fonts.py /pfad/zu/dejavu
 
 ```
 latein/
-├── book/                    55 Kapitel als Markdown (die Quelle des Buchs)
+├── book/                    56 Kapitel als Markdown (die Quelle des Buchs)
 │   ├── 00-vorwort.md … 53-gesamtpruefung.md
 │   └── 54-anhang-loesungen.md   generierter Lösungsband
 ├── build/
@@ -136,7 +136,7 @@ latein/
 │   ├── style.css            Druckstil
 │   ├── loesungen/           Werkzeuge der Lösungsmigration (siehe unten)
 │   └── anki/                erzeugte Anki-CSV-Dateien
-├── glossar/                 vokabeln.tsv/csv (893 Wörter), begriffe.tsv/csv (182 Begriffe)
+├── glossar/                 vokabeln.tsv/csv (1057 Wörter), begriffe.tsv/csv (194 Begriffe)
 ├── tools/gen_glossar.py     erzeugt die CSV-Dateien aus den TSV-Quellen
 ├── dist/                    Build-Artefakte (nicht eingecheckt)
 ├── Makefile
@@ -167,8 +167,8 @@ Vier Stapel in `build/anki/`, je Stapel eine Richtung:
 
 | Datei | Einträge | Richtung |
 |---|---|---|
-| `latein_de_lat.csv` / `latein_lat_de.csv` | 893 | Deutsch → Latein / Latein → Deutsch, alle Stufen A–E |
-| `latein_kern_de_lat.csv` / `latein_kern_lat_de.csv` | 602 | nur der Kern A–C |
+| `latein_de_lat.csv` / `latein_lat_de.csv` | 1057 | Deutsch → Latein / Latein → Deutsch, alle Stufen A–E |
+| `latein_kern_de_lat.csv` / `latein_kern_lat_de.csv` | 694 | nur der Kern A–C |
 
 CSV mit Kopfzeile `Front,Back,Tags,Hinweis` — direkt importierbar.
 
@@ -184,11 +184,39 @@ CSV mit Kopfzeile `Front,Back,Tags,Hinweis` — direkt importierbar.
 | Teil III — Syntax | 21–36 | Wortbildung, Satzglieder, Kasus, Passiv, Infinitiv, Partizip, Konjunktiv, indirekte Rede |
 | Teil IV — Die Kunst der Übersetzung | 37–39 | Übersetzungstechnik, Fehlerquellen, Tempusprofil |
 | Teil V — Lektüre | 40–49 | zehn Originaltexte mit Wort-für-Wort-Übersetzung |
-| Teil VI — Anhänge | 50–54 | Vokabelverzeichnis, Glossar, Formenspiegel, Gesamtprüfung, **Lösungen** |
+| Teil VI — Anhänge | 50–55 | Vokabelverzeichnis, Glossar, Formenspiegel, Gesamtprüfung, **Lösungen**, Literatur |
 
 Jedes Kapitel trägt dieselben Bausteine: *Ziel*, *Wortschatz*, *Übung*,
 *Wiederholungsfach* und *Prüfungscheck*. Die Gesamtprüfung in Kapitel 53
 umfasst 43 Aufgaben in den Teilen A–D (100 Punkte).
+
+---
+
+## Veröffentlichung
+
+Jedes Release dieses Repositories enthält alle Ausgabeformate als
+downloadbare Dateien:
+
+| Datei | Inhalt |
+|---|---|
+| `latein.pdf` | das vollständige Buch mit Lesezeichen |
+| `latein.epub` | EPUB 3 für E-Reader und Tablets |
+| `latein.html` | eine einzelne, in sich geschlossene HTML-Datei |
+| `latein_de_lat.csv`, `latein_lat_de.csv` | Anki-Stapel, alle Stufen A–E |
+| `latein_kern_de_lat.csv`, `latein_kern_lat_de.csv` | Anki-Stapel, Kern A–C |
+
+Die Artefakte werden bei jedem Tag-Push von GitHub Actions neu gebaut und
+automatisch an das Release gehängt. Binärdateien liegen deshalb **nicht** im
+Repository — `dist/` und `build/anki/*.csv` sind in `.gitignore` ausgenommen.
+
+Eigenes Release bauen:
+
+```bash
+git tag v1.0.1 && git push origin v1.0.1
+```
+
+Der Workflow baut PDF, EPUB, HTML und die vier Anki-CSVs und hängt sie an das
+Release; der Build bricht ab, wenn die Konsistenzprüfung einen Fehler meldet.
 
 ---
 

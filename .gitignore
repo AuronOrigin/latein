@@ -2,3 +2,4 @@ dist/
 build/anki/*.csv
 __pycache__/
 *.pyc
+glossar/*.bak

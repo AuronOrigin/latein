@@ -43,4 +43,6 @@ jobs:
         run: |
           gh release upload "${GITHUB_REF_NAME}" \
             dist/latein.pdf dist/latein.epub dist/latein.html \
+            build/anki/latein_de_lat.csv build/anki/latein_lat_de.csv \
+            build/anki/latein_kern_de_lat.csv build/anki/latein_kern_lat_de.csv \
             --clobber

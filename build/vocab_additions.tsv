@@ -1,0 +1,184 @@
+# Kuratierte Ergaenzung des Vokabelverzeichnisses.
+#
+# Spalten: latein <TAB> deutsch <TAB> stufe <TAB> stamm <TAB> familie
+#
+# Die Spalte "familie" ist ein Schluessel ohne Makronen (wie in
+# glossar/vokabeln.tsv).  Die Spalte "stamm" ist der in
+# book/50-anhang-vokabeln.md dokumentierte Wortstamm.
+#
+# Grundlage: build/classify_gaps.py -> Gruppe "vokabeln" (158 Vorschlaege),
+# von Hand geprueft und ergaenzt.
+#
+annus, annī	Jahr	A	ann-	annus
+decem	zehn	A	decem-	decem
+puella, puellae	Mädchen	A	puell-	puella
+rosa, rosae	Rose	A	ros-	rosa
+eī, eōrum, eōs	sie (Pl.)	A	e-	eius
+is, ea, id	er/sie/es	A	is-	is
+nōs, nostrum	wir	A	nos-	nos
+tū, tui	du	A	tu-	tu
+fābula, fābulae	Fabel, Erzählung	A	fābul-	fabula
+lūna, lūnae	Mond	A	lūn-	luna
+equus, equī	Pferd	A	equ-	equus
+pulcher, pulchra, pulchrum	schön	A	pulch-	pulcher
+teneō, tenēre, tenuī, tentum	halten	A	ten-	tenere
+eō, īre, iī (īvī), itum	gehen	A	e-	eo
+oportet	es ist nötig	A	oportet-	oporto
+alius, alia, aliud	ein anderer	A	ali-	alius
+aliquī, aliqua, aliquid	irgendein, ein gewisser	E	aliqu-	alius
+hic, haec, hoc	dieser (hier)	A	hic-	hic
+ille, illa, illud	jener (dort)	A	ill-	ille
+iste, ista, istud	dieser (von der Person)	A	ist-	iste
+meus, mea, meum	mein	A	me-	meus
+noster, nostra, nostrum	unser	A	nost-	noster
+quis, quid	wer? was?	A	quid-	quis
+quī, quae, quod	welcher/welche/welches	A	qu-	qui
+suus, sua, suum	sein, ihr	A	su-	suus
+tuus, tua, tuum	dein	A	tu-	tuus
+cōnsul, cōnsulis	Konsul	B	cōnsul-	consul
+sānitas, sānitātis	Gesundheit	B	sānit-	sanitas
+difficilis, difficile	schwierig	B	difficil-	difficilis
+similis, simile	ähnlich	B	simil-	similis
+conflictus, conflictūs	Zusammenstoß, Krieg	B	conflict-	conflictus
+cornū, cornūs	Horn	B	corn-	cornu
+gradus, gradūs	Schritt, Stand	B	grad-	gradus
+manus, manūs	Hand	B	man-	manus
+usus, usūs	Gebrauch	B	us-	usus
+ad	zu, nach	B	ad-	ad
+bene	gut	B	bene-	bene
+nam	nämlich	B	nam-	nam
+quod	weil	B	quod-	quod
+nox, noctis	Nacht	B	noct-	nox
+futūrus, futūra, futūrum	künftig, werdend	B	futūr-	futurus
+nōn	nicht (beim Indikativ)	B	non-	non
+dum	solange	B	dum-	dum
+quamquam	obwohl	B	quamquam-	quamquam
+prīnceps, prīcipis	Fürst, Chef	B	prīncip-	princeps
+prīncipium, prīncipiī	Anfang, Grundlage	B	prīncipi-	principium
+tablinum, tablinī	Arbeitszimmer	B	tablin-	tablinum
+libellus, libellī	Büchlein	B	libell-	libellus
+memoria, memoriae	Erinnerung	B	memori-	memoria
+pars, partis	Teil	B	part-	pars
+irascī	zürnen	C	irasc-	irascor
+parcere	verschonen	C	parc-	parco
+admonēre	ermahnen	C	admon-	admonere
+coepisse	begonnen haben	C	coep-	coepi
+rogāre	bitten	C	rog-	rogare
+vetāre	verbieten	C	vet-	vetare
+gerundīvum, gerundīvī	die zu-tuende Sache	C	gerundīv-	gerundium
+postquam	nachdem	C	postquam-	postquam
+quoniam	weil	C	quoniam-	quoniam
+narrō	erzählen	C	narr-	narro
+probābō	ich prüfe, ich erprobe	C	prob-	probo
+at	aber doch	C	at-	at
+et	und	C	et-	et
+igitur	also	C	igitur-	igitur
+quisquam	irgendjemand	C	quisquam-	quisquam
+quīdam	ein gewisser	C	quidam-	quidam
+gradātim	Schritt für Schritt	C	gradāt-	gradatim
+cōnsuetūdō, cōnsuetūdinis	Gewohnheit	C	cōnsuetūd-	consuetudo
+falla	Betrug, Täuschung	C	fall-	fallax
+mendācium, mendāciī	Lüge	C	mendāci-	mendacium
+mōs, mōris	Sitte, Art	C	mōr-	mos
+mēmorāre	sich erinnern	C	mēmor-	memoro
+narrare	erzählen	C	narr-	narro
+narrātō, narrātiōnis	Erzählung, Bericht	C	narrāti-	narratio
+prōlogus, prōlogī	Vorrede	C	prōlog-	prologus
+tempora, tempus	Zeiten	C	tempor-	tempus
+herī	gestern	C	herī-	heri
+hodiē	heute	C	hodiē-	hodie
+taberna, tabernae	Laden, Weinbar	C	tabern-	taberna
+agnus, agnī	Lamm	C	agn-	agnus
+bibō, bibere	ich trinke	C	bib-	bibo
+compellō, compellere	ich zwinge, treibe	C	compell-	compello
+decurrō, decurrere	ich hinunterfließe	C	decurr-	decurbo
+fauces, faucium	Rachen, Schlund	C	fauc-	fauces
+haustus, haustūs	Schluck, Zug	C	haust-	haustus
+innocēns, innocentis	unschuldig	C	innocent-	innocens
+lupus, lupī	Wolf	C	lup-	lupus
+nex, necis	Tod, Gewalt	C	nec-	nex
+opprimō, opprimere	ich unterdrücke	C	opprim-	opprimo
+metus, metūs	Furcht	D	met-	metus
+miser, misera, miserum	elend	D	miser-	miser
+nātus, nāti	Geburt, Geborener	D	nāt-	natus
+somnus, somnī	Schlaf	D	somn-	somnus
+auferō, auferre	ich raube weg	D	aufer-	aufero
+conplector, complectī	ich umfasse, nutze	D	conplect-	complector
+effluō, effluere	ich verrinne, verfließe	D	efflu-	effluo
+excīdō, excidere	ich entgleite, gehe verloren	D	excīd-	excido
+iniciō, inicere	ich werfe hinein, beginne	D	inici-	inicio
+praetereō, praeterire	ich gehe vorbei	D	praetere-	praetereo
+salvē	sei gegrüßt	D	salv-	salve
+subripiō, subripere	ich stehle, entziehe (jemandem)	D	subripi-	subripio
+īnsum, īnsse	ich bin dabei, fröhne mich	D	īns-	insum
+contineō, continēre	ich umfasse, grenze ab	D	contin-	contineo
+cōnspicō, cōnspicere	ich erblicke	D	cōnspic-	conspico
+cōnīficiō, cōnīficere	ich rüste	D	cōnīfic-	conificio
+dīvidō, dīvidere	ich trenne	D	dīvid-	divido
+effēminō, effēmināre	ich verweichlichen	D	effēmin-	effemino
+auctor, auctōris	Anstifter, Urheber	D	auct-	auctor
+coniūnctio, coniūnctiōnis	Verbindung, Verwandtschaft	D	coniūnct-	coniunctio
+dēnuntiō, dēnuntiāre	ich verkünde	D	dēnunti-	denuntio
+nōbilitās, nōbilitātis	Adel, Berühmtheit	D	nōbilit-	nobilitas
+profugus, profuga, profugum	vertrieben, flüchtig	D	profug-	profugus
+pulsus, pulsa, pulsum	vertrieben	D	puls-	pello
+aether, aetheris	obere Luft, Himmel(sraum)	D	aether-	aether
+caelum, caelī	Himmel	D	cael-	caelum
+chaos, chaōs	Urbrei	D	cha-	chaos
+gelidus, gelida, gelidum	kalt	D	gelid-	gelidus
+igneus, ignea, igneum	feurig	D	igne-	igneus
+iners, inerta, inertem	träge, unwirksam	D	inert-	iners
+līmen, līminis	Schwelle, Grenze	D	līmin-	limen
+sphaera, sphaerae	Kugel	D	sphaer-	sphaera
+caelestis, caeleste	himmlisch	D	caelest-	caelestis
+genus, generis	Geschlecht, Stamm, Herkunft	D	gen-	genus
+impellō, impellere	ich treibe an	D	impell-	impello
+insignis, insigne	ausgezeichnet	D	insign-	insignis
+laedō, laedere	ich verletze, kränken	D	laed-	laedo
+lītus, lītoris	Küste, Strand	D	lītor-	litus
+mūsa, mūsae	Muse	D	mūs-	musa
+nūmen, nūminis	göttliches Wesen, Gottheit	D	nūmin-	numen
+pietās, pietātis	Pflichtgefühl, Frömmigkeit	D	pietāt-	pietas
+volvō, volvere	ich drehe, wälze	D	volv-	volvo
+ōra, ōrae	Küste, Ufer	D	ōr-	ora
+anima, animae	Seele, Leben	E	anim-	anima
+calix, calicis	Kelch	E	calic-	calix
+convertō, convertere	ich wende, bekehre	E	convert-	converto
+cōnsōlō, cōnsōlāre	ich stärke, tröste	E	cōnsōl-	consolo
+dēficiō, dēficere	ich fehle, es fehlt mir	E	dēfic-	deficio
+impinguō, impinguāre	ich fette (den Kopf)	E	impingu-	impinguo
+inebriō, inebriāre	ich berausche	E	inebri-	inebrio
+inhabitō, inhabitāre	ich bewohne	E	inhabit-	inhabito
+rēficiō, rēficere	ich erfrische	E	rēfic-	reficio
+semita, semitae	Pfad, Weg	E	semit-	semita
+subsequor, subsequī	ich folge (dat.)	E	subsequ-	subsequor
+tribulō, tribulāre	ich bedrücke, quäle	E	tribul-	tribulo
+ūmbra, ūmbrae	Schatten	E	ūmbr-	umbra
+balneum, balneī	Bad	E	balne-	balneum
+blandus, blanda, blandum	freundlich	E	bland-	blandus
+conchylium, conchyliī	Muschel	E	conchyli-	conchylium
+cōchlea, cōchleae	Purpurschnecke	E	cōchle-	cochlea
+fruges, frugium	Frucht, Getreide	E	frug-	fruges
+loquor, loquī	ich spreche	E	loqu-	loquor
+margarīta, margarītae	Perle	E	margarīt-	margarita
+occidēns, occidentis	westlich	E	occid-	occido
+pecus, pecoris	Vieh	E	pec-	pecus
+promontōrium, promontōriī	Vorgebirge	E	promontōri-	promontorium
+septentriō, septentriōnis	Norden	E	septentri-	septentrio
+sānē	ganz gewiss	E	sān-	sane
+tam	so sehr	E	tam-	tam
+āctiō, āctiōnis	Handlung, Tat	E	ācti-	actio
+iudex, iudicis	Richter	D	iudic-	iudex
+nūsus, nūsūs	Schein, Ruf	C	nūs-	nusus
+arma, armōrum	Waffen, Krieg	D	arm-	arma
+gesta, gestōrum	Taten, Heldentaten	E	gest-	gesta
+saga, sagārum	Sagen	E	sag-	saga
+salinae, salīnārum	Salzquellen	E	salīn-	salinae
+pāscua, pāscuōrum	Weideplätze	E	pāscu-	pascuum
+ūna, ūnae	die Maische (Fisch)	E	ūn-	una
+rēfecciō, rēficere	ich erfrische	E	rēfic-	reficio
+arbuteus, arbuteī	Erdbeerstrauch	D	arbute-	arbuteus
+orior, orī, ortus sum	entstehen, geboren werden	C	or-	orior
+fruor, fruī, frūctus sum	genießen, sich erfreuen	C	fru-	fruor
+utor, ūtī, ūsus sum	benutzen, sich bedienen	C	ūt-	utor
+fungor, fungī, fūnctus sum	erfüllen, verrichten	C	fung-	fungor

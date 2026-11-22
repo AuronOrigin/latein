@@ -75,7 +75,7 @@ Diese Tabelle wird im Buch **mehrmals** auftauchen (pro Kapitel als Kurzmarke, i
 
 * **Zielgruppe A:** Lernende ohne Vorkenntnisse (Schüler:innen Kl. 8 ff. bzw. ab Kl. 5 als 2./3. Fremdsprache; Erwachsene im Selbststudium).
 * **Zielgruppe B:** „Wiedereinsteiger“ mit Schul-Latein, die die Grammatik *wirklich* verstehen wollen.
-* **Umfang:** ca. **38 Kapitel**, rund **200–260 Seiten** Fließtext, **~700 Einzelsätze/Beispiele**, **~500–700 Übungsaufgaben** (davon ~60 % mit Musterlösung direkt im Kapitel), **~130 Fachbegriffe** im Glossar, **~600 Kernvokabeln** in fünf Frequenzstufen.
+* **Umfang:** **56 Kapitel**, rund **320 Seiten** (PDF), **~700 Einzelsätze/Beispiele**, **~500–700 Übungsaufgaben** (davon ~60 % mit Musterlösung direkt im Kapitel), **194 Fachbegriffe** im Glossar, **1057 Kernvokabeln** in fünf Frequenzstufen.
 * **Lernpfad:** 12-Wochen-Plan (30–45 Min./Tag) als umsetzbarer Fahrplan + 6-Monats-Plan als Langzeitvariante.
 * **Zusatznutzen:** Der Stoff deckt sich bewusst mit dem sächsischen Lehrplan (Spracherwerbsphase Kl. 8–10, Lektürephase) [1](https://cms.sachsen.schule/fileadmin/_special/gruppen/90/pdf-dateien/faecher/Latein/2407_lp_gy_latein_2019.pdf) und mit dem Latinum (Bund: 12 Lektionen Prüfungsvorbereitung) — jedes Kapitel endet mit einem „Prüfungscheck“-Kasten.
 
@@ -147,14 +147,16 @@ TEIL V — LEKTÜRE (10 Texte, je ein Kapitel)
  49  Lektüre X   Die Brücke: Beda (Mittellatein) und Erasmus (Neulatein)
 
 TEIL VI — ANHÄNGE
- 50  Anhang I   Vokabelverzeichnis: 893 Kernvokabeln in fünf Stufen (A–E)
- 51  Anhang II  Glossar der Fachbegriffe: 182 Begriffe mit Herkunft und Kapitelverweis
+ 50  Anhang I   Vokabelverzeichnis: 1057 Kernvokabeln in fünf Stufen (A–E)
+ 51  Anhang II  Glossar der Fachbegriffe: 194 Begriffe mit Herkunft und Kapitelverweis
  52  Anhang III Formenspiegel: Deklinationen, Steigerung, Pronomina, Konjugation, Tempus/Modus
  53  Anhang IV  Gesamtprüfung: 43 Aufgaben aus allen Teilen (100 Punkte)
  54  Anhang V   Lösungen zu allen Übungen: Übungsblöcke, Wiederholungsfächer,
                 Prüfungschecks und der Lösungsband zur Gesamtprüfung
+ 55  Anhang VI  Literatur und weiterführende Hinweise: Lehrwerke, Frequenzlisten,
+                Lernforschung, Originaltexte und Nachschlagewerke
 
-*(Endstand: 55 Kapitel in `book/00-…` bis `book/54-…`. Die Lektüre wurde gegenüber dem Entwurf von „12 Texte" auf **zehn** konkretisierte Texte in **je einem eigenen Kapitel** umgesetzt; Vokabel-Lernsystem, Wortbildungs-Übungen, Literaturverzeichnis und 12-Wochen-Plan sind in die Anhänge 50–54 sowie das Vorwort integriert. Die Lösungen stehen
+*(Endstand: 56 Kapitel in `book/00-…` bis `book/55-…`. Die Lektüre wurde gegenüber dem Entwurf von „12 Texte" auf **zehn** konkretisierte Texte in **je einem eigenen Kapitel** umgesetzt; Vokabel-Lernsystem, Wortbildungs-Übungen, Literaturverzeichnis und 12-Wochen-Plan sind in die Anhänge 50–55 sowie das Vorwort integriert. Die Lösungen stehen
 nicht beim Aufgabentext, sondern gesammelt in Anhang V — so dient das Buch zugleich als
 Arbeitsheft und als Lösungsbuch.)*
 
@@ -232,7 +234,7 @@ Formenbildung · Deklinationsanalyse (Form → Funktion) · Übersetzung DE→LA
 | Ergänzung (Top 1.500) | ~1.500 Wörter | ~84–95 % | Diederich 1939 [4](https://www.scribd.com/document/418233810/Diederich-Main) |
 | Plus 100 Mittellatein | 100 | öffnet 1.000 Jahre Literatur | Williams [9](https://www.readingroads.com/product/essential-latin-vocabulary-the-1-425-most-common-words-occurring-in-the-actual-writings-of-over-200-latin-authors53392/) |
 
-Das Buch liefert: **~600 Vokabeln im Kernteil** (Fundament + Grundwortschatz + ausgewählte Lesewortschatz-Wörter), jeweils mit **Zahlform**, **Stammherkunft**, **dt. Übersetzung**, **Beispielsatz**, **Wortfamilie**; plus **Anki-CSV** (Deutsch→Latein und Latein→Deutsch, getrennt) und ein **Selbsttest** mit 25 Wörtern.
+Das Buch liefert: **1057 Vokabeln** (Fundament + Grundwortschatz + ausgewählte Lesewortschatz-Wörter), jeweils mit **Zahlform**, **Stammherkunft**, **dt. Übersetzung**, **Beispielsatz**, **Wortfamilie**; plus **Anki-CSV** (Deutsch→Latein und Latein→Deutsch, getrennt, je in der Variante „alle Stufen" und „Kern A–C") und ein **Selbsttest** mit 25 Wörtern.
 
 ---
 
@@ -263,30 +265,42 @@ Jeder Text bekommt dasselbe Paket: **Vokabelhilfe vor dem Text** (Randglossen) �
 latein/
 ├── README.md                 (Einstieg, Nutzungsanleitung, Build-Anleitung)
 ├── PLAN.md                   (dieser Plan; Quellenliste in Abschnitt 15)
-├── book/                     (Buchquellen, Markdown — 55 Kapitel)
-│   ├── 00-vorwort.md … 53-gesamtpruefung.md
-│   └── 54-anhang-loesungen.md   (generierter Lösungsband, Anhang V)
+├── book/                     (Buchquellen, Markdown — 56 Kapitel)
+│   ├── 00-vorwort.md … 53-anhang-pruefung.md
+│   ├── 54-anhang-loesungen.md   (generierter Lösungsband, Anhang V)
+│   └── 55-anhang-literatur.md  (Literatur und weiterführende Hinweise)
 ├── glossar/
-│   ├── vokabeln.tsv / .csv   (893 Wörter in fünf Stufen)
-│   └── begriffe.tsv / .csv   (182 Fachbegriffe)
+│   ├── vokabeln.tsv / .csv   (1057 Wörter in fünf Stufen)
+│   └── begriffe.tsv / .csv   (194 Fachbegriffe)
 ├── build/
 │   ├── build.py              (CLI, Konsistenzprüfung, Anki-Export)
 │   ├── md.py                 (Markdown-Parser)
 │   ├── render.py             (HTML-, EPUB-, PDF-Renderer)
-│   ├── fonts.py              (portable Schriftenauflösung)
+│   ├── fonts.py              (portable Schriftenauflösung, Glyphenprüfung)
 │   ├── make_fonts.py         (erzeugt build/fontfiles/)
 │   ├── fontfiles/            (mitgelieferte Schriftschnitte + Lizenz)
+│   ├── audit_vocab.py        (Abdeckung und Datenqualität des Glossars)
+│   ├── vocab_fill.py         (Vorschläge für fehlende Verzeichniseinträge)
+│   ├── classify_gaps.py      (sortiert Lücken nach Vokabel/Eigenname/Form)
+│   ├── repair_glossary.py    (repariert Stamm- und Makronfehler)
+│   ├── apply_additions.py    (spielt die kuratierte Ergänzung ein)
+│   ├── vocab_additions.tsv   (die kuratierte Ergänzung, redaktionell geprüft)
 │   ├── loesungen/            (Werkzeuge der Lösungsmigration)
 │   ├── style.css             (Druckstil)
-│   └── anki/                 (erzeugte Anki-CSV-Dateien)
+│   └── anki/                 (erzeugte Anki-CSV-Dateien, gitignoriert)
 ├── tools/gen_glossar.py      (Glossar-Generator)
 ├── dist/                     (latein.html, latein.epub, latein.pdf — gitignoriert)
+├── .github/workflows/release.yml   (baut und veröffentlicht die Artefakte)
 └── Makefile                  (make all / make pdf / make check / make fonts)
 ```
 
-**Ausgabeformate:** Markdown (Quelle) → **HTML** (self-contained, druckbar) → **EPUB 3** (für E-Reader/Tablet) und **PDF** (319 Seiten, mit Lesezeichen). HTML, EPUB und Anki-Export brauchen keine Fremdpakete; nur der PDF-Export benötigt `reportlab`.
+**Ausgabeformate:** Markdown (Quelle) → **HTML** (self-contained, druckbar) → **EPUB 3** (für E-Reader/Tablet) und **PDF** (mit Lesezeichen). HTML, EPUB und Anki-Export brauchen keine Fremdpakete; nur der PDF-Export benötigt `reportlab`.
 
 **Schriften:** Weil das Buch Makronen, griechische Buchstaben und Rahmenzeichen verwendet, reichen die eingebauten PDF-Schriften nicht aus. `build/fonts.py` löst die Schriften portabel auf: zuerst die mitgelieferten, auf das Buch zugeschnittenen DejaVu-Schnitte aus `build/fontfiles/`, dann Systemschriften, erst als Notnagel ReportLabs Base-14-Schriften. Die Glyphenprüfung in `--check` verhindert, dass Zeichen stillschweigend im PDF verschwinden.
+
+**Veröffentlichung:** Binärdateien werden nicht in Git versioniert. `make all` erzeugt alle Artefakte reproduzierbar; der GitHub-Workflow `.github/workflows/release.yml` baut sie bei jedem Tag-Push neu und hängt sie an das zugehörige Release: PDF, EPUB, HTML sowie die vier Anki-CSV-Stapel (alle Stufen und Kern A–C, jeweils in beide Richtungen).
+
+**Wortschatzpflege:** `build/audit_vocab.py` prüft, ob jede im Wortschatzkasten eingeführte Vokabel im Verzeichnis steht, und unterscheidet dabei Lücken, Eigennamen und reine Flexionsformen. `build/vocab_fill.py` schlägt zu jeder Lücke eine vollständige Verzeichniszeile vor; die Redaktion prüft die Vorschläge und pflegt sie in `build/vocab_additions.tsv`, das `build/apply_additions.py` idempotent einspielt.
 
 ---
 

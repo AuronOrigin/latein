@@ -36,7 +36,7 @@ Ein **richtiges** Ergebnis bringt dir einen Punkt. Eine **begründete** Lösung 
 :::
 
 :::info Der Weg durch dieses Buch
-Die Kapitel 01–53 enthalten **Aufgaben ohne Lösungen** — so kannst du sie bearbeiten, ohne in die falsche Ecke zu schauen. Hinter jedem Aufgabenblock steht ein kurzer Verweis hierher. Diese Lösungen sind nach Kapiteln geordnet: Springe mit dem Inhaltsverzeichnis direkt zu dem Kapitel, bei dem du unsicher warst.
+Die Kapitel 1–53 enthalten **Aufgaben ohne Lösungen** — so kannst du sie bearbeiten, ohne in die falsche Ecke zu schauen. Hinter jedem Aufgabenblock steht ein kurzer Verweis hierher. Diese Lösungen sind nach Kapiteln geordnet: Springe mit dem Inhaltsverzeichnis direkt zu dem Kapitel, bei dem du unsicher warst.
 :::
 
 
@@ -46,7 +46,7 @@ Die Kapitel 01–53 enthalten **Aufgaben ohne Lösungen** — so kannst du sie b
 
 ### Übungsblock
 
-:::loesung Übungsblock (Kapitel 01)
+:::loesung Übungsblock (Kapitel 1)
 
 **A.**
 1. Latein als **Denkmaschine** (es erzwingt Genauigkeit), als **gemeinsame Sprache Europas** (800–1500 n. Chr.), als **Zugang zu den Originalquellen**, als **Training der Denkstrukturen**. 2. „Tot" heißt: niemand spricht es mehr. „Eingefroren" heißt: es wird noch gesprochen, nur bewegt es sich nicht mehr mit der Welt weiter — von der OECD, vom Vatikan, von Juristen, von Historikern. 3. „Latein ist eine tote Sprache", „Latein ist unregelmäßig und voller Ausnahmen", „Nach einem Jahr Latein kann ich Cäsar lesen". 4. **Regeln statt Tabellen**, die **wichtigen Dinge zuerst**, und **Übersetzen statt nur Erkennen**.
@@ -60,17 +60,17 @@ Die Kapitel 01–53 enthalten **Aufgaben ohne Lösungen** — so kannst du sie b
 
 ### Wiederholungsfach
 
-:::loesung Wiederholungsfach (Kapitel 01)
+:::loesung Wiederholungsfach (Kapitel 1)
 
 1. **Form → Funktion → Bedeutung.** 2. 500–600 Stunden. 3. „Latein ist tot", „Latein ist unregelmäßig", „Nach einem Jahr kann ich Cäsar lesen". 4. 1.500–2.000.
 :::
 
 ### Prüfungscheck
 
-:::loesung Prüfungscheck (Kapitel 01)
+:::loesung Prüfungscheck (Kapitel 1)
 
 1. Musterantwort: Latein ist gut für **genaues Denken in klaren Strukturen** — es zwingt zu Form, Funktion und Bedeutung, es schärft die Argumentation und es erschließt die Originalquellen. Es ist *nicht* gut für Alltagssprache, für schnelles Sprechen oder für emotionalen Ausdruck; dafür gibt es bessere Werkzeuge.
-2. Musterantwort: (1) „Latein ist eine tote Sprache" — sie wird gesprochen, nur bewegt sie sich nicht weiter mit der Welt: Klerus, Juristen, Historiker, Diplomaten. (2) „Latein ist voller Ausnahmen" — die Ausnahmen sind systematisch und in den Paradigmen sichtbar (Kapitel 06–15). (3) „Nach einem Jahr kann ich Cäsar lesen" — das ist die Folge von *nicht* beherrschen; für solides Lese-Latein braucht es 500–600 Stunden.
+2. Musterantwort: (1) „Latein ist eine tote Sprache" — sie wird gesprochen, nur bewegt sie sich nicht weiter mit der Welt: Klerus, Juristen, Historiker, Diplomaten. (2) „Latein ist voller Ausnahmen" — die Ausnahmen sind systematisch und in den Paradigmen sichtbar (Kapitel 6–15). (3) „Nach einem Jahr kann ich Cäsar lesen" — das ist die Folge von *nicht* beherrschen; für solides Lese-Latein braucht es 500–600 Stunden.
 3. Musterantwort: Ja, wenn der Plan real ist: rund **500–600 Stunden** für solides Lese-Latein, also bei 4 Stunden pro Woche etwa **25–30 Wochen** — ein halbes Jahr, ehrlich gerechnet. Ein unrealistischer Plan fällt beim ersten Rückfall in sich zusammen.
 4. Musterantwort: Beide müssen **griffbereit** sein, nicht bloß vorhanden: der Formenspiegel (Anhang III) beim Bilden von Formen, das Vokabelverzeichnis (Anhang I) beim Lesen. Wer sie erst suchen muss, verliert den Faden.
 :::
@@ -81,7 +81,7 @@ Die Kapitel 01–53 enthalten **Aufgaben ohne Lösungen** — so kannst du sie b
 
 ### Mikroübung — Übung 1 — Silben zerlegen
 
-:::loesung Mikroübung (Kapitel 02)
+:::loesung Mikroübung (Kapitel 2)
 
 *agri-cola* (a-gri-co-la: 4 Silben) · *pu-e-lla* (pu-el-la: 3 Silben) · *con-su-lis* (3) · *pul-chri-tu-do* (4) · *ma-gis-tri* (3).
 Beachte: *ma-gis-tri* — **i** vor *st* bleibt bei der Konsonantengruppe.
@@ -89,7 +89,7 @@ Beachte: *ma-gis-tri* — **i** vor *st* bleibt bei der Konsonantengruppe.
 
 ### Mikroübung — Übung 2 — Aussprache
 
-:::loesung Mikroübung (Kapitel 02)
+:::loesung Mikroübung (Kapitel 2)
 
 *Kai-sar, ai-o-lus, kwin-kwe, fi-lo-so-fus, we-ni, a-ku-la, ra-ti-o, Ju-li-us, mu-za, poi-na.*
 Beachte: *philosophus* = *fi-lo-so-fus* (ph = f, ch = kh), *philosophia* = *fi-lo-so-fi-a*.
@@ -97,14 +97,14 @@ Beachte: *philosophus* = *fi-lo-so-fus* (ph = f, ch = kh), *philosophia* = *fi-l
 
 ### Wort-für-Wort-Übersetzung
 
-:::loesung Wort-für-Wort-Übersetzung (Kapitel 02)
+:::loesung Wort-für-Wort-Übersetzung (Kapitel 2)
 
 `Gallīī` Gallier (Nom. Pl.) · `in Galliā` in Gallien (Abl.) · `multās urbes` viele Städte (Akk. Pl.) · `habēbant` sie hatten (Imperf.) · `in quārum mediō` in deren Mitte (Gen. + Abl.) · `oppidō` Marktfleck/ befestigter Ort (Abl.) · `clārum` berühmt/wichtig (Akk. Sg.) · `non erat` es war nicht (Imperf.) · `Rōmānī` die Römer (Nom. Pl.) · `autem` jedoch · `pontem longum` eine lange Brücke (Akk.) · `fēcērunt` sie bauten (Perf.) · `et` und · `hostēs` die Feinde (Akk. Pl.) · `repulērunt` sie trieben zurück (Perf.)
 :::
 
 ### Übungsblock
 
-:::loesung Übungsblock (Kapitel 02)
+:::loesung Übungsblock (Kapitel 2)
 
 1. *pu-él-la · á-qua · cón-sul · puer · má-gis-ter · ci-ví-tas · ar-gén-tum · lau-dát · pu-él-lam · a-mí-cus.*
 2. Diphthong: *poena* (oe), *aurum* (au), *caesar* (ae), *deinde* (ei), *claudō* (au). — *laudat* (au), *puer*, *amīcus* (keiner).
@@ -115,7 +115,7 @@ Beachte: *philosophus* = *fi-lo-so-fus* (ph = f, ch = kh), *philosophia* = *fi-l
 
 ### Wiederholungsfach
 
-:::loesung Wiederholungsfach (Kapitel 02)
+:::loesung Wiederholungsfach (Kapitel 2)
 
 1. Fünf: *a, e, i, o, u* — ohne Umlaute.
 2. **Zweisilber** → Betonung auf der ersten Silbe (bei langer Endung auf der zweiten). **Dreisilber** → Betonung auf der dritten, wenn die Endung kurz ist, sonst auf der ersten. **Viersilber** → Betonung auf der dritten, wenn die Endung lang ist, sonst auf der zweiten.
@@ -125,7 +125,7 @@ Beachte: *philosophus* = *fi-lo-so-fus* (ph = f, ch = kh), *philosophia* = *fi-l
 
 ### Prüfungscheck
 
-:::loesung Prüfungscheck (Kapitel 02)
+:::loesung Prüfungscheck (Kapitel 2)
 
 1. *pu-él-la · á-qua · cón-sul · ar-gén-tum · lau-dát.*
 2. „Der Junge liebt die Rose."
@@ -136,7 +136,7 @@ Beachte: *philosophus* = *fi-lo-so-fus* (ph = f, ch = kh), *philosophia* = *fi-l
 
 ### Übungsblock
 
-:::loesung Übungsblock (Kapitel 03)
+:::loesung Übungsblock (Kapitel 3)
 
 **A.**
 1. **Subjekt** *puella* (Nom.) — **Verb** *portat* — **Objekt** *rosam* (Akk.). Reihenfolge S–O–V.
@@ -163,7 +163,7 @@ Beide Sätze haben dieselbe grammatische Struktur — nur Subjekt und Objekt sin
 
 ### Wiederholungsfach
 
-:::loesung Wiederholungsfach (Kapitel 03)
+:::loesung Wiederholungsfach (Kapitel 3)
 
 1. Meist **hinten** (zwischen Subjekt und Objekt oder ganz am Ende).
 2. *Stīlus nōminālis* (gen. *nōminālis* von *nōmen* = Name) — „der Stil der Namen“: Aussagen werden in Form von Nomen (Genitive, Infinitiv, Partizip) gemacht.
@@ -173,7 +173,7 @@ Beide Sätze haben dieselbe grammatische Struktur — nur Subjekt und Objekt sin
 
 ### Prüfungscheck
 
-:::loesung Prüfungscheck (Kapitel 03)
+:::loesung Prüfungscheck (Kapitel 3)
 
 1. *portat*
 2. „Cäsar hat die Brücke gebaut."
@@ -184,14 +184,14 @@ Beide Sätze haben dieselbe grammatische Struktur — nur Subjekt und Objekt sin
 
 ### Mikroübung — Übung 1 — Stamm finden
 
-:::loesung Mikroübung (Kapitel 04)
+:::loesung Mikroübung (Kapitel 4)
 
 *amā-mu**s*** → Stamm **amā-** (1. Konjugation) · *puer-ī* → **puer-** (2. Dekl., r-Stamm) · *ros-īs* → **ros-** · *monē-tis* → **monē-** (2. Konjugation) · *audī-vērunt* → **audīv-** (Perfektstamm, 4. Konjugation).
 :::
 
 ### Übungsblock
 
-:::loesung Übungsblock (Kapitel 04)
+:::loesung Übungsblock (Kapitel 4)
 
 **A.**
 *et* — Konjunktion · *pulchrē* — Adverb (schön!) · *iterum* — Adverb (wieder) · *amāre* — Verb (Infinitiv) · *in* — Präposition · *quī* — Pronomen (Relativ) · *rosa* — Substantiv · *ecce* — Interjektion · *prīmus* — Adjektiv (= Numerale, Ordinalzahl) · *meus* — Pronomen (Possessiv).
@@ -215,7 +215,7 @@ Beide Sätze haben dieselbe grammatische Struktur — nur Subjekt und Objekt sin
 
 ### Wiederholungsfach
 
-:::loesung Wiederholungsfach (Kapitel 04)
+:::loesung Wiederholungsfach (Kapitel 4)
 
 1. Sechs (bzw. neun Zeilen in der Übersichtstabelle): Substantiv, Adjektiv, Pronomen, Numerale, Verb, Adverb, Konjunktion, Präposition, Interjektion.
 2. **Kasus × Numerus × Genus**.
@@ -225,7 +225,7 @@ Beide Sätze haben dieselbe grammatische Struktur — nur Subjekt und Objekt sin
 
 ### Prüfungscheck
 
-:::loesung Prüfungscheck (Kapitel 04)
+:::loesung Prüfungscheck (Kapitel 4)
 
 1. *amat*
 2. „Der Lehrer ermahnt die Schüler."
@@ -236,14 +236,14 @@ Beide Sätze haben dieselbe grammatische Struktur — nur Subjekt und Objekt sin
 
 ### Mikroübung — Übung 1
 
-:::loesung Mikroübung (Kapitel 05)
+:::loesung Mikroübung (Kapitel 5)
 
 *amā! / amāte!* · *monē! / monēte!* · *lege! / legite!* · *audī! / audīte!*
 :::
 
 ### Übungsblock
 
-:::loesung Übungsblock (Kapitel 05)
+:::loesung Übungsblock (Kapitel 5)
 
 **A.**
 1. *estis* 2. *amāmus* 3. *rosās* 4. *puellārum* 5. *magistrum* 6. *est*
@@ -264,7 +264,7 @@ Beide Sätze haben dieselbe grammatische Struktur — nur Subjekt und Objekt sin
 
 ### Wiederholungsfach
 
-:::loesung Wiederholungsfach (Kapitel 05)
+:::loesung Wiederholungsfach (Kapitel 5)
 
 1. *sum, es, est, sumus, estis, sunt.*
 2. *ego* (Akkusativ *mē*).
@@ -274,7 +274,7 @@ Beide Sätze haben dieselbe grammatische Struktur — nur Subjekt und Objekt sin
 
 ### Prüfungscheck
 
-:::loesung Prüfungscheck (Kapitel 05)
+:::loesung Prüfungscheck (Kapitel 5)
 
 1. *sunt*
 2. „Der Lehrer ist ein Gelehrter."
@@ -285,14 +285,14 @@ Beide Sätze haben dieselbe grammatische Struktur — nur Subjekt und Objekt sin
 
 ### Mikroübung — Übung 1 — Funktion bestimmen
 
-:::loesung Mikroübung (Kapitel 06)
+:::loesung Mikroübung (Kapitel 6)
 
 *Puellā* → Nominativ Singular (Subjekt) · *puellae* → Genitiv Singular · *puellam* → Akkusativ Singular (Objekt) · *puellīs* → Dativ Plural (hier: „mit den Mädchen“, cum + Abl.).
 :::
 
 ### Übungsblock
 
-:::loesung Übungsblock (Kapitel 06)
+:::loesung Übungsblock (Kapitel 6)
 
 **A.**
 *fābula* (Nom. Sg.), *fābulae* (Gen./Dat./Nom. Pl.), *fābulam* (Akk. Sg.), *fābulā* (Abl. Sg.);
@@ -315,7 +315,7 @@ Plural: *fābulae* (Nom.), *fābulārum* (Gen.), *fābulīs* (Dat./Abl.), *fābu
 
 ### Wiederholungsfach
 
-:::loesung Wiederholungsfach (Kapitel 06)
+:::loesung Wiederholungsfach (Kapitel 6)
 
 1. -a, -ae, -ae, -am, -ā 2. -ae, -ārum, -īs, -ās, -īs 3. -ae, -īs, -a
 4. *agricola, poēta* 5. *Rōmae* 6. -ārum
@@ -323,7 +323,7 @@ Plural: *fābulae* (Nom.), *fābulārum* (Gen.), *fābulīs* (Dat./Abl.), *fābu
 
 ### Prüfungscheck
 
-:::loesung Prüfungscheck (Kapitel 06)
+:::loesung Prüfungscheck (Kapitel 6)
 
 1. *hortō*
 2. „Der Bauer liebt das Mädchen."
@@ -334,7 +334,7 @@ Plural: *fābulae* (Nom.), *fābulārum* (Gen.), *fābulīs* (Dat./Abl.), *fābu
 
 ### Übungsblock
 
-:::loesung Übungsblock (Kapitel 07)
+:::loesung Übungsblock (Kapitel 7)
 
 **A.**
 *amicus* (Nom.), *amicī* (Gen.), *amicō* (Dat.), *amicum* (Akk.), *amicō* (Abl.), *amicī* (Nom. Pl.), *amicōrum* (Gen. Pl.), *amicīs* (Dat./Abl. Pl.), *amicōs* (Akk. Pl.);
@@ -356,14 +356,14 @@ Das Neutrum Plural hat die Endungen der 1. Deklination übernommen — historisc
 
 ### Wiederholungsfach
 
-:::loesung Wiederholungsfach (Kapitel 07)
+:::loesung Wiederholungsfach (Kapitel 7)
 
 1. Es endet auf -a wie die 1. Deklination (bella, verba). 2. -ī 3. *servus* (wie Nominativ) 4. *domus, mānus* 5. *fīliī*
 :::
 
 ### Prüfungscheck
 
-:::loesung Prüfungscheck (Kapitel 07)
+:::loesung Prüfungscheck (Kapitel 7)
 
 1. *scholā*
 2. „Die Herren ermahnen die Sklaven."
@@ -374,7 +374,7 @@ Das Neutrum Plural hat die Endungen der 1. Deklination übernommen — historisc
 
 ### Übungsblock
 
-:::loesung Übungsblock (Kapitel 08)
+:::loesung Übungsblock (Kapitel 8)
 
 **A.**
 | | m. | f. | n. |
@@ -405,14 +405,14 @@ Das Neutrum Plural hat die Endungen der 1. Deklination übernommen — historisc
 
 ### Wiederholungsfach
 
-:::loesung Wiederholungsfach (Kapitel 08)
+:::loesung Wiederholungsfach (Kapitel 8)
 
 1. Genus, Numerus, Kasus 2. *bonae* 3. -a 4. Im Nominativ 5. z. B. *bonī* = „die Guten"
 :::
 
 ### Prüfungscheck
 
-:::loesung Prüfungscheck (Kapitel 08)
+:::loesung Prüfungscheck (Kapitel 8)
 
 1. *pulchra*
 2. „Die tapferen Bauern bebauen die Felder."
@@ -423,7 +423,7 @@ Das Neutrum Plural hat die Endungen der 1. Deklination übernommen — historisc
 
 ### Übungsblock
 
-:::loesung Übungsblock (Kapitel 09)
+:::loesung Übungsblock (Kapitel 9)
 
 **A.**
 1. *vocō, vocāre, vocāvī, vocātum* 2. *legō, legere, lēgī, lēctum* 3. *audiō, audīre, audīvī, audītum* 4. *moneō, monēre, monuī, mōnitum* 5. *faciō, facere, fēcī, factum*
@@ -443,14 +443,14 @@ Das Neutrum Plural hat die Endungen der 1. Deklination übernommen — historisc
 
 ### Wiederholungsfach
 
-:::loesung Wiederholungsfach (Kapitel 09)
+:::loesung Wiederholungsfach (Kapitel 9)
 
 1. *amō, amāre, amāvī, amātum* 2. -mus 3. Stamm + *-ā* (amā!) 4. *nē* 5. Der lange Themenvokal *ā* vor -t, der kurze *a* vor -nt
 :::
 
 ### Prüfungscheck
 
-:::loesung Prüfungscheck (Kapitel 09)
+:::loesung Prüfungscheck (Kapitel 9)
 
 1. *amat*
 2. „Der Lehrer ermahnt die Schüler."
@@ -2201,6 +2201,6 @@ Diese vier Fragen sind **Selbstbeurteilung** — sie haben keine richtige Antwor
 
 :::vertiefung
 - **Der Plan für die zweite Runde:** Nach vier Wochen dieselbe Gesamtprüfung noch einmal, ohne Hilfen. Der Unterschied zwischen den beiden Punktzahlen zeigt deinen Fortschritt besser als jede einzelne Note.
-- **Noch nicht sitzend?** Arbeite die Kapitel 04–12 (Baukasten, Deklination, Verb) und 22–30 (Syntax) in dieser Reihenfolge durch. Das ist der schnellste Weg von 45 auf 75 Punkte.
+- **Noch nicht sitzend?** Arbeite die Kapitel 4–12 (Baukasten, Deklination, Verb) und 22–30 (Syntax) in dieser Reihenfolge durch. Das ist der schnellste Weg von 45 auf 75 Punkte.
 - **Für Fortgeschrittene:** Übersetze die Lektüretexte aus Kapitel 40–49 **ohne** Vokabelhilfe und vergleiche deine Fassung mit der Wort-für-Wort-Übersetzung im Buch. Das ist die eigentliche Lesekompetenz.
 :::

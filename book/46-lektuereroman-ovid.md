@@ -25,7 +25,7 @@ Nach dem Kapitel kannst du:
 **sphaera, -ae** *f.* — Kugel · **gelidus** — kalt · **plāga, -ae** *f.* — Zone, Streifen ·
 **aetās, aetātis** *f.* — Zeitalter · **aureus, -a, -um** — golden ·
 **sine lege** — ohne Gesetz · **vindex** — Beschützer, Rächer ·
-**sŭbŭlime** — erhaben · **arbuteus** — *arbuteōs, -ī* *f.* — Erdbeerstrauch
+**sŭbŭlime** — erhaben · **arbuteus, arbuteī** *f.* — Erdbeerstrauch
 :::
 
 ## Textus VII — Metamorphoses I.1–5 und I.89–95
