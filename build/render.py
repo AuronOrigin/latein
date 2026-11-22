@@ -9,8 +9,13 @@ from __future__ import annotations
 import html as _html
 import os
 import re
+import sys
 import zipfile
 from typing import Any
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+import fonts as fontsel  # noqa: E402  portabler Schriftauswahl (build/fonts.py)
 
 # --------------------------------------------------------------------------
 # Hilfsfunktionen
@@ -265,32 +270,19 @@ def build_pdf(chapters: list[dict], meta: dict, base_dir: str = ".") -> bytes:
     from reportlab.lib.pagesizes import A4
     from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
     from reportlab.lib.units import mm
-    from reportlab.pdfbase import pdfmetrics
-    from reportlab.pdfbase.ttfonts import TTFont
     from reportlab.platypus import (BaseDocTemplate, Frame, KeepTogether, NextPageTemplate,
                                     PageBreak, PageTemplate, Paragraph, Preformatted,
                                     Spacer, Table, TableStyle)
 
     # --- Schriften ---
-    fonts = {
-        "DejaVu": "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
-        "DejaVu-Bold": "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
-        "DejaVuMono": "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf",
-        "DejaVuMono-Bold": "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf",
-        "DejaVuSerif": "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf",
-        "DejaVuSerif-Bold": "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf",
-    }
-    for name, path in fonts.items():
-        if os.path.exists(path):
-            pdfmetrics.registerFont(TTFont(name, path))
-    pdfmetrics.registerFontFamily("DejaVu", normal="DejaVu", bold="DejaVu-Bold",
-                                   italic="DejaVu", boldItalic="DejaVu-Bold")
-    pdfmetrics.registerFontFamily("DejaVuSerif", normal="DejaVuSerif", bold="DejaVuSerif-Bold",
-                                   italic="DejaVuSerif", boldItalic="DejaVuSerif-Bold")
-    pdfmetrics.registerFontFamily("DejaVuMono", normal="DejaVuMono", bold="DejaVuMono-Bold",
-                                   italic="DejaVuMono", boldItalic="DejaVuMono-Bold")
-
-    F, FB, FM, FS = "DejaVu", "DejaVu-Bold", "DejaVuMono", "DejaVuSerif"
+    # Die Schriften werden portabel aufgeloest (build/fonts.py): mitgelieferte
+    # Schnitte aus build/fontfiles/, sonst Systemschriften, sonst ReportLabs
+    # eingebaute Schriften als Notnagel.
+    fset = fontsel.resolve_fonts(quiet=True)
+    F = fset.fonts["sans"]
+    FB = fset.fonts["sans-bold"]
+    FM = fset.fonts["mono"]
+    FS = fset.fonts["serif"]
 
     BOX_BG = {
         "ziel": colors.HexColor("#eef6ff"), "wortschatz": colors.HexColor("#f2f7f2"),
