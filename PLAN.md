@@ -168,12 +168,12 @@ im Repository statt in `/tmp`:
 | `moved.json` | die 122 aus den Kapiteln migrierten Lösungen (Übungsblöcke, Wiederholungsfächer, Mikroübungen, Check-Lösungen der Kapitel 02–10) |
 | `stripped.json` | die 123 beim Bereinigen der Kapitel entfernten Inline-Antworten (Prüfungscheck-Aufgaben 1 und 2) |
 | `check_answers_a/b/c.py` | die fachlichen Musterantworten auf die offenen Prüfungscheck-Fragen der Kapitel 01 und 11–53 |
-| `teil_e_block.md` | der Lösungsband zur Gesamtprüfung (Teil E) |
+| `teil_e_block.md` | der Lösungsband zur Gesamtprüfung (Teile A–D; der Dateiname stammt aus der Entwurfsphase, als noch fünf Teile geplant waren) |
 | `strip_answers.py` | entfernt die Antwortmarker aus den Kapiteldateien (`--check` = Probelauf) |
 | `build_anhang.py` | erzeugt `book/54-anhang-loesungen.md` aus allen Quellen |
 
 Ablauf: `python3 build/loesungen/strip_answers.py` → `python3 build/loesungen/build_anhang.py` → `python3 build/build.py --all`.
-Ergebnis: **171 Lösungskästen** (53 Übungsblöcke, 53 Wiederholungsfächer, 54 Prüfungschecks, 6 Mikroübungen, 1 Wort-für-Wort-Übersetzung, 4 Gesamtprüfungsteile, 2 anhangseigene) — **jede** Bausteinaufgabe aller 53 Kapitel hat genau eine Lösung.
+Ergebnis: **174 Lösungskästen** (53 Übungsblöcke, 53 Wiederholungsfächer, 54 Prüfungschecks, 6 Mikroübungen, 1 Wort-für-Wort-Übersetzung, 4 Gesamtprüfungsteile A–D, 3 anhangseigene) — **jede** Bausteinaufgabe aller 53 Kapitel hat genau eine Lösung.
 
 ---
 
@@ -261,25 +261,32 @@ Jeder Text bekommt dasselbe Paket: **Vokabelhilfe vor dem Text** (Randglossen) �
 
 ```
 latein/
-├── README.md                 (Einstieg, Inhaltsverzeichnis, Nutzungsanleitung)
-├── PLAN.md                   (dieser Plan)
-├── QUELLEN.md                (Rechercheprotokoll mit allen Quellen/URLs)
-├── book/                     (Buchquellen, Markdown)
-│   ├── 00-vorwort.md … 48-literatur.md
-│   ├── part-1/ … part-7/    (Kapitel nach Teil, für sinnvolle Dateigrößen)
-│   └── assets/               (SVG/PNG-Illustrationen, Mermaid-Quellen)
+├── README.md                 (Einstieg, Nutzungsanleitung, Build-Anleitung)
+├── PLAN.md                   (dieser Plan; Quellenliste in Abschnitt 15)
+├── book/                     (Buchquellen, Markdown — 55 Kapitel)
+│   ├── 00-vorwort.md … 53-gesamtpruefung.md
+│   └── 54-anhang-loesungen.md   (generierter Lösungsband, Anhang V)
 ├── glossar/
-│   ├── begriffe.csv          (Begriff | Definition | Herleitung | Kapitel | Beispiel)
-│   └── vokabeln.csv          (Lemma | dt. | Stamm | Frequenzstufe | Wortfamilie)
+│   ├── vokabeln.tsv / .csv   (893 Wörter in fünf Stufen)
+│   └── begriffe.tsv / .csv   (182 Fachbegriffe)
 ├── build/
-│   ├── build.py              (Markdown → HTML + EPUB, ohne externe Abhängigkeiten)
-│   ├── style.css             (Druckstil, Syntax-Hervorhebung)
-│   └── anki/                 (CSV → Anki-Import, Text ↔ Text-Dateien)
-├── dist/                     (latein.epub, latein.html — Build-Artefakte, gitignoriert)
-└── Makefile                  (make build / make check)
+│   ├── build.py              (CLI, Konsistenzprüfung, Anki-Export)
+│   ├── md.py                 (Markdown-Parser)
+│   ├── render.py             (HTML-, EPUB-, PDF-Renderer)
+│   ├── fonts.py              (portable Schriftenauflösung)
+│   ├── make_fonts.py         (erzeugt build/fontfiles/)
+│   ├── fontfiles/            (mitgelieferte Schriftschnitte + Lizenz)
+│   ├── loesungen/            (Werkzeuge der Lösungsmigration)
+│   ├── style.css             (Druckstil)
+│   └── anki/                 (erzeugte Anki-CSV-Dateien)
+├── tools/gen_glossar.py      (Glossar-Generator)
+├── dist/                     (latein.html, latein.epub, latein.pdf — gitignoriert)
+└── Makefile                  (make all / make pdf / make check / make fonts)
 ```
 
-**Ausgabeformate:** Markdown (Quelle) → **HTML** (self-contained, druckbar, mit Syntaxfarben) → **EPUB 3** (für E-Reader/Tablet; reines Python, ohne Fremdpakete). Optional PDF, falls im Sandbox-System ein Renderer verfügbar wird (Prüfung in Umsetzungsphase).
+**Ausgabeformate:** Markdown (Quelle) → **HTML** (self-contained, druckbar) → **EPUB 3** (für E-Reader/Tablet) und **PDF** (319 Seiten, mit Lesezeichen). HTML, EPUB und Anki-Export brauchen keine Fremdpakete; nur der PDF-Export benötigt `reportlab`.
+
+**Schriften:** Weil das Buch Makronen, griechische Buchstaben und Rahmenzeichen verwendet, reichen die eingebauten PDF-Schriften nicht aus. `build/fonts.py` löst die Schriften portabel auf: zuerst die mitgelieferten, auf das Buch zugeschnittenen DejaVu-Schnitte aus `build/fontfiles/`, dann Systemschriften, erst als Notnagel ReportLabs Base-14-Schriften. Die Glyphenprüfung in `--check` verhindert, dass Zeichen stillschweigend im PDF verschwinden.
 
 ---
 

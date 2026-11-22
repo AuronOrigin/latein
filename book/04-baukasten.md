@@ -72,8 +72,8 @@ Das ist **die** Grundidee des Lateinischen und der Schlüssel zu allem, was folg
 
 *Puellā* könnte man zerlegen als *puell- + -ā* — richtig. Aber *puellae*? Da liegen zwei Möglichkeiten nahe:
 
-* *puell- + -ae* (Endung *-ae*) ✅
-* *puell-a + -e* (Endung *-e*) ❌
+* *puell- + -ae* (Endung *-ae*) ✓
+* *puell-a + -e* (Endung *-e*) ✗
 
 Wie entscheidet man das? **Am Parallelformen-Vergleich.** Man bildet die Formen einer ganzen Reihe:
 

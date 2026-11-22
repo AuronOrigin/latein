@@ -252,9 +252,65 @@ def check(chapters: list[dict]) -> None:
         if not any(b["type"] == "heading" for b in ch["blocks"]):
             problems.append(f"{ch['file']}: keine Überschrift im Kapitel")
 
+    # 6. Glyphenabdeckung der PDF-Schriften: jedes Zeichen muss in mindestens
+    #    einer verwendeten Schrift darstellbar sein, sonst fehlt es im PDF.
+    problems.extend(check_glyphs())
+
     print(f"CHECK -> {len(problems)} Problem(e)")
     for p in problems[:50]:
         print("  -", p)
+
+
+def check_glyphs() -> list[str]:
+    """Prueft, ob alle Zeichen des Buches in den PDF-Schriften darstellbar sind.
+
+    Ohne reportlab laesst sich der PDF-Export nicht pruefen; die Pruefung wird
+    dann uebersprungen, statt einen Fehler zu melden.
+    """
+    try:
+        import fonts as fontsel
+    except ImportError:
+        return []
+
+    try:
+        fset = fontsel.resolve_fonts(quiet=True)
+    except ImportError:
+        return []          # reportlab fehlt -> keine PDF-Schriften pruefbar
+
+    text = []
+    for fn in sorted(os.listdir(BOOK_DIR)):
+        if fn.endswith(".md"):
+            with open(os.path.join(BOOK_DIR, fn), encoding="utf-8") as fh:
+                text.append(fh.read())
+    source = "".join(text)
+
+    everywhere, somewhere, per_role = fontsel.coverage(source, fset)
+    problems = []
+
+    for ch in sorted(everywhere):
+        problems.append(
+            f"Zeichen {ch!r} (U+{ord(ch):04X}) fehlt in allen PDF-Schriften")
+    if everywhere:
+        where = ", ".join(
+            f"{role}: {''.join(sorted(chars))}"
+            for role, chars in sorted(per_role.items()) if chars)
+        problems.append(f"  betroffen -> {where}")
+
+    if somewhere:
+        where = ", ".join(
+            f"{role}: {''.join(sorted(chars))}"
+            for role, chars in sorted(per_role.items()) if chars)
+        print(f"CHECK -> Hinweis: {len(somewhere)} Zeichen fehlen in einzelnen "
+              f"Schriften (unkritisch, solange sie dort nicht gesetzt werden): "
+              f"{where}")
+
+    if not fset.unicode_capable:
+        problems.append(
+            "Keine Unicode-Schrift gefunden - Makronen, griechische Buchstaben "
+            "und Rahmenzeichen fehlen im PDF. build/fontfiles/ pruefen oder "
+            "DejaVu installieren.")
+
+    return problems
 
 
 def main() -> None:

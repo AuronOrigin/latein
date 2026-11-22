@@ -102,7 +102,7 @@ mollia securae peragebant otia gentes.
 Der Hexameter besteht aus **sechs** Füßen (*hexa-* sechs + *metron* Maß). Die letzten fünf Silben bilden den **Schlussteil** (die *quinte* / *finale senarius*), der als Muster gilt:
 
 ```
-  – ⏑ ⏑ | – ⏑ ⏑ | – – | – ⏑ ⏑ | – ⏑ ⏑ | – X
+  – ˘ ˘ | – ˘ ˘ | – – | – ˘ ˘ | – ˘ ˘ | – X
   dactyl     dactyl   spondeē  dactyl  dactyl   Schluss
 ```
 
