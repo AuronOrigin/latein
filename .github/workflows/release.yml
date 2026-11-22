@@ -1,0 +1,46 @@
+name: Release bauen
+
+# Baut das Buch aus den Markdown-Quellen und haengt die fertigen Dateien
+# an das Release, dessen Tag gerade gepusht wurde.
+#
+#   git tag v1.0.0 && git push origin v1.0.0
+#
+# Der Build laeuft auf dem Runner ohne Schriftinstallation - die benoetigten
+# Schnitte liegen unter build/fontfiles/ im Repository.
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Quellen holen
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: reportlab installieren
+        run: python -m pip install --upgrade reportlab
+
+      - name: Buch bauen
+        run: python3 build/build.py --all
+
+      - name: Konsistenzpruefung
+        run: python3 build/build.py --check
+
+      - name: Dateien an das Release haengen
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release upload "${GITHUB_REF_NAME}" \
+            dist/latein.pdf dist/latein.epub dist/latein.html \
+            --clobber
