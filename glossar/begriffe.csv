@@ -181,3 +181,15 @@ Verbum dicendi,nativ,verbum dicendi,"Aussagewörter wie dīcō, nārrō, profit�
 Verbum existendi,modern,verbum existendi,"Aussagewörter wie sum, exsistō, manet",opus,34
 Vulgata,nativ,"vulgātus, -a, -um",die verbreitete Fassung; Bezeichnung der lateinischen Bibelübersetzung,translatio,48
 Zeugma,griechisch,"zeugma, -atos",Zeugma; eine Konjunktion verbindet ungleichartige Glieder,hyperbaton,37
+Fachbegriff,modern,fachbegriff,Ein Fachwort einer Wissenschaft; in der Grammatik ein Terminus für einen bestimmten sprachlichen Sachverhalt,terminus,51
+Herkunft,modern,herkunft,"Die sprachliche Abstammung eines Wortes (lateinisch, griechisch, Lehnwort, neulateinisch)",etymologie,51
+Verwandte Begriffe,modern,verwandte begriffe,"Fachbegriffe, die inhaltlich oder formal zusammengehören",terminus,51
+Kapitelverweis,modern,kapitelverweis,"Die Nummer im vorliegenden Buch, an der ein Begriff eingeführt wird",referentia,51
+Hauptformen,modern,hauptformen,"Infinitiv, Präsens, Perfekt und Supinum; die vier Formen, die ein Verb charakterisieren",verbum,52
+Tempuszeichen,modern,tempuszeichen,"Die Endung, die ein Tempus vom anderen unterscheidet",tempus,52
+Klausur,modern,klausur,"Eine Prüfung unter festen Bedingungen (Zeit, Hilfsmittel, Punkte)",examen,53
+Punktesystem,modern,punktesystem,"Die Bewertung: jeder richtige Punkt zählt, falsche Punkte gibt es nicht",evaluatio,53
+Reproduktion,modern,reproduktion,"Die Fähigkeit, Gelerntes ohne Vorlage wiederzugeben",mnemesis,53
+Fehleranalyse,modern,fehleranalyse,Die systematische Suche nach der Ursache eines Fehlers,audit,54
+Kontrollieren,modern,kontrollieren,Die eigene Antwort mit der Musterlösung vergleichen,audit,54
+Punktewertung,modern,punktewertung,Die Umrechnung richtiger Antworten in einen Punktwert,evaluatio,54

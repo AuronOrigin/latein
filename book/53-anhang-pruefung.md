@@ -166,7 +166,7 @@ Die **vollständigen Musterlösungen** zu den Aufgaben 1–43 der Gesamtprüfung
 | 75–89 | sicher | Die Grundlagen sitzen. Lücken gezielt in den genannten Kapiteln schließen. |
 | 60–74 | brauchbar | Du kannst die einfachen Lektürestücke bewältigen; die Syntax braucht Nacharbeit. |
 | 45–59 | Grundlagen | Wiederhole Teil II (Formenlehre) und Teil III (Syntax) mit den Übungen. |
-| unter 45 | Neubeginn | Arbeite die Kapitel 04 bis 12 gründlich durch, bevor du weitergehst. |
+| unter 45 | Neubeginn | Arbeite die Kapitel 4 bis 12 gründlich durch, bevor du weitergehst. |
 
 2. Markiere in **Anhang V** **jede** Aufgabe, bei der du einen Fehler hattest, und notiere die Kapitelzahl daneben.
 3. Formuliere zu jedem Fehler **einen eigenen Satz**, der die Regel anwendet. Ein Fehler, den man einmal selbst überwunden hat, wiederholt sich nicht.

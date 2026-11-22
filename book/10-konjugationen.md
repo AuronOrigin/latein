@@ -107,7 +107,7 @@ Das ist das Prinzip der Mischkonjugation:
 **Verwandte Begriffe:** *Konjugation*, *Präsenssystem*, *Perfekt*, *i-Stamm*.
 :::
 
-## Die vier Konjugationen auf einen Blick
+## Die fünf Konjugationen auf einen Blick
 
 | | 1. | 2. | 3. | 4. | 5. (Misch) |
 |---|---|---|---|---|---|

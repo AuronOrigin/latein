@@ -1,165 +1,193 @@
 latein,deutsch,stufe,stamm,familie
-"sum, esse, fuī","sein, werden",A,esse,esse
-"habēre, habēre, habuī, habitum","haben, halten",A,habē-,habere
-"fīō, fierī, factus sum","werden, geschehen",A,fi-,facere
-"dīcō, dīcere, dīxī, dictum","sagen, sprechen",A,dīc-,dīcere
-"dō, dare, dedī, datum",geben,A,dā-,dare
-"faciō, facere, fēcī, factum","tun, machen",A,fac-,facere
-"agō, agere, ēgī, āctum","treiben, verbringen, tun",A,ag-,agere
-"vidēre, vidēre, vīdī, vīsum",sehen,A,vid-,videre
-"veniō, venīre, vēnī, ventum",kommen,A,ven-,venire
-"timeō, timēre, timuī, timitum",fürchten,A,time-,timere
-"quaerō, quaerere, quaesīvī, quaesītum","suchen, fragen",A,quaer-,quaerere
-"mittō, mittere, mīsī, missum",senden,A,mitt-,mittere
-"legō, legere, lēgī, lēctum","lesen, sammeln",A,leg-,legere
-"scrībō, scrībere, scrīpsī, scrīptum",schreiben,A,scrīb-,scribere
-"capiō, capere, cēpī, captum","nehmen, fangen",A,cap-,capere
-"regō, regere, rēxī, rēctum","lenken, herrschen",A,reg-,regere
-"vincō, vincere, vīcī, victum",besiegen,A,vinc-,vincere
-"audiō, audīre, audīvī, auditum",hören,A,aud-,audire
-"vīvō, vīvere, vīxī, vīctum",leben,A,vīv-,vivere
-"morior, morī, mortuus sum",sterben,A,mor-,moriri
-"putō, putāre, putāvī, putātum","halten, glauben",A,put-,putare
-"iubeō, iubēre, iussī, iussum",befehlen,A,iub-,iubere
-"debeō, debēre, debuī, debitum","schulden, müssen",A,debe-,debere
-"crēdō, crēdere, crēdidī, crēditum",glauben,A,crēd-,credere
-"arbitror, arbitrārī, arbitrātus sum","entscheiden, meinen",A,arbitr-,arbitrari
-"exīstimō, exīstimāre, exīstimāvī","beurteilen, halten für",A,exīstim-,exestimare
-"negō, negāre, negāvī","leugnen, verweigern",A,neg-,negare
 "adiuvō, adiuvāre, adiūvī",helfen,A,adiuv-,adiuvare
-"mālō, mālle, māluī",lieber wollen,A,mal-,malle
-"nōlō, nōlle, nōluī",nicht wollen,A,nōl-,nolle
-"volō, velle, voluī",wollen,A,vel-,velle
-"cupiō, cupere, cupīvī, cupītum",begehren,A,cup-,cupere
-"possum, posse, potuī, posse",können,A,pot-,posse
-"memini, meminisse, meministī",sich erinnern,A,memin-,memoria
-"oblīvīscor, oblīvīscī, oblīvīsus sum",vergessen,A,oblīvīsc-,oblivium
-"hortor, hortārī, hortātus sum",ermahnen,A,hort-,hortari
-"mīror, mīrārī, mīrātus sum",sich wundern,A,mīr-,mirari
-"ferō, ferre, tulī, lātum","tragen, bringen",A,fer-,ferre
-"petō, petere, petīvī, petītum","bitten, streben",A,pet-,petere
-"sequor, sequī, secūtus sum",folgen,A,sequ-,sequi
-"patior, patī, passus sum","ertragen, leiden",A,pat-,pati
-"īnferō, īnferre, indulī, indlātum",hineintragen,A,īnfer-,ferre
-"prōferō, prōferre, prōtulī, prōlātum",hervorbringen,A,prōfer-,ferre
-"dūcō, dūcere, dūxī, ductum",führen,A,dūc-,ducere
-"monēō, monēre, monuī, mōnitum",ermahnen,A,mon-,monere
-"laudō, laudāre, laudāvī",loben,A,laud-,laudare
-"vocō, vocāre, vocāvī, vocātum","rufen, berufen",A,voc-,vocare
-"nōrō, nōrāre, nōrāvī",kennen,A,nōr-,norare
-"errō, errāre, errāvī",irren,A,err-,errore
-"discō, discere, didicī, disctum",lernen,A,disc-,discere
-"pōnō, pōnere, posuī, positum","setzen, legen",A,pon-,ponere
-"deus, deī",Gott,A,deu-,deus
-"rēx, rēgis",König,A,rēg-,rēx
-"vir, virī","Mann, Mensch",A,vir-,vir
-"mūlier, mūlieris",Frau,A,mūlier-,mulier
-"puer, puerī","Knabe, Sohn",A,puer-,puer
-"fīlius, fīliī",Sohn,A,fīli-,filius
-"fīlia, fīliae",Tochter,A,fīli-,filius
-"pater, patris",Vater,A,patr-,pater
-"māter, mātris",Mutter,A,mātr-,mater
-"frāter, frātris",Bruder,A,frātr-,frater
-"soror, sororis",Schwester,A,soror-,soror
-"uxor, uxōris",Ehefrau,A,uxor-,uxor
-"amīcus, amīcī",Friend,A,amīc-,amicus
-"magister, magistrī",Lehrer,A,magistr-,magister
-"discipulus, discipulī",Schüler,A,discipul-,discipulus
-"cīvis, cīvis",Bürger,A,cīv-,civis
-"hostis, hostis",Feind,A,host-,hostis
-"miles, mīlitis",Soldat,A,mīlit-,miles
-"dux, ducis",Feldherr,A,duc-,dux
-"servus, servī",Sklave,A,serv-,servus
-"dominus, dominī",Herr,A,domin-,dominus
-"libertus, libertī",Freigelassener,A,libert-,libertus
-"mercātor, mercātōris",Händler,A,mercāt-,mercator
+"ager, agrī",Feld,A,agr-,ager
+"agō, agere, ēgī, āctum","treiben, verbringen, tun",A,ag-,agere
 "agricola, agricolae",Bauer,A,agricol-,agricola
-"poēta, poētae",Dichter,A,poēt-,poeta
-"medicus, medicī",Arzt,A,medic-,medicus
-"faber, fabrī",Handwerker,A,fabr-,faber
-"nauta, nautae",Seemann,A,naut-,nauta
-"liber, librī",Buch,A,libr-,liber
-"epistula, epistulae",Brief,A,epistul-,epistula
-"verbum, verbī",Wort,A,verb-,verbum
-"nōmen, nōminis",Name,A,nōmin-,nomen
-"rēs, reī","Sache, Angelegenheit",A,re-,res
+"alius, alia, aliud",ein anderer,A,ali-,alius
+"amīcus, amīcī",Friend,A,amīc-,amicus
+"annus, annī",Jahr,A,ann-,annus
+"aqua, aquae",Wasser,A,aqu-,aqua
+"ara, arae",Altar,A,ar-,ara
+"arbitror, arbitrārī, arbitrātus sum","entscheiden, meinen",A,arbitr-,arbitrari
+"auctōritās, auctōritātis","Ansehen, Autorität",A,auctōritāt-,auctoritas
+"audiō, audīre, audīvī, auditum",hören,A,aud-,audire
+"bellum, bellī",Krieg,A,bell-,bellum
+"bonus, bona, bonum",gut,A,bon-,bonus
+"calceus, calceī",Schuh,A,calce-,calceus
+"campus, campī","Feld, Ebene",A,camp-,campus
+"capiō, capere, cēpī, captum","nehmen, fangen",A,cap-,capere
 "causa, causae","Grund, Sache, Rechtsstreit",A,caus-,causa
+"cēna, cēnae",Mahlzeit,A,cēn-,cena
+"cibus, cibī",Speise,A,cib-,cibus
+"cīvis, cīvis",Bürger,A,cīv-,civis
+"clārus, clāra, clārum","berühmt, hell, klar",A,clār-,clarus
+"clāvis, clāvis",Schlüssel,A,clāv-,clavis
+cotīdiē,täglich,A,cotīdi-,cotidie
+"crēdō, crēdere, crēdidī, crēditum",glauben,A,crēd-,credere
+"cupiō, cupere, cupīvī, cupītum",begehren,A,cup-,cupere
+"debeō, debēre, debuī, debitum","schulden, müssen",A,debe-,debere
+decem,zehn,A,decem-,decem
+"deus, deī",Gott,A,deu-,deus
+"dīcō, dīcere, dīxī, dictum","sagen, sprechen",A,dīc-,dīcere
+"discipulus, discipulī",Schüler,A,discipul-,discipulus
+"discō, discere, didicī, disctum",lernen,A,disc-,discere
+"dō, dare, dedī, datum",geben,A,dā-,dare
+"doctus, docta, doctum",gelehrt,A,doct-,doctus
+"dominus, dominī",Herr,A,domin-,dominus
+"domus, domūs",Haus,A,dom-,domus
+"dūcō, dūcere, dūxī, ductum",führen,A,dūc-,ducere
+"dux, ducis",Feldherr,A,duc-,dux
+"eī, eōrum, eōs",sie (Pl.),A,e-,eius
+"eō, īre, iī (īvī), itum",gehen,A,e-,eo
+"epistula, epistulae",Brief,A,epistul-,epistula
+"equus, equī",Pferd,A,equ-,equus
+"errō, errāre, errāvī",irren,A,err-,errore
+"exīstimō, exīstimāre, exīstimāvī","beurteilen, halten für",A,exīstim-,exestimare
+"faber, fabrī",Handwerker,A,fabr-,faber
+"fābula, fābulae","Fabel, Erzählung",A,fābul-,fabula
+"faciō, facere, fēcī, factum","tun, machen",A,fac-,facere
+"fāmes, famis",Hunger,A,fam-,fames
+"familia, familiae",Familie,A,famili-,familia
+"fēlīx, fēlīcis",glücklich,A,fēlīc-,felix
+"ferō, ferre, tulī, lātum","tragen, bringen",A,fer-,ferre
+"fīlia, fīliae",Tochter,A,fīli-,filius
+"fīlius, fīliī",Sohn,A,fīli-,filius
+"fīō, fierī, factus sum","werden, geschehen",A,fi-,facere
+"fortis, forte",tapfer,A,fort-,fortis
+"fortūna, fortūnae","Glück, Schicksal",A,fortūn-,fortuna
+"frāter, frātris",Bruder,A,frātr-,frater
+"gēns, gentis","Stamm, Volk, Geschlecht",A,gent-,gens
+"glōria, glōriae","Ruhm, Ruhmglanz",A,glōri-,gloria
+"gravis, grave","schwer, ernst, bedeutsam",A,grav-,gravis
+"habēre, habēre, habuī, habitum","haben, halten",A,habē-,habere
+"hic, haec, hoc",dieser (hier),A,hic-,hic
+"honor, honōris",Ehre,A,honor-,honor
+"hortor, hortārī, hortātus sum",ermahnen,A,hort-,hortari
+"hortus, hortī",Garten,A,hort-,hortus
+"hostis, hostis",Feind,A,host-,hostis
+iam,"schon, nun",A,iam-,iam
+"ille, illa, illud",jener (dort),A,ill-,ille
+"imperium, imperiī","Herrschaft, Befehl",A,imperi-,imperium
+"īnferō, īnferre, indulī, indlātum",hineintragen,A,īnfer-,ferre
+"is, ea, id",er/sie/es,A,is-,is
+"iste, ista, istud",dieser (von der Person),A,ist-,iste
+"iubeō, iubēre, iussī, iussum",befehlen,A,iub-,iubere
+"labor, labōris","Arbeit, Mühe",A,labōr-,labor
+"laudō, laudāre, laudāvī",loben,A,laud-,laudare
+"legō, legere, lēgī, lēctum","lesen, sammeln",A,leg-,legere
+"liber, librī",Buch,A,libr-,liber
+"libertus, libertī",Freigelassener,A,libert-,libertus
+"locus, locī","Ort, Stelle, Platz",A,loc-,locus
+"lūna, lūnae",Mond,A,lūn-,luna
+"magister, magistrī",Lehrer,A,magistr-,magister
+"māgnus, māgna, māgnum",groß,A,māgn-,magnus
+"mālō, mālle, māluī",lieber wollen,A,mal-,malle
+"malus, mala, malum",schlecht,A,mal-,malus
+"māter, mātris",Mutter,A,mātr-,mater
+"medicus, medicī",Arzt,A,medic-,medicus
+"memini, meminisse, meministī",sich erinnern,A,memin-,memoria
+"mēnsa, mēnsae",Tisch,A,mēns-,mensa
+"mercātor, mercātōris",Händler,A,mercāt-,mercator
+"meus, mea, meum",mein,A,me-,meus
+"miles, mīlitis",Soldat,A,mīlit-,miles
+"mīror, mīrārī, mīrātus sum",sich wundern,A,mīr-,mirari
+"mittō, mittere, mīsī, missum",senden,A,mitt-,mittere
+"monēō, monēre, monuī, mōnitum",ermahnen,A,mon-,monere
+"morior, morī, mortuus sum",sterben,A,mor-,moriri
+"mūlier, mūlieris",Frau,A,mūlier-,mulier
+"mūrus, mūrī",Mauer,A,mūr-,murus
+"nauta, nautae",Seemann,A,naut-,nauta
+"negō, negāre, negāvī","leugnen, verweigern",A,neg-,negare
+nēmō,niemand,A,nēmō-,nemo
+"nōlō, nōlle, nōluī",nicht wollen,A,nōl-,nolle
+"nōmen, nōminis",Name,A,nōmin-,nomen
+"nōrō, nōrāre, nōrāvī",kennen,A,nōr-,norare
+"nōs, nostrum",wir,A,nos-,nos
+"noster, nostra, nostrum",unser,A,nost-,noster
+"nōvus, nova, novum",neu,A,nōv-,novus
+"nūllus, nūlla, nūllum",keiner,A,nūll-,nullus
+nunc,jetzt,A,nunc-,nunc
+"oblīvīscor, oblīvīscī, oblīvīsus sum",vergessen,A,oblīvīsc-,oblivium
+"oleum, oleī",Öl,A,ole-,oleum
+"omnēs, omnia",alle,A,omn-,omnis
+oportet,es ist nötig,A,oportet-,oporto
+"oppidum, oppidī",Landstadt,A,oppid-,oppidum
+"ōtium, ōtiī",Muße,A,ōti-,otium
+"panis, panis",Brot,A,pan-,panis
+"parvus, parva, parvum",klein,A,parv-,parvus
+"pater, patris",Vater,A,patr-,pater
+"patior, patī, passus sum","ertragen, leiden",A,pat-,pati
+"pāx, pācis",Frieden,A,pāc-,pax
+"perīculum, perīculī",Gefahr,A,perīcul-,periculum
+"petō, petere, petīvī, petītum","bitten, streben",A,pet-,petere
+"poēta, poētae",Dichter,A,poēt-,poeta
+"pōnō, pōnere, posuī, positum","setzen, legen",A,pon-,ponere
+"populus, populī",Volk,A,popul-,populus
+"portus, portūs",Hafen,A,port-,portus
+"possum, posse, potuī, posse",können,A,pot-,posse
+"prōferō, prōferre, prōtulī, prōlātum",hervorbringen,A,prōfer-,ferre
+"prōvincia, prōvinciae",Provinz,A,prōvinci-,provincia
+"puella, puellae",Mädchen,A,puell-,puella
+"puer, puerī","Knabe, Sohn",A,puer-,puer
+"pulcher, pulchra, pulchrum",schön,A,pulch-,pulcher
+"putō, putāre, putāvī, putātum","halten, glauben",A,put-,putare
+"quaerō, quaerere, quaesīvī, quaesītum","suchen, fragen",A,quaer-,quaerere
+"quī, quae, quod",welcher/welche/welches,A,qu-,qui
+"quis, quid",wer? was?,A,quid-,quis
+"rēgnum, rēgnī",Königreich,A,rēgn-, regnum
+"regō, regere, rēxī, rēctum","lenken, herrschen",A,reg-,regere
+"rēs, reī","Sache, Angelegenheit",A,re-,res
+"rēx, rēgis",König,A,rēg-,rēx
+"rosa, rosae",Rose,A,ros-,rosa
+saepe,oft,A,saep-,saepe
+"sapiēns, sapientis",weise,A,sapient-,sapiens
+"scrībō, scrībere, scrīpsī, scrīptum",schreiben,A,scrīb-,scribere
+semper,immer,A,semper-,semper
+"sequor, sequī, secūtus sum",folgen,A,sequ-,sequi
+"servus, servī",Sklave,A,serv-,servus
+"sitis, sitis",Durst,A,sit-,sitis
+"soror, sororis",Schwester,A,soror-,soror
+"sum, esse, fuī","sein, werden",A,esse-,esse
+"suus, sua, suum","sein, ihr",A,su-,suus
+"templum, templī",Tempel,A,templ-,templum
+"teneō, tenēre, tenuī, tentum",halten,A,ten-,tenere
+"timeō, timēre, timuī, timitum",fürchten,A,time-,timere
+"toga, togae",Toga,A,tog-,toga
+"tū, tui",du,A,tu-,tu
+tunc,"damals, dann",A,tunc-,tunc
+"tūnica, tūnicae",Unterhemd,A,tūnic-,tunica
+"tūris, tūris",Turm,A,tūr-,turis
+"tuus, tua, tuum",dein,A,tu-,tuus
+"urbs, urbis",Stadt,A,urb-,urbs
+"uxor, uxōris",Ehefrau,A,uxor-,uxor
+"veniō, venīre, vēnī, ventum",kommen,A,ven-,venire
+"verbum, verbī",Wort,A,verb-,verbum
 "vēritās, vēritātis",Wahrheit,A,vēritāt-,veritas
+"vestis, vestis",Kleidung,A,vest-,vestis
+"via, viae",Weg,A,vi-,via
+"vidēre, vidēre, vīdī, vīsum",sehen,A,vid-,videre
+"villa, villae","Landhaus, Dorf",A,vill-,villa
+"vincō, vincere, vīcī, victum",besiegen,A,vinc-,vincere
+"vīnum, vīnī",Wein,A,vīn-,vinum
+"vir, virī","Mann, Mensch",A,vir-,vir
 "virtūs, virtūtis","Tugend, Leistung",A,virtūt-,virtus
 "vitium, vitiī","Fehler, Laster",A,vit-,vitium
-"glōria, glōriae","Ruhm, Ruhmglanz",A,glōri-,gloria
-"honor, honōris",Ehre,A,honor-,honor
-"auctōritās, auctōritātis","Ansehen, Autorität",A,auctōritāt-,auctoritas
-"imperium, imperiī","Herrschaft, Befehl",A,imperi-,imperium
-"rēgnum, rēgnī",Königreich,A,rēgn-, regnum
-"prōvincia, prōvinciae",Provinz,A,prōvinci-,provincia
-"populus, populī",Volk,A,popul-,populus
-"gēns, gentis","Stamm, Volk, Geschlecht",A,gent-,gens
-"familia, familiae",Familie,A,famili-,familia
-"domus, domūs",Haus,A,dom-,domus
-"villa, villae","Landhaus, Dorf",A,vill-,villa
-"hortus, hortī",Garten,A,hort-,hortus
-"ager, agrī",Feld,A,agr-,ager
-"campus, campī","Feld, Ebene",A,camp-,campus
-"via, viae",Weg,A,vi-,via
-"locus, locī","Ort, Stelle, Platz",A,loc-,locus
-"urbs, urbis",Stadt,A,urb-,urbs
-"oppidum, oppidī",Landstadt,A,oppid-,oppidum
-"portus, portūs",Hafen,A,port-,portus
-"mūrus, mūrī",Mauer,A,mūr-,murus
-"tūris, tūris",Turm,A,tūr-,turis
-"templum, templī",Tempel,A,templ-,templum
-"ara, arae",Altar,A,ar-,ara
-"cēna, cēnae",Mahlzeit,A,cēn-,cena
-"panis, panis",Brot,A,pan-,panis
-"vīnum, vīnī",Wein,A,vīn-,vinum
-"aqua, aquae",Wasser,A,aqu-,aqua
-"oleum, oleī",Öl,A,ole-,oleum
-"vestis, vestis",Kleidung,A,vest-,vestis
-"toga, togae",Toga,A,tog-,toga
-"tūnica, tūnicae",Unterhemd,A,tūnic-,tunica
-"calceus, calceī",Schuh,A,calce-,calceus
-"mēnsa, mēnsae",Tisch,A,mēns-,mensa
-"clāvis, clāvis",Schlüssel,A,clāv-,clavis
-"fāmes, famis",Hunger,A,fam-,fames
-"sitis, sitis",Durst,A,sit-,sitis
-"cibus, cibī",Speise,A,cib-,cibus
-cotīdiē,täglich,A,cotīdi-,cotidie
-saepe,oft,A,saep-,saepe
-nunc,jetzt,A,nunc-,nunc
-tunc,"damals, dann",A,tunc-,tunc
-iam,"schon, nun",A,iam-,iam
-semper,immer,A,semper-,semper
-"omnēs, omnia",alle,A,omn-,omnis
-nēmō,niemand,A,nēmō-,nemo
-"nūllus, nūlla, nūllum",keiner,A,nūll-,nullus
-"māgnus, māgna, māgnum",groß,A,māgn-,magnus
-"parvus, parva, parvum",klein,A,parv-,parvus
-"bonus, bona, bonum",gut,A,bon-,bonus
-"malus, mala, malum",schlecht,A,mal-,malus
-"fortis, forte",tapfer,A,fort-,fortis
-"sapiēns, sapientis",weise,A,sapient-,sapiens
-"doctus, docta, doctum",gelehrt,A,doct-,doctus
-"clārus, clāra, clārum","berühmt, hell, klar",A,clār-,clarus
-"nōvus, nova, novum",neu,A,nōv-,novus
-"fēlīx, fēlīcis",glücklich,A,fēlīc-,felix
-"fortūna, fortūnae","Glück, Schicksal",A,fortūn-,fortuna
-"perīculum, perīculī",Gefahr,A,perīcul-,periculum
-"bellum, bellī",Krieg,A,bell-,bellum
-"pāx, pācis",Frieden,A,pāc-,pax
-"ōtium, ōtiī",Muße,A,ōti-,otium
-"labor, labōris","Arbeit, Mühe",A,labōr-,labor
+"vīvō, vīvere, vīxī, vīctum",leben,A,vīv-,vivere
+"vocō, vocāre, vocāvī, vocātum","rufen, berufen",A,voc-,vocare
+"volō, velle, voluī",wollen,A,vel-,velle
+ad,"zu, nach",B,ad-,ad
 "adam, adimere, adēmī, aptum",nehmen (zu sich),B,adim-,adimere
 "aedificō, aedificāre, aedificāvī",bauen,B,aedific-,aedificare
-"alō, alere, al uī, alitum","nähren, ernähren",B,al-,alere
+"alō, alere, aluī, alitum","nähren, ernähren",B,al-,alere
 "amō, amāre, amāvī, amātum",lieben,B,am-,amare
 ante,"vor, vor dem",B,ant-,ante
-"appellō, appellāre, appellāvī","nennen, anrufen",B,appell-,appellare
 "apparēō, apparēre, apparuī","erscheinen, auftreten",B,appar-,apparere
+"appellō, appellāre, appellāvī","nennen, anrufen",B,appell-,appellare
 "arbor, arboris",Baum,B,arbor-,arbor
 atque,"und, auch",B,at-,atque
 "audāx, audācis","kühn, mutig",B,audāc-,audax
 "aureus, -a, -um",golden,B,aur-,aureus
+bene,gut,B,bene-,bene
 "candidus, -a, -um","hell, aufrichtig",B,candid-,candidus
 "cantō, cantāre, cantāvī",singen,B,cant-,cantare
 "cēlō, cēlāre, cēlāvī",verbergen,B,cēl-,celare
@@ -173,11 +201,14 @@ atque,"und, auch",B,at-,atque
 "conciliō, conciliāre, conciliāvī","versöhnen, vermitteln",B,concili-,concilio
 "condō, condere, condidī, conditum","gründen, einlagern",B,cond-,condo
 "cōnfīrmō, cōnfīrmāre, cōnfīrmāvī","bestätigen, bekräftigen",B,cōnfīrm-,confirmo
+"conflictus, conflictūs","Zusammenstoß, Krieg",B,conflict-,conflictus
 "cōnsilium, cōnsiliī","Ratschlag, Plan",B,cōnsi-,consilium
 "cōnspectus, -ūs","Blick, Angesicht, Einsicht",B,cōnspect-,conspectus
+"cōnsul, cōnsulis",Konsul,B,cōnsul-,consul
 "cōnsurgō, cōnsurgere, cōnsurrēxī","aufstehen, sich erheben",B,cōnsurg-,surgo
 "cōnvēnit, cōnvenīre, cōnvēnit","kommen, zusammenkommen, passen",B,cōnven-,convenio
 "copiōsus, -a, -um","reich, überreich",B,copiōs-,copia
+"cornū, cornūs",Horn,B,corn-,cornu
 "crēscō, crēscere, crēvī, crēscitum",wachsen,B,crēsc-,creesco
 "crūdēlis, crūdēle",grausam,B,crūdēl-,crudelis
 "culpa, culpae","Schuld, Vergehen",B,culp-,culpa
@@ -193,12 +224,14 @@ cum,"mit (Ablativ), als, obwohl",B,cum-,cum
 "dēscendō, dēscendere, dēscendī",hinabsteigen,B,dēscend-,scendo
 "dēspērō, dēspērāre, dēspērāvī",verzweifeln,B,dēspēr-,spes
 "dēterminō, dētermināre, dētermināvī","entscheiden, begrenzen",B,dētermin-,terminus
+"difficilis, difficile",schwierig,B,difficil-,difficilis
 "dīgnus, dīgna, dīgnum",würdig,B,dīgn-,dignus
 "dīmidium, -ī",Hälfte,B,dīmid-,dimidium
 "dīscrīmen, dīscrīminis","Unterschied, Abstand",B,dīscrīmin-,discrimen
 "dīvitēs, dīvitium",Reichtum,B,dīvit-,divitiae
 "dōnum, dōnī",Geschenk,B,dōn-,donum
 "dormiō, dormīre, dormīvī",schlafen,B,dorm-,dormio
+dum,solange,B,dum-,dum
 "ēdūcō, ēdūcere, ēdūxī, ēductum","herausführen, erziehen",B,ēdūc-,duco
 "efficere, efficiō, effēcī, effectum","bewirken, bewirken, zustande bringen",B,effici-,facio
 "effugere, effugiō, effūgī",entfliehen,B,effug-,fugio
@@ -232,10 +265,11 @@ ergō,"also, folglich",B,erg-,ergo
 "fugiō, fugere, fūgī",fliehen,B,fug-,fugio
 "fundus, fundī","Boden, Grund, Landgut",B,fund-,fundus
 "fūnus, fūneris","Begräbnis, Totenfeier",B,fūn-,funus
+"futūrus, futūra, futūrum","künftig, werdend",B,futūr-,futurus
 "glōriōsus, -a, -um",ruhmreich,B,glōriōs-,gloria
+"gradus, gradūs","Schritt, Stand",B,grad-,gradus
 "grātia, grātiae","Dank, Gunst, Gefälligkeit",B,grāti-,gratia
 "grātus, grāta, grātum","dankbar, angenehm",B,grāt-,gratus
-"gravis, grave","schwer, ernst, bedeutsam",A,grav-,gravis
 "hōspes, hōspitis","Gast, Wirt, Gastgeber",B,hospit-,hospitium
 "hūmānus, -a, -um",menschlich,B,hūmān-,humanus
 "iaceō, iacēre, iacuī","liegen, ruhen",B,iac-,iaceo
@@ -257,11 +291,14 @@ in,"in, auf (+ Akk. / Abl.)",B,in-,in
 "lapis, lapidis",Stein,B,lap-,lapis
 "lātus, lāta, lātum","breit, weit, ausführlich",B,lāt-,latus
 "lēx, lēxis",Gesetz,B,lēg-,lex
+"libellus, libellī",Büchlein,B,libell-,libellus
 "līber, līberis",frei,B,līber-,liber
 "līmēs, līmitis",Grenze,B,līmit-,limes
 "longus, longa, longum",lang,B,long-,longus
 "maior, maius",größer,B,mai-,magnus
+"manus, manūs",Hand,B,man-,manus
 "medius, media, medium","mittler, der Mittlere",B,medi-,medius
+"memoria, memoriae",Erinnerung,B,memori-,memoria
 "mēns, mentis","Verstand, Sinn",B,ment-,mens
 "mīrāculum, mīrāculī",Wunder,B,mīrācul-,miror
 "modus, modī","Maß, Art und Weise, Grenze",B,mod-,modus
@@ -269,14 +306,18 @@ in,"in, auf (+ Akk. / Abl.)",B,in-,in
 "mollis, molle","weich, sanft",B,moll-,mollis
 "mors, mortis",Tod,B,mort-,morior
 "mūtō, mūtāre, mūtāvī",verändern,B,mūt-,muto
+nam,nämlich,B,nam-,nam
 "nascor, nascī, nātus sum",geboren werden,B,nasc-,nascor
 "nāvis, nāvis",Schiff,B,nāv-,navis
 nōcte,nachts,B,noct-,nox
+nōn,nicht (beim Indikativ),B,non-,non
+"nox, noctis",Nacht,B,noct-,nox
 "nūtrix, nūtricis","Amme, Pflegerin",B,nūtric-,nutrix
 "obscūrus, -a, -um","dunkel, verborgen",B,obscūr-,obscurus
 "ōdium, ōdiī",Hass,B,ōdi-,odium
 "offīcium, offīciī","Pflicht, Amt, Dienst",B,offici-,officium
 "ōrdō, ōrdināre, ōrdināvī","ordnen, einrichten",B,ōrdin-,ordo
+"pars, partis",Teil,B,part-,pars
 "pauper, pauperis","arm, bedürftig",B,pauper-,paupertas
 "pēcūnia, pēcūniae",Geld,B,pēcūni-,pecunia
 "pēs, pedis",Fuß,B,ped-,pes
@@ -284,12 +325,16 @@ nōcte,nachts,B,noct-,nox
 "plēnus, plēna, plēnum","voll, reich an",B,plēn-,plenus
 "poena, poenae","Strafe, Buße",B,poen-,poena
 "potēns, potentis",mächtig,B,potent-,potentia
+"prīnceps, prīcipis","Fürst, Chef",B,prīncip-,princeps
+"prīncipium, prīncipiī","Anfang, Grundlage",B,prīncipi-,principium
 prōcul,weit entfernt,B,prōcul-,procul
 "pulchritūdō, pulchritūdinis",Schönheit,B,pulchritūd-,pulcher
 "pūrō, pūrāre, pūrāvī",reinigen,B,pūr-,purus
 quadrāgintā,vierzig,B,quadrāgintā-,quadraginta
+quamquam,obwohl,B,quamquam-,quamquam
 "queror, querī, querītus sum","beschweren, fragen, erkundigen",B,quer-,queror
 quīdem,"allerdings, sogar",B,quīdem-,quidem
+quod,weil,B,quod-,quod
 "rēte, rētis",Netz,B,rēt-,rete
 "rīpa, rīpae","Ufer, Flussufer",B,rīp-,ripa
 "rīvus, rīvī","Bach, Flüsschen",B,rīv-,rivus
@@ -300,6 +345,7 @@ quīdem,"allerdings, sogar",B,quīdem-,quidem
 "salūs, salūtis","Heil, Rettung, Wohlstand",B,salūt-,salus
 "sānctus, -a, -um","heilig, unantastbar",B,sānct-,sanctus
 "sanguis, sanguinis",Blut,B,sanguin-,sanguis
+"sānitas, sānitātis",Gesundheit,B,sānit-,sanitas
 "scientia, scientiae","Wissen, Wissenschaft",B,scienti-,scio
 "sēdēs, sēdis","Sitz, Wohnsitz, Residenz",B,sēd-,sedeo
 "senex, senis",Greis,B,sen-,senex
@@ -307,16 +353,17 @@ quīdem,"allerdings, sogar",B,quīdem-,quidem
 "serēnus, -a, -um","heiter, ruhig, gelassen",B,serēn-,serenus
 "serō, serere, sēvī, sēitum","säen, pflanzen",B,ser-,sero
 "servō, servāre, servāvī","bewahren, retten",B,serv-,servus
-"silva, silvae",Wald,B,silv-,silva
 sīc,so,B,sīc-,sic
 sīcut,"wie, ebenso wie",B,sīcut-,sicut
+"silva, silvae",Wald,B,silv-,silva
+"similis, simile",ähnlich,B,simil-,similis
 simul,"zugleich, zusammen",B,simul-,simul
 sine,ohne (+ Akk.),B,sin-,sine
 "sōl, sōlis",Sonne,B,sōl-,sol
 sōlum,nur,B,sōl-,solum
 "sōlus, sōla, sōlum","einzig, allein",B,sōl-,solus
-"spēs, speī",Hoffnung,B,sp-,spes
 "species, speciēi","Art, Gestalt, Sorte",B,speci-,species
+"spēs, speī",Hoffnung,B,sp-,spes
 "stāre, stō, stetī, stātum",stehen,B,stā-,sto
 "strepitus, -ūs","Lärm, Getöse",B,strepitu-,strepere
 "studium, studiī","Interesse, Eifer, Studium",B,studi-,studium
@@ -325,11 +372,13 @@ sōlum,nur,B,sōl-,solum
 "subveniō, subvenīre, subvenī",zu Hilfe kommen,B,subven-,venio
 "superior, superius","obere, überlegen",B,super-,inferior
 "sustineō, sustinēre, sustinuī","ertragen, stützen",B,sustin-,teneo
+"tablinum, tablinī",Arbeitszimmer,B,tablin-,tablinum
 "tollō, tollere, sustulī, sublātum","heben, aufnehmen, ertragen",B,toll-,ferre
 trāns,"über, jenseits, quer",B,trāns-,trans
 "trīumphus, trīumphī",Triumph,B,trīumph-,triumphus
 "turma, turmae","Schwadrone, Herde, Reiterabteilung",B,turm-,turma
 "tūtus, tūta, tūtum","sicher, unversehrt",B,tūt-,tutus
+"usus, usūs",Gebrauch,B,us-,usus
 "vānus, vāna, vānum","nichtig, eitel, vergeblich",B,vān-,vanus
 verē,"wirklich, wahrhaftig",B,verē-,verus
 "vērēcundia, -ae","Scheu, Scham, Zurückhaltung",B,vērēcundi-,verecundus
@@ -352,12 +401,14 @@ vōs,ihr,B,vōs-,vos
 "accūrātus, -a, -um","genau, sorgfältig",C,accūrāt-,cura
 "acer, acris, acre","scharf, scharfblickend",C,acr-,acer
 "admīrātiō, admīrātiōnis",Bewunderung,C,admīrāti-,admiro
+admonēre,ermahnen,C,admon-,admonere
 "adventus, adventūs","Ankunft, Herkommen",C,advent-,venio
 "aedificium, aedificiī",Gebäude,C,aedifici-,aedifico
 "aequus, aequa, aequum","gerecht, eben, gleich",C,aequ-,aequus
 "aes, aeris","Erz, Geld, Bronze",C,aer-,aes
 "aestus, aestūs","Hitze, Flut, Wellenschlag",C,aestu-,aestus
 "aetās, aetātis","Lebensalter, Zeitalter",C,aetāt-,aetas
+"agnus, agnī",Lamm,C,agn-,agnus
 "alienus, -a, -um",fremd,C,alien-,alienus
 "altus, alta, altum","hoch, tief, erhaben",C,alt-,altus
 "ambō, ambere, ambīvī, ambītum","umfassen, begehren",C,amb-,ambo
@@ -375,9 +426,10 @@ vōs,ihr,B,vōs-,vos
 "aspectus, aspectūs","Blick, Ansehen",C,aspect-,aspicio
 "asper, aspera, asperum","rau, rauh, wild",C,asper-,asper
 "assiduus, assidua, assiduum","beständig, unermüdlich",C,assidu-,assideo
+at,aber doch,C,at-,at
 "atavus, atavī",Urgroßvater,C,atav-,avus
-"atrōx, atrōcis","furchtbar, schrecklich",C,atrōc-,atrox
 "atrium, atriī","Atrium, Empfangshalle",C,atri-,atrium
+"atrōx, atrōcis","furchtbar, schrecklich",C,atrōc-,atrox
 "augeō, augēre, auxī, auctum","vermehren, steigern",C,aug-,augeo
 "aulaeum, aulaei","Vorhang, Teppich",C,aula-,aula
 "aura, aurae","Luftzug, Hauch, Ausstrahlung",C,aur-,aura
@@ -385,10 +437,11 @@ aut,oder,C,aut-,aut
 autem,"jedoch, aber",C,aut-,autem
 "avāria, avāriae","Gier, Geiz",C,avāri-,avarus
 "avarus, avara, avarum",geizig,C,avār-,avarus
-"bāsia, bāsiōrum",Küsse,C,bāsi-,basium
 "balbus, balba, balbum",stammelnd,C,balb-,balbus
 "baptisma, baptismae",Taufe,C,baptism-,baptizo
+"bāsia, bāsiōrum",Küsse,C,bāsi-,basium
 "beneficium, beneficiī","Wohltat, Verdienst",C,benefici-,bene
+"bibō, bibere",ich trinke,C,bib-,bibo
 "bīlis, bīlis","Zorn, Grimm",C,bīl-,bilis
 "brevis, breve",kurz,C,brev-,brevis
 "calamitās, calamitātis","Unglück, Katastrophe",C,calamitāt-,calamitas
@@ -399,17 +452,20 @@ autem,"jedoch, aber",C,aut-,autem
 "capitulum, capitulī","Kapitel, Hauptstück",C,capitul-,caput
 "carcer, carceris","Kerker, Gefängnis",C,carcer-,carcer
 "cārīnus, -a, -um","angenehm, liebenswürdig",C,cārīn-,carus
-"cāsus, cāsūs","Zufall, Fall, Unglücksfall",C,cās-,casus
 "castra, castrōrum",Lager,C,castr-,castrum
+"cāsus, cāsūs","Zufall, Fall, Unglücksfall",C,cās-,casus
 "catēna, catēnae",Kette,C,catēn-,catena
 "cīrcus, cīrcī","Zirkus, Rennbahn",C,cīrc-,circus
 "clāmor, clāmōris",Geschrei,C,clāmor-,clamo
 "clēmentia, clēmentiae","Milde, Nachsicht",C,clēmenti-,clemens
+coepisse,begonnen haben,C,coep-,coepi
 "cōgō, cōgere, coēgī, coāctum","zwingen, sammeln",C,cōg-,cogo
 "cōhibeō, cohibēre, cohibuī","zurückhalten, einschränken",C,cohib-,habere
 "cōlō, colere, coluī, cultum","bebauen, anbeten, verehren",C,col-,colo
 "color, colōris",Farbe,C,color-,color
 "comes, comitis","Begleiter, Gefährte",C,comit-,comitatus
+"compellō, compellere","ich zwinge, treibe",C,compell-,compello
+"cōnsuetūdō, cōnsuetūdinis",Gewohnheit,C,cōnsuetūd-,consuetudo
 "cōnvictus, convictus","überführt, überzeugt",C,convict-,convinco
 "corpus, corporis","Körper, Leiche, Truppe",C,corpor-,corpus
 "corrumpō, corrumpere, corrūpī, corruptum","verderben, entstellen",C,corrump-,rumpo
@@ -420,6 +476,7 @@ autem,"jedoch, aber",C,aut-,autem
 "cūstōs, cūstōdis","Wächter, Aufseher",C,cūstōd-,custodo
 "dāctylus, dactylī",Finger; Versfuß,C,dactyl-,dactylus
 "dēcōr, decōris","Schmuck, Anstand",C,dēcōr-,decus
+"decurrō, decurrere",ich hinunterfließe,C,decurr-,decurbo
 "dēlīberō, dēlīberāre, dēlīberāvī","erwägen, beschließen",C,dēlīber-,liber
 "dīsputātiō, disputātiōnis","Diskussion, Streitgespräch",C,disputāti-,disputo
 "doceō, docēre, docuī, doctum","lehren, belehren",C,doc-,doceo
@@ -430,14 +487,16 @@ autem,"jedoch, aber",C,aut-,autem
 "ēmō, emere, ēmī, ēmptum","kaufen, erwerben",C,em-,emo
 "ēpigramma, epigrammatis","Inschrift, Epigramm",C,epigramm-,epigramma
 "ēripiō, ēriperе, ēripuī, ēreptum","herausreißen, entreißen",C,ērip-,rapio
+et,und,C,et-,et
 "exāminō, exāmināre, exāmināvī","prüfen, untersuchen",C,exāmin-,examen
 "excessus, excessūs","Überschuss, Ausschweifung",C,excess-,excedo
 "expellō, expellere, expulī, expulsum","vertreiben, austreiben",C,expell-,pello
 "explōrō, explōrāre, explōrāvī","erforschen, auskundschaften",C,explōr-,exploro
 "exprimō, exprimere, expressī",ausdrücken,C,exprim-,primo
+falla,"Betrug, Täuschung",C,fall-,fallax
 "falsus, falsa, falsum","falsch, unecht",C,fals-,fallo
-"famēs, famis",Hunger,C,fam-,fames
 "fatālis, fatāle","schicksalhaft, todbringend",C,fatāl-,fatum
+"fauces, faucium","Rachen, Schlund",C,fauc-,fauces
 "festīnus, festīna, festīnum","eilig, beschleunigt",C,festīn-,festinus
 "fibula, fibulae","Fibel, Spange",C,fibul-,fibula
 "flāgellum, flāgellī","Peitsche, Fahne",C,flāgell-,flagellum
@@ -447,27 +506,37 @@ forās,nach außen,C,for-,foras
 "fortuitus, fortuita, fortuitum","zufällig, unerwartet",C,fortuit-,fortuna
 "frōns, frōntis","Stirn, Wetterstirn, Drohgebärde",C,frōnt-,frons
 "fructus, fructūs","Frucht, Ertrag",C,fruct-,fructus
+"fruor, fruī, frūctus sum","genießen, sich erfreuen",C,fru-,fruor
 "fugitivus, -a, -um",flüchtig,C,fugitiv-,fugio
+"fungor, fungī, fūnctus sum","erfüllen, verrichten",C,fung-,fungor
 "fur, fūris","Dieb, Räuber",C,fūr-,fur
 "garrulus, -a, -um",geschwätzig,C,garrul-,garrio
 "gener, generis","Schwiegersohn, Gattung, Art",C,gener-,gener
+"gerundīvum, gerundīvī",die zu-tuende Sache,C,gerundīv-,gerundium
 "gladius, gladiī",Schwert,C,gladi-,gladius
+gradātim,Schritt für Schritt,C,gradāt-,gradatim
 "habitō, habitāre, habitāvī","bewohnen, wohnen",C,habit-,habeo
 "hārēnō, hārēnāre, hārēnāvī","hängen bleiben, anhaften",C,hārēn-,haereo
+"haustus, haustūs","Schluck, Zug",C,haust-,haustus
 "hērēs, hērēdis",Erbe,C,hērēd-,heres
+herī,gestern,C,herī-,heri
+hodiē,heute,C,hodiē-,hodie
 "hospitium, hospitiī","Gastrecht, Herberge, Krankenhaus",C,hospiti-,hospes
 "hūmānitas, hūmānitātis","Humanität, Bildung, Milde",C,hūmānitāt-,humanus
+igitur,also,C,igitur-,igitur
 "ignōrō, ignōrāre, ignōrāvī","nicht kennen, ignorieren",C,ignōr-,nosco
+"impedīmentum, impedīmentī","Hindernis, Hemmnis",C,impedīment-,impedio
 "imperō, imperāre, imperāvī","befehlen, herrschen",C,imper-,imperium
 "implōrō, implōrāre, implōrāvī","anflehen, bitten",C,implōr-,ploro
-"impedīmentum, impedīmentī","Hindernis, Hemmnis",C,impedīment-,impedio
 "incognitus, -a, -um","unbekannt, unbemerkt",C,incognit-,cognosco
-"indīgnus, indīgna, indīgnum",unwürdig,C,indīgn-,dignus
 "indīcō, indīcere, indīxī, indictum","anzeigen, erklären, anklagen",C,indīc-,dico
+"indīgnus, indīgna, indīgnum",unwürdig,C,indīgn-,dignus
 "inītium, inītiī","Anfang, Ursprung",C,inīti-,initium
+"innocēns, innocentis",unschuldig,C,innocent-,innocens
 "īnopia, inopiae","Mangel, Not",C,inopi-,inops
 "īnstruō, īnstruere, īnstrūxī","ausrüsten, einrichten",C,īnstru-,struo
 "invidia, invidiae",Neid,C,invid-,invidus
+irascī,zürnen,C,irasc-,irascor
 "iūrō, iūrāre, iūrāvī",schwören,C,iūr-,ius
 "lapsus, lapsūs","Fall, Sturz, Verfall",C,laps-,labor
 lātē,"weit, breit",C,lāt-,latus
@@ -479,24 +548,36 @@ licet,"es ist erlaubt, man darf",C,lic-,liceo
 "litterae, litterārum",Brief; Buchstaben,C,litter-,littera
 "lūdō, lūdere, lūsī, lūsum",spielen,C,lūd-,ludus
 "lūdus, lūdī","Spiel, Wettkampf",C,lūd-,ludus
+"lupus, lupī",Wolf,C,lup-,lupus
 "maiestās, maiestātis","Majestät, Erhabenheit",C,maiestāt-,maior
 "mandō, mandāre, mandāvī","befehlen, anordnen",C,mand-,mandare
+mēmorāre,sich erinnern,C,mēmor-,memoro
+"mendācium, mendāciī",Lüge,C,mendāci-,mendacium
 "mēnsis, mēnsis",Monat,C,mēns-,mensis
 "miseria, miseriae","Elend, Unglück",C,miseri-,miser
 "moderātus, -a, -um","gemäßigt, maßvoll",C,moderāt-,modus
 "modestus, -a, -um","bescheiden, anspruchslos",C,modest-,modus
 "monstrum, monstrī","Ungeheuer, Wunderzeichen",C,monstr-,monstro
+"mōs, mōris","Sitte, Art",C,mōr-,mos
 "mūs, mūris",Maus,C,mūr-,mus
+narrare,erzählen,C,narr-,narro
+"narrātō, narrātiōnis","Erzählung, Bericht",C,narrāti-,narratio
+narrō,erzählen,C,narr-,narro
 necesse,es ist nötig,C,necess-,necesse
 nequīquam,"vergeblich, umsonst",C,nequīquam-,nequiquam
 "nēscīō, nēscīre, nēscīvī",nicht wissen,C,nesc-,scio
+"nex, necis","Tod, Gewalt",C,nec-,nex
 "notus, nota, notum","bekannt, wohlbekannt",C,not-,nosco
 nūmquam,niemals,C,nūmquam-,numquam
+"nūsus, nūsūs","Schein, Ruf",C,nūs-,nusus
 "occultus, occulta, occultum","verborgen, heimlich",C,occult-,oculto
 ōlim,"einstmals, früher, einst",C,ōlim-,olim
+"opprimō, opprimere",ich unterdrücke,C,opprim-,opprimo
 "opulēns, opulentis","reich, wohlhabend",C,opulent-,opulens
 "orātor, orātōris","Redner, Verteidiger vor Gericht",C,orāt-,oro
+"orior, orī, ortus sum","entstehen, geboren werden",C,or-,orior
 "pallium, palliī","Umhang, Tuch, Mantel",C,palli-,pallium
+parcere,verschonen,C,parc-,parco
 "parsimōnia, parsimōniae",Sparsamkeit,C,parsimōni-,parsimonia
 "patiens, patientis","geduldig, leidend, ertragend",C,patient-,patior
 "peccātor, peccātōris",Sünder,C,peccāt-,pecco
@@ -513,17 +594,23 @@ nūmquam,niemals,C,nūmquam-,numquam
 "pōmum, pōmī",Apfel,C,pōm-,pomum
 "pontifex, pontificis",Oberpriester,C,pontific-,pontifex
 "porta, portae","Tor, Pforte",C,port-,porta
+postquam,nachdem,C,postquam-,postquam
 "praeda, praedae",Beute,C,praed-,praeda
 "praesidium, praesidiī","Schutz, Besatzung, Wacht",C,praesidi-,praesideo
+probābō,"ich prüfe, ich erprobe",C,prob-,probo
 "prōdītor, prōdītōris",Verräter,C,prōdīt-,prodo
 "prōhibeō, prōhibēre, prōhibuī","verhindern, untersagen",C,prōhib-,habere
+"prōlogus, prōlogī",Vorrede,C,prōlog-,prologus
 "prōvidentia, prōvidentiae","Vorsicht, Vorsehung, Fürsorge",C,prōvidenti-,provideo
 "pūblicus, pūblica, pūblicum","öffentlich, staatlich",C,pūblic-,publicus
 "pudor, pudōris","Scham, Sittsamkeit",C,pudor-,pudor
 "pulvinār, pulvināris","Kissen, Ruheplatz",C,pulvin-,pulvinar
 "quadrātus, -a, -um",quadratisch,C,quadrāt-,quadratus
 "querēla, querēlae","Klage, Beschwerde",C,querel-,queror
+quīdam,ein gewisser,C,quidam-,quidam
 "quiēs, quiētis","Ruhe, Frieden",C,quiēt-,quies
+quisquam,irgendjemand,C,quisquam-,quisquam
+quoniam,weil,C,quoniam-,quoniam
 "rādīx, rādicis",Wurzel,C,rādic-,radix
 "rāsus, rāsa, rāsum","geschoren, kahl",C,rās-,rado
 "recēns, recentis","frisch, neu, recent",C,recēns-,recens
@@ -532,6 +619,7 @@ nūmquam,niemals,C,nūmquam-,numquam
 "relīquiō, relinquere, relīquī, relictum","hinterlassen, aufgeben",C,relinqu-,linquo
 "repellō, repellere, repulī, repulsum","zurückstoßen, abwehren",C,repell-,pello
 "revertō, vertere, revertī, versum","umkehren, wenden",C,revert-,verto
+rogāre,bitten,C,rog-,rogare
 "rūpēs, rūpis","Fels, Klippe",C,rūp-,rupes
 "salūtō, salūtāre, salūtāvī","grüßen, begrüßen",C,salūt-,salus
 "sānxī, sānxisse, sānctum","festsetzen, bestätigen, heiligen",C,sanc-,sancire
@@ -560,10 +648,12 @@ sīve,oder (nach ne ... ),C,sīv-,sive
 "supplicium, suppliciī","Strafe, Hinrichtung",C,supplici-,supplicium
 "surgō, surgere, sūrēxī, sūrēctum","aufstehen, sich erheben",C,sūrg-,surgo
 "suscitō, excitāre, excitāvī","erwecken, aufwecken",C,suscit-,cito
+"taberna, tabernae","Laden, Weinbar",C,tabern-,taberna
 "tactus, tactūs","Berührung, Gefühl",C,tact-,tango
 "tectum, tectī","Dach, Bedachung",C,tect-,tego
 "tēla, tēlae","Geschoß, Pfeil",C,tēl-,telum
 "temperō, temperāre, temperāvī","mischen, mäßigen, temperieren",C,temper-,tempero
+"tempora, tempus",Zeiten,C,tempor-,tempus
 "tēnuis, tenuis","dünn, zart, schwach",C,tenu-,tenuis
 "tergum, tergī",Rücken,C,terg-,tergum
 "terminus, termini","Grenze, Schranke, Ziel",C,termin-,terminus
@@ -583,6 +673,7 @@ unquam,niemals,C,unquam-,numquam
 "urbānus, urbāna, urbānum","städtisch, fein, gesellschaftlich",C,urbān-,urbs
 "ūrgēns, urgentis","dringend, eifrig",C,urgent-,urgo
 "ūtilis, ūtile","nützlich, brauchbar",C,ūtil-,utilis
+"utor, ūtī, ūsus sum","benutzen, sich bedienen",C,ūt-,utor
 "vacātiō, vacātiōnis","Muße, Freizeit",C,vacāti-,vaco
 "vādō, vādere, vāsī, vāsum",gehen,C,vād-,vado
 "varius, varia, varium","bunt, verschieden",C,vari-,varius
@@ -592,13 +683,14 @@ unquam,niemals,C,unquam-,numquam
 "vērus, vēra, vērum",wahr,C,vēr-,verus
 "vescōr, vescī, vēsctus sum","essen, sich ernähren",C,vesc-,vescor
 "vesper, vesperis","Abend, Abendessen",C,vesper-,vesper
+vetāre,verbieten,C,vet-,vetare
 "vēxillum, vēxillī","Fahne, Kriegszeichen",C,vēxill-,vexillum
-"vīctor, victōris","Sieger, Überwinder",C,victor-,vinco
 "victīma, victimae","Opfer, Opfer-tier",C,victim-,victima
+"vīctor, victōris","Sieger, Überwinder",C,victor-,vinco
 "vigil, vigilis","wach, wachsam",C,vigil-,vigilo
 "vīpereus, -a, -um","schlangenartig, giftig",C,vīper-,vipera
-"viscera, viscerum","Eingeweide, Inneres",C,viscer-,viscus
 "vīs, vim, vī","Kraft, Macht",C,v-,vis
+"viscera, viscerum","Eingeweide, Inneres",C,viscer-,viscus
 "vōlūbilis, vōlūbile","windig, flatterig, unbeständig",C,vōlūbil-,volvo
 "vorāx, vorācis",gefräßig,C,vorāc-,voro
 "abjectus, -a, -um","verworfen, niedrig",D,abject-,abicio
@@ -610,8 +702,10 @@ unquam,niemals,C,unquam-,numquam
 "accidō, accidere, accidī, accīdum","geschehen, zustoßen",D,accid-,cado
 "acervus, acervī","Haufen, Menge",D,acerv-,acervo
 "acidus, -a, -um","sauer, beißend",D,acid-,acidus
+"adfectus, adfectūs","Bewegung, Ergriffenheit, Zuneigung",D,adfect-,afficio
 "aequor, aequoris","Meeresfläche, offene See",D,aequor-,aequor
 "aestuō, aestuāre, aestuāvī","wallen, hitzen",D,aestu-,aestus
+"aether, aetheris","obere Luft, Himmel(sraum)",D,aether-,aether
 "āgmen, āgminis","Heerhaufen, Marschkolonne",D,āgmin-,ago
 "alacer, alacris, alacre","frisch, munter, eifrig",D,alacr-,alacer
 "alveus, alveī","Bett, Kanal, Rinne",D,alve-,alveus
@@ -622,12 +716,17 @@ unquam,niemals,C,unquam-,numquam
 "antenna, antennae","Ruderstange, Segelstange",D,antenn-,antenna
 "aper, apri","Eber, Wildschwein",D,apr-,aper
 "apertus, aperta, apertum","offen, geöffnet",D,apert-,aperio
+"arbuteus, arbuteī",Erdbeerstrauch,D,arbute-,arbuteus
+"arma, armōrum","Waffen, Krieg",D,arm-,arma
 "armentum, armentī",Herde (Zugtiere),D,arment-,armentum
 "artus, artūs","Glied, Gelenk",D,art-,artus
+"aspera, -ōrum","Wildnis, Wildland, Gelände",D,asper-,asper
 "ater, atra, atrum","schwarz, finster",D,atr-,ater
 "atramentum, atramenti","Tinte, Tusche",D,atrament-,atramentum
 "attollō, attollere, attulī, attōlsum",emporheben,D,attoll-,tollo
+"auctor, auctōris","Anstifter, Urheber",D,auct-,auctor
 "audācia, audāciae","Kühnheit, Wagnis",D,audāci-,audax
+"auferō, auferre",ich raube weg,D,aufer-,aufero
 "aurora, aurorae","Morgengrauen, Morgenröte",D,auror-,aurora
 "bāculus, bāculī","Stock, Wanderstab",D,bācul-,baculus
 "baltea, balteae","Gurt, Wehrgeurt",D,balte-,balteus
@@ -638,6 +737,8 @@ unquam,niemals,C,unquam-,numquam
 "bestia, bestiae","Tier, Bestie",D,besti-,bestia
 "cadāver, cadāveris","Leiche, Kadaver",D,cadāver-,cado
 "caecus, caeca, caecum","blind, dunkel",D,caec-,caecus
+"caelestis, caeleste",himmlisch,D,caelest-,caelestis
+"caelum, caelī",Himmel,D,cael-,caelum
 "calcar, calcāris",Sporn,D,calc-,calcar
 "calculus, calculī","Rechenstein, Kalk, kleiner Stein",D,calcul-,calculus
 "callidus, -a, -um","schlau, listig",D,callid-,callidus
@@ -645,13 +746,22 @@ unquam,niemals,C,unquam-,numquam
 "cantharus, cantharī","Krug, Trinkgefäß",D,canthar-,cantharus
 "carpō, carpere, carpsī, carptum","rupfen, ernten, pflücken",D,carp-,carpo
 "castellum, castellī","Schloss, Fort, Festung",D,castell-,castrum
+"chaos, chaōs",Urbrei,D,cha-,chaos
+"cīrus, cīrī","Küche, Küchenraum",D,cīr-,cirus
 "cohors, cohortis","Kohorte, Schar",D,cohort-,cohors
 "collum, collī","Hals, Nacken",D,coll-,collum
 "colōna, colōnae","Säule, Kolonne",D,colōn-,colona
+"compāgō, compāgāre, compāgāvī","zusammenfügen, verbinden",D,compāg-,pago
 "compendium, compendiī","Zusammenfassung, Gewinn, Abkürzung",D,compendi-,pendo
+"cōnīficiō, cōnīficere",ich rüste,D,cōnīfic-,conificio
+"coniūnctio, coniūnctiōnis","Verbindung, Verwandtschaft",D,coniūnct-,coniunctio
+"conplector, complectī","ich umfasse, nutze",D,conplect-,complector
+"cōnsonus, -a, -um","klingend, übereinstimmend",D,cōnson-,sonus
+"cōnspicō, cōnspicere",ich erblicke,D,cōnspic-,conspico
 "contāgium, contāgii","Ansteckung, Seuche",D,contāgi-,contagio
 "contāminō, contāmināre, contāmināvī","beflecken, entweihen",D,contāmin-,tango
 "contemnō, contemnere, contempsī","verachten, verachten",D,contemn-,temno
+"contineō, continēre","ich umfasse, grenze ab",D,contin-,contineo
 "corporeus, -a, -um","leiblich, körperlich",D,corpor-,corpus
 "corruptus, corrupta, corruptum","verdorben, verdorben, entstellt",D,corrupt-,corrumpo
 crās,"morgen, am nächsten Tag",D,crās-,cras
@@ -662,14 +772,19 @@ cursim,"eilig, im Lauf",D,cursim-,curro
 "cūstōdia, cūstōdiae","Wache, Haft, Bewachung",D,cūstōdi-,custos
 "dātilus, dātilī",Dattel,D,dātil-,dativus
 "delātor, delātōris","Ankläger, Denunziant",D,delāt-,defero
+"dēnuntiō, dēnuntiāre",ich verkünde,D,dēnunti-,denuntio
 "dētērō, dēterere, dēterruī","verschlechtern, abtragen",D,dēter-,deterior
 "difficultās, difficultātis","Schwierigkeit, Not",D,difficultāt-,difficilis
+"dīgredior, dīgredī, dīgressus sum","auseinandergehen, sich trennen",D,digred-,gradior
 "dīmicō, dīmicāre, dīmicāvī","kämpfen, sich stellen",D,dīmic-,dimico
-"discrimen, discrīminis","Abstand, Unterschied, Gefahr",D,discrīmin-,discrimen
 "dīspar, disparis","ungleich, verschieden",D,dispar-,pār
+"dīvidō, dīvidere",ich trenne,D,dīvid-,divido
+"effēminō, effēmināre",ich verweichlichen,D,effēmin-,effemino
+"effluō, effluere","ich verrinne, verfließe",D,efflu-,effluo
 "egressus, egressūs","Auszug, Ausgang, Rückkehr",D,egress-,egredior
 "elātus, elāta, elātum","emporgehoben, erhaben",D,elāt-,elevo
 "elūdō, elūdere, elūsī","dem Lügner entgehen, umgehen",D,elūd-,ludo
+"excīdō, excidere","ich entgleite, gehe verloren",D,excīd-,excido
 "eximius, eximia, eximium","außerordentlich, hervorragend",D,eximi-,eximius
 "expōnō, expōnere, expōsuī, expōsitum","erklären, auslegen, darlegen",D,expōn-,pono
 extemplo,"sofort, auf der Stelle",D,extempl-,templum
@@ -681,57 +796,76 @@ extemplo,"sofort, auf der Stelle",D,extempl-,templum
 frūstrā,"vergeblich, umsonst",D,frūstr-,frustra
 "fugax, fugācis",flüchtig,D,fugāc-,fugio
 "gallus, gallī",Hahn,D,gall-,gallus
+"gelidus, gelida, gelidum",kalt,D,gelid-,gelidus
 "geminus, gemina, geminum","doppelt, Zwillings-",D,gemin-,gemellus
+"genus, generis","Geschlecht, Stamm, Herkunft",D,gen-,genus
 "gnāvus, gnāva, gnāvum","müde, träge",D,gnāv-,gnavus
 "gravitās, gravitātis","Schwere, Ernst, Würde",D,gravitāt-,gravis
 "gurges, gurgitis","Strudel, Schlund",D,gurg-,gurges
 "herba, herbae","Gras, Kraut",D,herb-,herba
+"igneus, ignea, igneum",feurig,D,igne-,igneus
+"impellō, impellere",ich treibe an,D,impell-,impello
 "īnānis, īnāne","leer, nichtig, sinnlos",D,īnān-,vanus
 "incēdō, incēdere, incēssī","einhergehen, einmarschieren",D,incēd-,cedo
 "inclūdō, inclūdere, inclūsī, inclusum","einschließen, umfassen",D,inclūd-,claudo
 "īncolō, īncolere, īncoluī, īncolītum","bewohnen, wohnen",D,īncol-,colo
 "īncuria, īncuriae","Sorglosigkeit, Nachlässigkeit",D,īncuri-,cura
+"iners, inerta, inertem","träge, unwirksam",D,inert-,iners
 "īngrātus, ingrāta, ingrātum",undankbar,D,ingrāt-,gratus
+"iniciō, inicere","ich werfe hinein, beginne",D,inici-,inicio
 "inops, inopis","bedürftig, arm",D,inop-,inopia
+"insignis, insigne",ausgezeichnet,D,insign-,insignis
+"īnsum, īnsse","ich bin dabei, fröhne mich",D,īns-,insum
 "intimus, intima, intimum","innerster, engster, vertraut",D,intim-,in
 "intolerāns, intolerantis","unverträglich, ungeduldig",D,intolerānt-,fero
 "īntrā, intrō","hinein, innen",D,intrā-,intro
 "inundō, inundāre, inundāvī",überschwemmen,D,inund-,unda
 "inutilis, -e","unnütz, unbrauchbar",D,inutil-,utilis
+"iudex, iudicis",Richter,D,iudic-,iudex
 "iūgulum, iūguli","Hals, Kehle, Joch",D,iūgul-,iugum
 "iūnctus, iūncta, iūnctum","verbunden, verbunden",D,iūnct-,iungo
 "iūssus, iussus","Befehl, Anordnung",D,iuss-,iubeo
 "iuventus, iuventūtis","Jugend, Jugendalter",D,iuventūt-,iuvenis
 "labōrō, labōrāre, labōrāvī","arbeiten, sich mühen",D,labōr-,labor
+"laedō, laedere","ich verletze, kränken",D,laed-,laedo
 "lār, laris","Schrein, Hausgottheit",D,lār-,lar
 "lassus, lassa, lassum","müde, matt",D,lass-,lassus
 "laxus, laxa, laxum","locker, weit, nachlässig",D,lax-,laxus
 "legiō, legiōnis",Legion,D,legi-,legio
 "lēgūmen, lēgūminis","Hülse, Leguminose",D,lēgūmin-,legumen
 "lēvō, lēvāre, lēvāvī","heben, erleichtern",D,lev-,levis
+"līmen, līminis","Schwelle, Grenze",D,līmin-,limen
 "linea, lineae","Linie, Richtlinie",D,line-,linea
+"lītus, lītoris","Küste, Strand",D,lītor-,litus
 "lōrīca, lōrīcae","Brustpanzer, Panzer",D,lōrīc-,lorica
 "madidus, -a, -um","nass, feucht",D,madid-,madeo
 "malleus, malleī",Hammer,D,malle-,malleus
 "membrum, membrī","Glied, Teil",D,membr-,membrum
+"metus, metūs",Furcht,D,met-,metus
 "migrō, migrāre, migrāvī","wandern, ziehen",D,migr-,migro
 "minuō, minuere, minuī, minūtum","vermindern, verringern",D,minu-,minor
+"miser, misera, miserum",elend,D,miser-,miser
 "mōbilis, mōbile","beweglich, beweglich",D,mōbil-,moveo
-"molō, molere, moluī, molitum",mahlen,D,mol-,molo
 "molestus, molesta, molestum","ärgerlich, lästig",D,molest-,molestus
+"molō, molere, moluī, molitum",mahlen,D,mol-,molo
 "monstrō, monstrāre, monstrāvī","zeigen, anzeigen",D,monstr-,monstrum
+"mūsa, mūsae",Muse,D,mūs-,musa
 "mutuō, mutuāre, mutuāvī","lehnen, entlehnen",D,mutu-,mutus
+"nātus, nāti","Geburt, Geborener",D,nāt-,natus
 "nervus, nervī","Sehne, Nerv, Kraft",D,nerv-,nervus
 "nīdus, nīdī",Nest,D,nīd-,nidus
 "nimbus, nimbī","Wolke, Regenwolke",D,nimb-,nimbus
 "niveus, nivea, niveum","schneereich, weiß wie Schnee",D,nive-,nix
+"nōbilitās, nōbilitātis","Adel, Berühmtheit",D,nōbilit-,nobilitas
 "nōdus, nōdī",Knoten,D,nōd-,nodus
 "nūdus, nūda, nūdum","nackt, bloß",D,nūd-,nudus
+"nūmen, nūminis","göttliches Wesen, Gottheit",D,nūmin-,numen
 "occursus, occursūs","Begegnung, Angriff",D,occurs-,occurro
 "officina, officinae","Werkstatt, Werkstätte",D,officin-,officium
 "onerosus, onerosa, onerosum","schwer, lastend, mühsam",D,oneros-,onus
 "ops, opis","Hilfe, Macht, Mittel",D,op-,ops
 "opus, operis","Werk, Arbeit, Vorhaben",D,oper-,opus
+"ōra, ōrae","Küste, Ufer",D,ōr-,ora
 "organum, organī","Werkzeug, Organ",D,organ-,organum
 "ostendō, ostendere, ostendī, ostentum","zeigen, anzeigen",D,ostend-,tendo
 "pallidus, pallida, pallidum","bleich, blass",D,pallid-,pallesco
@@ -739,6 +873,7 @@ frūstrā,"vergeblich, umsonst",D,frūstr-,frustra
 "patrōnus, patrōnī","Schutzherr, Patron",D,patrōn-,pater
 "perfidus, perfida, perfidum","treulos, verräterisch",D,perfid-,fides
 "perimō, perimere, perēmī, perēmptum","vernichten, umbringen",D,perim-,perire
+"pietās, pietātis","Pflichtgefühl, Frömmigkeit",D,pietāt-,pietas
 "placidus, placida, placidum","ruhig, friedlich, gelassen",D,placid-,placo
 "plōrō, plōrāre, plōrāvī","weinen, beklagen",D,plōr-,ploro
 "plūma, plūmae",Feder,D,plūm-,pluma
@@ -750,9 +885,12 @@ frūstrā,"vergeblich, umsonst",D,frūstr-,frustra
 "pōtior, potius","bevorzugt, lieber",D,potior-,potis
 "praebeo, praebēre, praebuī, praebitum","darreichen, gewähren",D,praeb-,praebeo
 "praefectus, praefectī","Statthalter, Präfekt",D,praefect-,praeficio
+"praetereō, praeterire",ich gehe vorbei,D,praetere-,praetereo
+"profugus, profuga, profugum","vertrieben, flüchtig",D,profug-,profugus
 "profundus, profunda, profundum","tief,gründlich",D,profund-,fundus
 "prōgredior, prōgredī, prōgressus sum","vorrücken, fortschreiten",D,prōgred-,gradior
 "pūgnō, pugnāre, pugnāvī","kämpfen, fochten",D,pugn-,pugnus
+"pulsus, pulsa, pulsum",vertrieben,D,puls-,pello
 "punctum, punctī","Punkt, Stich, Fleck",D,punct-,pungo
 "pūrgō, pūrgāre, pūrgāvī","reinigen, läutern",D,pūrg-,purgo
 "rābiēs, rabiēi","Wut, Raserei",D,rabi-,rabies
@@ -769,6 +907,7 @@ rārō,"selten, seltenst",D,rār-,rarus
 "rōbur, rōboris","Härte, Kraft, Ausdauer",D,rōbor-,ruber
 "sagitta, sagittae",Pfeil,D,sagitt-,sagitta
 "salsus, salsa, salsum","salzig, gewürzt",D,sals-,sal
+salvē,sei gegrüßt,D,salv-,salve
 "satelles, satellitis","Bewaffneter, Leibwächter",D,satell-,satelles
 "scintilla, scintillae",Funke,D,scintill-,scintillare
 "scrīptum, scrīptī","Schrift, Schriftstück",D,scrīpt-,scribo
@@ -778,117 +917,142 @@ secundum,"nach, gemäß, entsprechend",D,secund-,secundus
 "sīmplex, simplicis","einfach, schlicht, arglos",D,simpli-,simplex
 "sistrum, sistri","Rassel, Sistrum",D,sistr-,sistrum
 "sodalis, sodālis","Genosse, Bundesgenosse",D,sodal-,sodalis
+"somnus, somnī",Schlaf,D,somn-,somnus
 "sparsus, spārsa, sparsum","verstreut, zerstreut",D,spars-,spargo
+"sphaera, sphaerae",Kugel,D,sphaer-,sphaera
 "spina, spinae","Dorn, Stachel",D,spin-,spina
 "splendeō, splendēre, splenduī","glänzen, strahlen",D,splend-,splendeo
 "stabulum, stabulī",Stall,D,stabul-,stabulum
 "stagnum, stagnī","Teich, Sumpf",D,stagn-,stagnum
 statim,"sofort, augenblicklich",D,statim-,sto
 "statua, statuae","Standbild, Statue",D,statu-,sto
-tāntum,"so viel, so sehr",D,tānt-,tantus
-"umbilīcus, umbilīci",Nabel,D,umbilic-,umbilicus
-"vulnus, vulneris",Wunde,D,vulner-,vulnus
-"adfectus, adfectūs","Bewegung, Ergriffenheit, Zuneigung",D,adfect-,afficio
-"cīrus, cīrī","Küche, Küchenraum",D,cīr-,cirus
-"compāgō, compāgāre, compāgāvī","zusammenfügen, verbinden",D,compāg-,pago
-"cōnsonus, -a, -um","klingend, übereinstimmend",D,cōnson-,sonus
+"subripiō, subripere","ich stehle, entziehe (jemandem)",D,subripi-,subripio
 "superbia, superbiae",Stolz,D,superbi-,superbus
+tāntum,"so viel, so sehr",D,tānt-,tantus
 "tīrō, tīrōnis","Rekrut, Anfänger, Neuling",D,tīrōn-,tiro
+"umbilīcus, umbilīci",Nabel,D,umbilic-,umbilicus
 "vacuus, vacua, vacuum","leer, frei, müßig",D,vacu-,vacuus
 "vagus, vaga, vagum","umherirrend, unbestimmt",D,vag-,vagus
-"aspera, -ōrum","Wildnis, Wildland, Gelände",D,asper-,asper
-"dīgredior, dīgredī, dīgressus sum","auseinandergehen, sich trennen",D,digred-,gradior
-"aliqui, aliquae, aliud","irgendein, ein gewisser",E,aliqu-,alius
+"volvō, volvere","ich drehe, wälze",D,volv-,volvo
+"vulnus, vulneris",Wunde,D,vulner-,vulnus
+"āctiō, āctiōnis","Handlung, Tat",E,ācti-,actio
 aliquando,"einstmals, irgendwann",E,aliquand-,aliquis
-aliquī,"einige, gewisse",E,aliquī-,alius
+"aliqui, aliquae, aliud","irgendein, ein gewisser",E,aliqu-,alius
+"anima, animae","Seele, Leben",E,anim-,anima
 apud,"bei, in der Nähe von, bei jemand",E,apud-,apud
+"assuefaciō, assuefacere",gewöhnen,E,assuefac-,facio
+"balneum, balneī",Bad,E,balne-,balneum
+"blandus, blanda, blandum",freundlich,E,bland-,blandus
+"calix, calicis",Kelch,E,calic-,calix
+"cāritās, cāritātis","Freundschaft, Liebe",E,caritāt-,carus
+"castrum, castrī","Lager, Festung, Schloss",E,castr-,castrum
 circiter,"ungefähr, etwa",E,circiter-,circulus
+"cōchlea, cōchleae",Purpurschnecke,E,cōchle-,cochlea
+"colloquium, colloquiī","Gespräch, Unterredung",E,colloqui-,loquor
+"conchylium, conchyliī",Muschel,E,conchyli-,conchylium
+"condiciō, condiciōnis","Bedingung, Vertrag",E,condici-,condo
+"cōnservō, cōnservāre","bewahren, erhalten",E,cōnserv-,servo
+"cōnsōlō, cōnsōlāre","ich stärke, tröste",E,cōnsōl-,consolo
+"convertō, convertere","ich wende, bekehre",E,convert-,converto
+"convīcō, convīcāre","überzeugen, überführen",E,convīc-,vinco
+"corrigō, corrigere, correxī, correctum","berichtigen, zurechtweisen",E,corrig-,rego
+"dēficiō, dēficere","ich fehle, es fehlt mir",E,dēfic-,deficio
 deinde,"danach, ferner, daraufhin",E,deind-,deinde
 dēnique,"endlich, schließlich",E,dēnique-,denique
 "diversus, -a, -um","verschieden, abweichend",E,divers-,diversus
+"domesticus, -a, -um","häuslich, innerlich, einheimisch",E,domestic-,domus
+"domina, dominae","Herrin, Dame",E,domin-,dominus
 dumtaxat,"nur, jedenfalls",E,dumtaxat-,dum
+"ecclēsia, ecclēsiae","Gemeinde, Kirche",E,ecclēsi-,ecclesia
+"ēmendō, ēmendāre, ēmendāvī","verbessern, korrigieren",E,ēmend-,emendo
+"ērudītiō, ērudītiōnis","Gelehrsamkeit, Bildung",E,ērudīti-,eruditio
+"ēvocō, ēvocāre","herausrufen, hervorrufen",E,ēvoc-,voco
 fieri,"geschehen, werden (passiv)",E,fi-,fio
 fortassis,"vielleicht, möglicherweise",E,fortassis-,forsitan
+"fruges, frugium","Frucht, Getreide",E,frug-,fruges
+"gesta, gestōrum","Taten, Heldentaten",E,gest-,gesta
 hinc,"von hier, daher",E,hinc-,hinc
 hūc,"hierher, hier",E,hūc-,huc
 ibi,"dort, da",E,ibi-,ibi
 ibidem,"ebendort, ebenda",E,ibidem-,ibi
 illīc,"dort drüben, dorthin",E,illīc-,illic
+"impetus, impetus","Ansturm, Angriff, Impuls",E,impet-,impeto
+"impinguō, impinguāre",ich fette (den Kopf),E,impingu-,impinguo
 inde,"von daher, von dort",E,inde-,inde
+"inebriō, inebriāre",ich berausche,E,inebri-,inebrio
+"inhabitō, inhabitāre",ich bewohne,E,inhabit-,inhabito
+"īnstitūtio, īnstitūtiōnis","Einrichtung, Anstalt, Erziehung",E,īnstitūti-,instituo
+"interpellō, interpellāre, interpellāvī","unterbrechen, ansprechen",E,interpell-,pello
 ita,"so, auf diese Weise",E,ita-,ita
+"lectio, lectionis","Lesen, Vorlesung, Kapitel",E,lect-,lego
+"litterātus, litterāta, litterātum","gebildet, Gelehrter",E,litterāt-,littera
+"loquor, loquī",ich spreche,E,loqu-,loquor
 magis,"mehr, lieber",E,magis-,magnus
+"margarīta, margarītae",Perle,E,margarīt-,margarita
 minus,"weniger, minder",E,minus-,minor
 mox,"bald, gleich",E,mox-,mox
+"mūnus, mūneris","Geschenk, Aufgabe, Amt",E,mūner-,munus
+"nātiō, nātiōnis",Geburt,E,nāti-,nascor
 ne,nicht (nach Verbot),E,ne-,ne
 nec,"und nicht, noch nicht",E,nec-,neque
+"negōtiō, negōtiōnis","Geschäft, Sache, Angelegenheit",E,negoti-,negotium
 neque,"und nicht, noch nicht",E,nequ-,neque
 nisi,"wenn nicht, es sei denn",E,nisi-,nisi
 nonne,nicht (in der Frage),E,nonne-,non
+"obstinātus, -a, -um","entschlossen, hartnäckig",E,obstināt-,obstinus
+"occidēns, occidentis",westlich,E,occid-,occido
 paene,"fast, beinahe",E,paen-,paene
+paenitēt,"es reut, bereut",E,paenit-,poena
+"pāscua, pāscuōrum",Weideplätze,E,pāscu-,pascuum
+"pecus, pecoris",Vieh,E,pec-,pecus
 pere,"vergeblich, auf gut Glück",E,per-,per
+"philosophia, philosophiae","Philosophie, Liebesweisheit",E,philosophi-,philosophus
 "plērī, plērae, plēra","die meisten, viele",E,plērī-,plerus
 plērumque,"meistens, gewöhnlich",E,plērī-,plerus
 posthāc,"von nun an, künftig",E,posthāc-,hac
 potius,"lieber, vielmehr",E,potius-,potis
+"praedicō, praedicāre","verkünden, vorhersagen",E,praedic-,dico
+"praestō, praestāre, praestitī","übertreffen, leisten",E,praest-,praesto
 prōinde,"demnach, folglich",E,prōinde-,inde
+"promontōrium, promontōriī",Vorgebirge,E,promontōri-,promontorium
 quoque,"auch, ebenfalls",E,quoque-,quoque
+"rēfecciō, rēficere",ich erfrische,E,rēfic-,reficio
+"referō, referre, rettulī, relātum","zurückbringen, berichten, beziehen",E,refer-,fero
+"rēficiō, rēficere",ich erfrische,E,rēfic-,reficio
 rursus,"wieder, erneut",E,rurs-,rursus
+"saeculum, saeculī","Jahrhundert, Weltalter",E,saecul-,saeculum
+"saga, sagārum",Sagen,E,sag-,saga
+"salinae, salīnārum",Salzquellen,E,salīn-,salinae
+sānē,ganz gewiss,E,sān-,sane
 satis,"genug, hinreichend",E,sat-,satis
+"schola, scholae","Schule, Schulbetrieb",E,schol-,schola
 scilicet,"nämlich, natürlich, gewiss",E,scilicet-,scio
+"scīpō, scīpere, scīvī, scītum","wissen, erfahren",E,scī-,scio
 sed,"aber, sondern, jedoch",E,sed-,sed
-sic,"so, auf diese Weise",E,sic-,sic
+"semita, semitae","Pfad, Weg",E,semit-,semita
+"septentriō, septentriōnis",Norden,E,septentri-,septentrio
+"sōllemnis, -e","feierlich, festlich",E,sōllemn-,solemnis
+"studio, studiō","eifrig, bemüht",E,studi-,studium
 subinde,"bald darauf, bald danach",E,subind-,inde
+"subsequor, subsequī",ich folge (dat.),E,subsequ-,subsequor
+tam,so sehr,E,tam-,tam
 tāmen,"dennoch, jedoch, trotzdem",E,tāmen-,tamen
 tanquam,"gleichsam, wie, als ob",E,tanquam-,quam
 tōtum,"ganz, das Ganze",E,tōt-,totus
+"trānsfigūrō, trānsfigūrāre","umgestalten, verwandeln",E,trānsfigur-,figuro
+"tribulō, tribulāre","ich bedrücke, quäle",E,tribul-,tribulo
 ubī,"wo, wohin",E,ubī-,ubi
 ūllus,"irgendeiner, irgendein",E,ūll-,ullus
+"ūmbra, ūmbrae",Schatten,E,ūmbr-,umbra
+"ūna, ūnae",die Maische (Fisch),E,ūn-,una
 undīque,"überall, allenthalben",E,undīqu-,undique
 ut,"dass, damit, wie, sobald",E,ut-,ut
+"ūtilitas, ūtilitātis","Nützlichkeit, Nutzen",E,ūtilitāt-,utilis
 utīnam,"wenn doch, hoffentlich",E,utīnam-,utinam
 vēl,"oder, lieber",E,vēl-,vel
+"vērēcundus, -a, -um","bescheiden, zurückhaltend",E,vērēcund-,verecundus
 vicissim,"wechselweise, gegenseitig",E,vicissim-,vicis
+"victōria, victōriae","Sieg, Erfolg",E,victōri-,victor
 vix,"kaum, scarcely",E,vix-,vix
 vōbīs,euch (Dat./Akk.),E,vōb-,vos
-"castrum, castrī","Lager, Festung, Schloss",E,castr-,castrum
-"condiciō, condiciōnis","Bedingung, Vertrag",E,condici-,condo
-"ecclēsia, ecclēsiae","Gemeinde, Kirche",E,ecclēsi-,ecclesia
-"mūnus, mūneris","Geschenk, Aufgabe, Amt",E,mūner-,munus
-"nātiō, nātiōnis",Geburt,E,nāti-,nascor
-"saeculum, saeculī","Jahrhundert, Weltalter",E,saecul-,saeculum
-"sōllemnis, -e","feierlich, festlich",E,sōllemn-,solemnis
-"victōria, victōriae","Sieg, Erfolg",E,victōri-,victor
 "vox, vocis","Stimme, Wort, Ruf",E,voc-,vox
-"cāritās, cāritātis","Freundschaft, Liebe",E,caritāt-,carus
-"ērudītiō, ērudītiōnis","Gelehrsamkeit, Bildung",E,ērudīti-,eruditio
-"īnstitūtio, īnstitūtiōnis","Einrichtung, Anstalt, Erziehung",E,īnstitūti-,instituo
-"litterātus, litterāta, litterātum","gebildet, Gelehrter",E,litterāt-,littera
-"philosophia, philosophiae","Philosophie, Liebesweisheit",E,philosophi-,philosophus
-"schola, scholae","Schule, Schulbetrieb",E,schol-,schola
-"ūtilitas, ūtilitātis","Nützlichkeit, Nutzen",E,ūtilitāt-,utilis
-"praestō, praestāre, praestitī","übertreffen, leisten",E,praest-,praesto
-"referō, referre, rettulī, relātum","zurückbringen, berichten, beziehen",E,refer-,fero
-"trānsfigūrō, trānsfigūrāre","umgestalten, verwandeln",E,trānsfigur-,figuro
-"interpellō, interpellāre, interpellāvī","unterbrechen, ansprechen",E,interpell-,pello
-"ēmendō, ēmendāre, ēmendāvī","verbessern, korrigieren",E,ēmend-,emendo
-"corrigō, corrigere, correxī, correctum","berichtigen, zurechtweisen",E,corrig-,rego
-"studio, studiō","eifrig, bemüht",E,studi-,studium
-"lectio, lectionis","Lesen, Vorlesung, Kapitel",E,lect-,lego
-"colloquium, colloquiī","Gespräch, Unterredung",E,colloqui-,loquor
-"domesticus, -a, -um","häuslich, innerlich, einheimisch",E,domestic-,domus
-"domina, dominae","Herrin, Dame",E,domin-,dominus
-"negōtiō, negōtiōnis","Geschäft, Sache, Angelegenheit",E,negoti-,negotium
-"scīpō, scīpere, scīvī, scītum","wissen, erfahren",E,scī-,scio
-"utilis, ūtile",nützlich,E,ūtil-,utilis
-"ūxor, œxoris","Ehefrau, Gattin",E,uxor-,uxor
-"cōnservō, cōnservāre","bewahren, erhalten",E,cōnserv-,servo
-"obstinātus, -a, -um","entschlossen, hartnäckig",E,obstināt-,obstinus
-"convīcō, convīcāre","überzeugen, überführen",E,convīc-,vinco
-paenitēt,"es reut, bereut",E,paenit-,poena
-"assuefaciō, assuefacere",gewöhnen,E,assuefac-,facio
-"ālō, alere",nähren,E,al-,alere
-"ēvocō, ēvocāre","herausrufen, hervorrufen",E,ēvoc-,voco
-"impetus, impetus","Ansturm, Angriff, Impuls",E,impet-,impeto
-"decōr, decōris","Schmuck, Anstand",E,dēcōr-,decus
-"praedicō, praedicāre","verkünden, vorhersagen",E,praedic-,dico
-"vērēcundus, -a, -um","bescheiden, zurückhaltend",E,vērēcund-,verecundus

@@ -27,7 +27,7 @@ Nach diesem Kapitel kannst du:
 **mūsa, -ae** *f.* — Muse · **cāusa, -ae** *f.* — Grund, Ursache ·
 **nūmen, nūminis** *n.* — göttliches Wesen, Gottheit ·
 **laedō, laedere** — ich verletze, kränken · **doleō, dolēre** — ich leide, betrauere ·
-**rēgīna, -ae** *f.* — Königin · **volvō, vertere** — ich drehe, wälze ·
+**rēgīna, -ae** *f.* — Königin · **volvō, volvere** — ich drehe, wälze ·
 **cāsus, -ūs** *m.* — Fall, Geschick · **insignis, -e** — ausgezeichnet ·
 **pietās, -ātis** *f.* — Pflichtgefühl, Frömmigkeit · **labor, labōris** *m.* — Mühe, Arbeit ·
 **impellō, impellere** — ich treibe an · **animī, -ōrum** *m.* — Sinn, Gemüt (Pl.) ·
