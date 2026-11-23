@@ -34,4 +34,10 @@ CHECK_ANSWERS_C = {
  "4": "Musterantwort: Als **Nachschlagewerk** genügt der Formenspiegel vollkommen — das ist genau sein Zweck. **Auswendernennen** bringt nur dann etwas, wenn man die Form **aktiv** bildet: Erst das Schreiben zwingt zur Entscheidung über Kasus, Tempus und Konjugation. Für die Prüfung heißt das: Der Formenspiegel ist während der Prüfung **zuzulassen** — die Prüfung prüft das Anwenden, nicht das Auswendernennen.",
  "5": "Musterantwort: Ja, und zwar **verplant**: rund **120 Minuten** für 43 Aufgaben. Rechne die **Übersetzung (45 Minuten)** zuerst fest — sie ist der teuerste Brocken. Der Rest: Formenaufgaben und Verständnisfragen. Ein Zeitplan, der die Übersetzung erst „wenn Zeit übrig ist\" vorsieht, ist keiner: Dann fehlen am Ende genau die 30 Punkte, an denen man nichts verloren hat.",
 },
+
+# ---------------------------------------------------------------- Kapitel 55
+"55": {
+ "1": "Musterantwort: **Abrufen** schlägt **Wiederholen**, weil Lesen eine wiedererkennende Tätigkeit ist, das Abrufen aber eine **erzeugende**: Erst beim Lösen muss der Leser die Form selbst bilden — also die Entscheidung über Kasus, Tempus und Konjugation selbst treffen. Das ist der Grund, warum dieses Buch in jedem Kapitel ein Wiederholungsfach hat und warum die Gesamtprüfung ohne Hilfsmittel geschrieben wird.",
+ "2": "Musterantwort: Die Lektürekapitel sind **gekürzt**, damit die Formen in der kurzen Zeit **aktualisiert** werden: Ein gekürzter Text lässt sich in Sitzungen wiederholen, ein vollständiger nicht. Nach mehreren Durchgängen kennt der Leser die Formen so gut, dass der **Originaltext** wieder lesbar wird — die Kürzung ist die Vorstufe, nicht der Ersatz. Die Volltexte stehen deshalb in den angegebenen Ausgaben.",
+},
 }

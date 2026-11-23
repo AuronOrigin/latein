@@ -1,7 +1,7 @@
 ---
 title: 50. Anhang I — Vokabelverzeichnis
 part: Teil VI – Anhänge
-subtitle: 893 Kernvokabeln in fünf Stufen — von der Grundlage bis zur Zusatzlektüre
+subtitle: 1057 Kernvokabeln in fünf Stufen — von der Grundlage bis zur Zusatzlektüre
 ---
 
 :::ziel Lernziele
@@ -12,11 +12,11 @@ Nach diesem Anhang kannst du:
 :::
 
 :::wortschatz
-**Stufe A (151 Wörter)** — Grundwortschatz: die häufigsten Verben und Substantive, ohne die kein Satz steht ·
-**Stufe B (192 Wörter)** — Grundwortschatz: das Rüstzeug des Alltags und der einfachen Erzählung ·
-**Stufe C (259 Wörter)** — Lesewortschatz: das Vokabular der antiken Originaltexte ·
-**Stufe D (197 Wörter)** — Vertiefung: Fachwörter, seltene Verben, poetische Bildungen ·
-**Stufe E (94 Wörter)** — Zusatzlektüre: Mittellatein, Neulatein und spätantike Sonderformen
+**Stufe A (176 Wörter)** — Grundwortschatz: die häufigsten Verben und Substantive, ohne die kein Satz steht ·
+**Stufe B (216 Wörter)** — Grundwortschatz: das Rüstzeug des Alltags und der einfachen Erzählung ·
+**Stufe C (302 Wörter)** — Lesewortschatz: das Vokabular der antiken Originaltexte ·
+**Stufe D (242 Wörter)** — Vertiefung: Fachwörter, seltene Verben, poetische Bildungen ·
+**Stufe E (121 Wörter)** — Zusatzlektüre: Mittellatein, Neulatein und spätantike Sonderformen
 :::
 
 ## Wie man dieses Verzeichnis benutzt
@@ -97,7 +97,7 @@ Die Lösungen zu **Übungsblock**, **Wiederholungsfach** und **Prüfungscheck** 
 :::
 
 :::vertiefung
-- **Anki-Export:** `build/build.py --anki` erzeugt unter `build/anki/` vier Stapeldateien: `latein_de_lat.csv` und `latein_lat_de.csv` mit **allen 893** Vokabeln sowie `latein_kern_de_lat.csv` und `latein_kern_lat_de.csv` mit dem **Kern (602, Stufen A–C)**. Jede Karte trägt den Stufen-Tag `stufe-A` bis `stufe-E` — damit kannst du in Anki nach Etappe filtern.
+- **Anki-Export:** `build/build.py --anki` erzeugt unter `build/anki/` vier Stapeldateien: `latein_de_lat.csv` und `latein_lat_de.csv` mit **allen 1057** Vokabeln sowie `latein_kern_de_lat.csv` und `latein_kern_lat_de.csv` mit dem **Kern (694, Stufen A–C)**. Jede Karte trägt den Stufen-Tag `stufe-A` bis `stufe-E` — damit kannst du in Anki nach Etappe filtern.
 - **Spaced Repetition:** Der Plan zum Einordnen steht im Vorwort; Stufe A zuerst, Stufe E zuletzt.
 - **Zum Vertiefen:** Die Wortfamilien der Stufe C sind der beste Einstieg in Ovids und Vergils poetische Bildungen.
 :::

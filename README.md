@@ -194,6 +194,9 @@ umfasst 43 Aufgaben in den Teilen A–D (100 Punkte).
 
 ## Veröffentlichung
 
+Die fertigen Dateien liegen als Release bereit:
+**[github.com/AuronOrigin/latein/releases/tag/v1.0.0](https://github.com/AuronOrigin/latein/releases/tag/v1.0.0)**
+
 Jedes Release dieses Repositories enthält alle Ausgabeformate als
 downloadbare Dateien:
 
