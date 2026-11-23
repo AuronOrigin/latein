@@ -129,7 +129,7 @@ RANGES = [
     (2, 20, "Teil I — Die Sprache im Kopf  ·  Teil II — Formenlehre"),
     (21, 39, "Teil III — Syntax  ·  Teil IV — Die Kunst der Übersetzung"),
     (40, 49, "Teil V — Lektüre"),
-    (50, 54, "Teil VI — Anhänge"),
+    (50, 55, "Teil VI — Anhänge"),
 ]
 
 RANG = {"mikro": 0, "speziell": 1, "uebung": 2, "wiederholung": 3, "check": 4}
@@ -179,7 +179,7 @@ Ein **richtiges** Ergebnis bringt dir einen Punkt. Eine **begründete** Lösung 
 :::
 
 :::info Der Weg durch dieses Buch
-Die Kapitel 01–53 enthalten **Aufgaben ohne Lösungen** — so kannst du sie bearbeiten, ohne in die falsche Ecke zu schauen. Hinter jedem Aufgabenblock steht ein kurzer Verweis hierher. Diese Lösungen sind nach Kapiteln geordnet: Springe mit dem Inhaltsverzeichnis direkt zu dem Kapitel, bei dem du unsicher warst.
+Die Kapitel 1–55 enthalten **Aufgaben ohne Lösungen** — so kannst du sie bearbeiten, ohne in die falsche Ecke zu schauen. Hinter jedem Aufgabenblock steht ein kurzer Verweis hierher. Diese Lösungen sind nach Kapiteln geordnet: Springe mit dem Inhaltsverzeichnis direkt zu dem Kapitel, bei dem du unsicher warst.
 :::
 
 """
@@ -233,7 +233,11 @@ for lo, hi, name in RANGES:
             else:
                 out.append("### " + LABEL[kind])
             out.append("")
-            out.append(":::loesung %s (Kapitel %02d)" % (LABEL[kind], n))
+            # Die Abschnittsnummer (## 02 — …) bleibt zweistellig, weil die
+            # Verweise aus den Kapiteln darauf zeigen; die Fliesstextreferenz
+            # auf die Kapitelzahl folgt der Konvention des uebrigen Buches
+            # ohne fuehrende Null.
+            out.append(":::loesung %s (Kapitel %d)" % (LABEL[kind], n))
             out.append("")
             out.append(body.strip())
             out.append(":::")
@@ -272,7 +276,7 @@ out.append("4. Was ist die Regel „Form → Funktion → Bedeutung\"? ______")
 out.append(":::")
 out.append("")
 out.append(":::loesung Wiederholungsfach (Anhang V selbst)")
-out.append("1. 55 (Kapitel 00 bis 54). 2. Anhang V (Kapitel 54). 3. 100 Punkte. 4. Erst die Form (Endung, Stamm), dann die Funktion im Satz, dann die Bedeutung — wer bei der Form stehen bleibt, lernt nur Deklination.")
+out.append("1. 56 (Kapitel 0 bis 55). 2. Anhang V (Kapitel 54). 3. 100 Punkte. 4. Erst die Form (Endung, Stamm), dann die Funktion im Satz, dann die Bedeutung — wer bei der Form stehen bleibt, lernt nur Deklination.")
 out.append(":::")
 out.append("")
 out.append(":::loesung Prüfungscheck (Anhang V selbst)")
@@ -293,7 +297,7 @@ out.append(":::")
 out.append("")
 out.append(":::vertiefung")
 out.append("- **Der Plan für die zweite Runde:** Nach vier Wochen dieselbe Gesamtprüfung noch einmal, ohne Hilfen. Der Unterschied zwischen den beiden Punktzahlen zeigt deinen Fortschritt besser als jede einzelne Note.")
-out.append("- **Noch nicht sitzend?** Arbeite die Kapitel 04–12 (Baukasten, Deklination, Verb) und 22–30 (Syntax) in dieser Reihenfolge durch. Das ist der schnellste Weg von 45 auf 75 Punkte.")
+out.append("- **Noch nicht sitzend?** Arbeite die Kapitel 4–12 (Baukasten, Deklination, Verb) und 22–30 (Syntax) in dieser Reihenfolge durch. Das ist der schnellste Weg von 45 auf 75 Punkte.")
 out.append("- **Für Fortgeschrittene:** Übersetze die Lektüretexte aus Kapitel 40–49 **ohne** Vokabelhilfe und vergleiche deine Fassung mit der Wort-für-Wort-Übersetzung im Buch. Das ist die eigentliche Lesekompetenz.")
 out.append(":::")
 

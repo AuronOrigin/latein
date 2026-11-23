@@ -90,7 +90,7 @@ TEIL III  SYNTAX                  Die sechs Fälle, Passiv, Infinitiv, Nebensät
 TEIL IV   ÜBERSETZUNG             Die Werkzeuge des Übersetzers (Kap. 37–39)
 TEIL V    LEKTÜRE                 Zehn Texte, von der Fabel bis zum Neulatein (Kap. 40–49)
 TEIL VI   ANHÄNGE                 Vokabeln, Glossar, Formenspiegel, Gesamtprüfung,
-                                 Lösungen zu allen Übungen (Kap. 50–54)
+                                 Lösungen zu allen Übungen, Literatur (Kap. 50–55)
 ```
 
 ## Zum Schluss

@@ -36,7 +36,7 @@ Ein **richtiges** Ergebnis bringt dir einen Punkt. Eine **begründete** Lösung 
 :::
 
 :::info Der Weg durch dieses Buch
-Die Kapitel 1–53 enthalten **Aufgaben ohne Lösungen** — so kannst du sie bearbeiten, ohne in die falsche Ecke zu schauen. Hinter jedem Aufgabenblock steht ein kurzer Verweis hierher. Diese Lösungen sind nach Kapiteln geordnet: Springe mit dem Inhaltsverzeichnis direkt zu dem Kapitel, bei dem du unsicher warst.
+Die Kapitel 1–55 enthalten **Aufgaben ohne Lösungen** — so kannst du sie bearbeiten, ohne in die falsche Ecke zu schauen. Hinter jedem Aufgabenblock steht ein kurzer Verweis hierher. Diese Lösungen sind nach Kapiteln geordnet: Springe mit dem Inhaltsverzeichnis direkt zu dem Kapitel, bei dem du unsicher warst.
 :::
 
 
@@ -2149,6 +2149,39 @@ quī ──────────── Hauptsatz-Subjekt
 4. *(siehe Musterlösung)* — Hast du eine **Nacharbeitliste** — mit Kapitelzahlen — angelegt?
 :::
 
+## 55 — Anhang VI — Literatur und weiterführende Hinweise
+
+### Übungsblock
+
+:::loesung Übungsblock (Kapitel 55)
+
+**A. Lehrwerke vergleichen**
+1. **Lingua Latina per se illustrata** von Hans Ørberg — das einzige der genannten Werke, das **ohne Übersetzungshilfe** auskommt: Der Text wird von Anfang an lateinisch geboten, die Übersetzung entsteht beim Lesen aus dem Verständnis. 2. **Cambridge Latin Course** — es erzählt eine **durchgehende Geschichte** (Caecilius und Pompeji) statt einzelner Übungssätze.
+3. **Erstens** decken die häufigsten Wörter den größten Teil der Texte ab: 1000 Wörter tragen rund 70 % des geschriebenen Lateins, 500 zufällig gewählte dagegen weit weniger. **Zweitens** sortiert die Frequenzliste nach **Lernaufwand**: häufige Wörter sind meist kurze, regelmäßige Formen — sie sitzen schneller. Eine alphabetische Liste verteilt den Aufwand stattdessen gleichmäßig und nutzt ihn besser.
+
+**B. Frequenzstufen anwenden**
+4. **1000 Wörter** — sie decken rund 70 % des geschriebenen Lateins ab.
+5. Weil die **Häufigkeit** bestimmt, wie viel Text ein Wort erschließt. Wer zuerst Stufe A (176 Wörter) lernt, kann den Großteil der einfachen Texte lesen; alphabetisch gesortet hinge das Lernen davon ab, in welchem Buchstaben das Wort fällt. Die Stufen sind zugleich **Prüfpunkte**: Wer Stufe A sicher beherrscht, liest die allermeisten Texte.
+:::
+
+### Wiederholungsfach
+
+:::loesung Wiederholungsfach (Kapitel 55)
+
+1. **194** Fachbegriffe umfasst das Glossar (Anhang II).
+2. **Verteiltes Lernen** schlägt Massed Practice — kurze Einheiten an mehreren Tagen bringen mehr als ein langer Block. **Abrufen** schlägt Wiederholen — die Prüfung wirkt stärker als das erneute Lesen. Dazu kommt der **Frequenzaufbau**: der Wortschatz folgt der Häufigkeit, nicht dem Alphabet.
+3. Die **Vulgata** — die lateinische Bibelübersetzung des Johannes, in Kapitel 48 behandelt.
+4. **Ørbergs *Lingua Latina per se illustrata*.**
+:::
+
+### Prüfungscheck
+
+:::loesung Prüfungscheck (Kapitel 55)
+
+1. Musterantwort: **Abrufen** schlägt **Wiederholen**, weil Lesen eine wiedererkennende Tätigkeit ist, das Abrufen aber eine **erzeugende**: Erst beim Lösen muss der Leser die Form selbst bilden — also die Entscheidung über Kasus, Tempus und Konjugation selbst treffen. Das ist der Grund, warum dieses Buch in jedem Kapitel ein Wiederholungsfach hat und warum die Gesamtprüfung ohne Hilfsmittel geschrieben wird.
+2. Musterantwort: Die Lektürekapitel sind **gekürzt**, damit die Formen in der kurzen Zeit **aktualisiert** werden: Ein gekürzter Text lässt sich in Sitzungen wiederholen, ein vollständiger nicht. Nach mehreren Durchgängen kennt der Leser die Formen so gut, dass der **Originaltext** wieder lesbar wird — die Kürzung ist die Vorstufe, nicht der Ersatz. Die Volltexte stehen deshalb in den angegebenen Ausgaben.
+:::
+
 ## Der Lösungsanhang selbst
 
 :::uebung
@@ -2180,7 +2213,7 @@ quī ──────────── Hauptsatz-Subjekt
 :::
 
 :::loesung Wiederholungsfach (Anhang V selbst)
-1. 55 (Kapitel 00 bis 54). 2. Anhang V (Kapitel 54). 3. 100 Punkte. 4. Erst die Form (Endung, Stamm), dann die Funktion im Satz, dann die Bedeutung — wer bei der Form stehen bleibt, lernt nur Deklination.
+1. 56 (Kapitel 0 bis 55). 2. Anhang V (Kapitel 54). 3. 100 Punkte. 4. Erst die Form (Endung, Stamm), dann die Funktion im Satz, dann die Bedeutung — wer bei der Form stehen bleibt, lernt nur Deklination.
 :::
 
 :::loesung Prüfungscheck (Anhang V selbst)

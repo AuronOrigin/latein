@@ -1,7 +1,7 @@
 ---
 title: 51. Anhang II — Glossar der Fachbegriffe
 part: Teil VI – Anhänge
-subtitle: 182 Begriffe der lateinischen Grammatik, Rhetorik und Sprachgeschichte
+subtitle: 194 Begriffe der lateinischen Grammatik, Rhetorik und Sprachgeschichte
 ---
 
 :::ziel Lernziele
