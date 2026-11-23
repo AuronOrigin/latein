@@ -27,7 +27,7 @@ python3 build/build.py --all
 
 | Datei | Inhalt | Größe |
 |---|---|---|
-| `dist/latein.pdf` | Druckfassung mit Lesezeichen, 319 Seiten | ~1,2 MB |
+| `dist/latein.pdf` | Druckfassung mit Lesezeichen, 329 Seiten | ~1,2 MB |
 | `dist/latein.epub` | EPUB 3 für E-Reader und Tablets | ~319 KB |
 | `dist/latein.html` | self-contained, druckoptimiert | ~958 KB |
 | `build/anki/*.csv` | vier Anki-Stapel (siehe unten) | |
